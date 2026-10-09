@@ -1,0 +1,2963 @@
+{
+  "design": {
+    "year_start": 2017,
+    "year_end": 2025,
+    "vaccine_start": "2024-02-01",
+    "months_series": 108,
+    "agegroup_target": "10-14",
+    "agegroups_comparison": [
+      "05-09",
+      "15-19",
+      "20-29",
+      "30-39",
+      "40-49",
+      "50-59"
+    ],
+    "threshold_coverage_sensitivity": 0.2
+  },
+  "samp": {
+    "municipalities_sample_main": 3340,
+    "municipalities_first_phase": 521,
+    "municipalities_never_included": 2819,
+    "municipalities_expanded": 2230,
+    "municipalities_included_total": 2751,
+    "pop_target_first_phase_2024": 3337122,
+    "pop_target_comparison_2024": 3778775,
+    "admissions_5a59": 166741,
+    "admissions_agegroup_target": 19307,
+    "cases_probable": 5216359,
+    "admissions_target_treated_post": 3633,
+    "admissions_target_comparison_post": 3082,
+    "deaths_target_series": 89,
+    "deaths_target_treated_post": 23,
+    "deaths_target_comparison_post": 9
+  },
+  "coverage": {
+    "d1_total": 5845280,
+    "d2_total": 3021873,
+    "pct_d1_agegroup_target": 83.72397901,
+    "pct_d2_agegroup_target": 77.5802954,
+    "peak_d1_month": "2024-04",
+    "peak_d1_doses_all_ages": 699311,
+    "peak_d1_doses_agegroup_target": 541737,
+    "pct_d1_em_municipalities_da_lst_official": 95.03265883,
+    "pct_d1_em_municipalities_first_phase": 38.52556251,
+    "cov_d1_dec2025_first_phase": {
+      "weighted_by_population": 51.92327855,
+      "mean_between_municipalities": 59.70554182,
+      "median_between_municipalities": 58.81561238
+    },
+    "cov_d1_dec2025_never": {
+      "weighted_by_population": 4.60681033,
+      "mean_between_municipalities": 6.02279839,
+      "median_between_municipalities": 3.14465409
+    },
+    "cov_d2_dec2025_first_phase": {
+      "weighted_by_population": 28.60616534,
+      "mean_between_municipalities": 34.0764534,
+      "median_between_municipalities": 32.42473556
+    },
+    "cov_d2_dec2025_never": {
+      "weighted_by_population": 1.74017063,
+      "mean_between_municipalities": 2.25948368,
+      "median_between_municipalities": 1.17924528
+    },
+    "municipalities_with_coverage_100pct": 20
+  },
+  "main_effect": {
+    "admissions_sih": {
+      "val": 0.71144033,
+      "cint_lwr": 0.61895064,
+      "cint_upr": 0.81775075,
+      "p": 1.65445764e-06,
+      "reduction_pct": 28.85596655
+    },
+    "cases_probable_sinan": {
+      "val": 0.86776783,
+      "cint_lwr": 0.81863252,
+      "cint_upr": 0.9198523,
+      "p": 1.84999597e-06,
+      "reduction_pct": 13.22321693
+    },
+    "cases_severe_sinan": {
+      "val": 0.83019367,
+      "cint_lwr": 0.66806175,
+      "cint_upr": 1.0316734,
+      "p": 0.09320746,
+      "reduction_pct": 16.98063264
+    },
+    "hospitalized_sinan": {
+      "val": 0.75967652,
+      "cint_lwr": 0.66976516,
+      "cint_upr": 0.86165786,
+      "p": 1.896e-05,
+      "reduction_pct": 24.03234801
+    }
+  },
+  "effect_by_season": {
+    "season_2024": {
+      "val": 0.72720928,
+      "cint_lwr": 0.61370741,
+      "cint_upr": 0.86170271,
+      "p": 0.000234
+    },
+    "season_2025": {
+      "val": 0.67272527,
+      "cint_lwr": 0.58380066,
+      "cint_upr": 0.7751949,
+      "p": 4.24658988e-08
+    }
+  },
+  "event_study": {
+    "att_reanchored": {
+      "val": 0.77431941,
+      "cint_lwr": 0.68144576,
+      "cint_upr": 0.87985073,
+      "p": 8.723e-05
+    },
+    "wald_pre_chi2": 38.07936784,
+    "wald_pre_gl": 23,
+    "wald_pre_p": 0.02497687,
+    "flatness_chi2": 23.95225969,
+    "flatness_p": 0.29537744,
+    "trend_linear_pre": 0.00619022,
+    "trend_linear_p": 0.43416801,
+    "coefficients_reanchored": [
+      {
+        "k": -24,
+        "RR": 0.98003652,
+        "cint_lwr": 0.94405958,
+        "cint_upr": 1.01738449
+      },
+      {
+        "k": -23,
+        "RR": 0.9243582,
+        "cint_lwr": 0.71982151,
+        "cint_upr": 1.18701383
+      },
+      {
+        "k": -22,
+        "RR": 0.91879163,
+        "cint_lwr": 0.72017726,
+        "cint_upr": 1.17218094
+      },
+      {
+        "k": -21,
+        "RR": 0.96683744,
+        "cint_lwr": 0.73224893,
+        "cint_upr": 1.27658042
+      },
+      {
+        "k": -20,
+        "RR": 0.75641886,
+        "cint_lwr": 0.54987921,
+        "cint_upr": 1.04053668
+      },
+      {
+        "k": -19,
+        "RR": 1.3132529,
+        "cint_lwr": 0.96797934,
+        "cint_upr": 1.78168386
+      },
+      {
+        "k": -18,
+        "RR": 1.23489151,
+        "cint_lwr": 0.80564057,
+        "cint_upr": 1.89285037
+      },
+      {
+        "k": -17,
+        "RR": 1.35258339,
+        "cint_lwr": 0.77663166,
+        "cint_upr": 2.35566218
+      },
+      {
+        "k": -16,
+        "RR": 1.378109,
+        "cint_lwr": 0.79839877,
+        "cint_upr": 2.37874167
+      },
+      {
+        "k": -15,
+        "RR": 1.27590149,
+        "cint_lwr": 0.77050232,
+        "cint_upr": 2.11280947
+      },
+      {
+        "k": -14,
+        "RR": 0.92337463,
+        "cint_lwr": 0.5800584,
+        "cint_upr": 1.46988769
+      },
+      {
+        "k": -13,
+        "RR": 1.04884416,
+        "cint_lwr": 0.7472796,
+        "cint_upr": 1.47210505
+      },
+      {
+        "k": -12,
+        "RR": 0.79494874,
+        "cint_lwr": 0.58819222,
+        "cint_upr": 1.07438263
+      },
+      {
+        "k": -11,
+        "RR": 0.92522688,
+        "cint_lwr": 0.71794246,
+        "cint_upr": 1.1923585
+      },
+      {
+        "k": -10,
+        "RR": 0.77816691,
+        "cint_lwr": 0.58371957,
+        "cint_upr": 1.03738809
+      },
+      {
+        "k": -9,
+        "RR": 0.84063117,
+        "cint_lwr": 0.60218259,
+        "cint_upr": 1.17349914
+      },
+      {
+        "k": -8,
+        "RR": 1.27312694,
+        "cint_lwr": 0.90685332,
+        "cint_upr": 1.78733669
+      },
+      {
+        "k": -7,
+        "RR": 0.96485492,
+        "cint_lwr": 0.6015742,
+        "cint_upr": 1.54751487
+      },
+      {
+        "k": -6,
+        "RR": 1.57707249,
+        "cint_lwr": 0.98756396,
+        "cint_upr": 2.51847753
+      },
+      {
+        "k": -5,
+        "RR": 0.90792472,
+        "cint_lwr": 0.5390895,
+        "cint_upr": 1.52911026
+      },
+      {
+        "k": -4,
+        "RR": 0.99254226,
+        "cint_lwr": 0.54393847,
+        "cint_upr": 1.81112422
+      },
+      {
+        "k": -3,
+        "RR": 1.47101224,
+        "cint_lwr": 0.74851228,
+        "cint_upr": 2.89090382
+      },
+      {
+        "k": -2,
+        "RR": 1.21789484,
+        "cint_lwr": 0.79102019,
+        "cint_upr": 1.87513273
+      },
+      {
+        "k": 0,
+        "RR": 1.13889166,
+        "cint_lwr": 0.92639458,
+        "cint_upr": 1.40013148
+      },
+      {
+        "k": 1,
+        "RR": 0.74923714,
+        "cint_lwr": 0.60424297,
+        "cint_upr": 0.9290241
+      },
+      {
+        "k": 2,
+        "RR": 0.58760857,
+        "cint_lwr": 0.4610758,
+        "cint_upr": 0.74886566
+      },
+      {
+        "k": 3,
+        "RR": 0.52518588,
+        "cint_lwr": 0.40518045,
+        "cint_upr": 0.68073425
+      },
+      {
+        "k": 4,
+        "RR": 0.56035381,
+        "cint_lwr": 0.42185745,
+        "cint_upr": 0.74431871
+      },
+      {
+        "k": 5,
+        "RR": 0.5776765,
+        "cint_lwr": 0.38833408,
+        "cint_upr": 0.85933775
+      },
+      {
+        "k": 6,
+        "RR": 0.97056657,
+        "cint_lwr": 0.58564252,
+        "cint_upr": 1.60848886
+      },
+      {
+        "k": 7,
+        "RR": 1.12158837,
+        "cint_lwr": 0.59461363,
+        "cint_upr": 2.11559307
+      },
+      {
+        "k": 8,
+        "RR": 1.17164346,
+        "cint_lwr": 0.64845995,
+        "cint_upr": 2.11693628
+      },
+      {
+        "k": 9,
+        "RR": 1.232076,
+        "cint_lwr": 0.69134085,
+        "cint_upr": 2.19574942
+      },
+      {
+        "k": 10,
+        "RR": 1.09758413,
+        "cint_lwr": 0.66095644,
+        "cint_upr": 1.822648
+      },
+      {
+        "k": 11,
+        "RR": 0.72217964,
+        "cint_lwr": 0.50515627,
+        "cint_upr": 1.03243979
+      },
+      {
+        "k": 12,
+        "RR": 0.75113837,
+        "cint_lwr": 0.52094226,
+        "cint_upr": 1.08305447
+      },
+      {
+        "k": 13,
+        "RR": 0.65161672,
+        "cint_lwr": 0.48217034,
+        "cint_upr": 0.88061067
+      },
+      {
+        "k": 14,
+        "RR": 0.56822494,
+        "cint_lwr": 0.41812399,
+        "cint_upr": 0.77221013
+      },
+      {
+        "k": 15,
+        "RR": 0.53370684,
+        "cint_lwr": 0.39343841,
+        "cint_upr": 0.72398368
+      },
+      {
+        "k": 16,
+        "RR": 0.59083742,
+        "cint_lwr": 0.39615874,
+        "cint_upr": 0.88118427
+      },
+      {
+        "k": 17,
+        "RR": 0.78811937,
+        "cint_lwr": 0.51265295,
+        "cint_upr": 1.21160357
+      },
+      {
+        "k": 18,
+        "RR": 0.50577832,
+        "cint_lwr": 0.29098503,
+        "cint_upr": 0.87912327
+      },
+      {
+        "k": 19,
+        "RR": 0.69184424,
+        "cint_lwr": 0.38159833,
+        "cint_upr": 1.25432533
+      },
+      {
+        "k": 20,
+        "RR": 1.05203998,
+        "cint_lwr": 0.55316082,
+        "cint_upr": 2.00084331
+      },
+      {
+        "k": 21,
+        "RR": 1.04040561,
+        "cint_lwr": 0.50034609,
+        "cint_upr": 2.16339019
+      },
+      {
+        "k": 22,
+        "RR": 0.99160779,
+        "cint_lwr": 0.51771535,
+        "cint_upr": 1.89927923
+      }
+    ]
+  },
+  "plausibility": {
+    "efficacy_reference": 0.675,
+    "efficacy_reference_source": "Ranzani et al. 2025, 10-14 anos, Sao Paulo, contra hospitalizacao",
+    "aggregates": {
+      "season_2024": {
+        "coverage_effective_pct": 11.7145375,
+        "admissions": 2954,
+        "bound_efficacy_100": 0.88285462,
+        "bound_efficacy_675": 0.92092687,
+        "observed": 0.72720928,
+        "observed_cint_lwr": 0.61370741,
+        "observed_cint_upr": 0.86170271,
+        "violates_bound_efficacy_100": true
+      },
+      "season_2025": {
+        "coverage_effective_pct": 42.64852677,
+        "admissions": 679,
+        "bound_efficacy_100": 0.57351473,
+        "bound_efficacy_675": 0.71212244,
+        "observed": 0.67272527,
+        "observed_cint_lwr": 0.58380066,
+        "observed_cint_upr": 0.7751949,
+        "violates_bound_efficacy_100": false
+      },
+      "period_all": {
+        "coverage_effective_pct": 17.49603453,
+        "admissions": 3633,
+        "bound_efficacy_100": 0.82503965,
+        "bound_efficacy_675": 0.88190177,
+        "observed": 0.71144033,
+        "observed_cint_lwr": 0.61895064,
+        "observed_cint_upr": 0.81775075,
+        "violates_bound_efficacy_100": true
+      }
+    },
+    "monthly": [
+      {
+        "month": "2024-02",
+        "coverage_pct": 0,
+        "admissions": 887,
+        "bound_efficacy_100": 1,
+        "bound_efficacy_675": 1,
+        "observed_reanchored": 1.07958132
+      },
+      {
+        "month": "2024-03",
+        "coverage_pct": 6.56391945,
+        "admissions": 831,
+        "bound_efficacy_100": 0.93436081,
+        "bound_efficacy_675": 0.95569354,
+        "observed_reanchored": 0.71021893
+      },
+      {
+        "month": "2024-04",
+        "coverage_pct": 19.08923318,
+        "admissions": 499,
+        "bound_efficacy_100": 0.80910767,
+        "bound_efficacy_675": 0.87114768,
+        "observed_reanchored": 0.55700754
+      },
+      {
+        "month": "2024-05",
+        "coverage_pct": 23.91018369,
+        "admissions": 354,
+        "bound_efficacy_100": 0.76089816,
+        "bound_efficacy_675": 0.83860626,
+        "observed_reanchored": 0.49783565
+      },
+      {
+        "month": "2024-06",
+        "coverage_pct": 25.78122706,
+        "admissions": 145,
+        "bound_efficacy_100": 0.74218773,
+        "bound_efficacy_675": 0.82597672,
+        "observed_reanchored": 0.53117213
+      },
+      {
+        "month": "2024-07",
+        "coverage_pct": 27.97874935,
+        "admissions": 54,
+        "bound_efficacy_100": 0.72021251,
+        "bound_efficacy_675": 0.81114344,
+        "observed_reanchored": 0.5475927
+      },
+      {
+        "month": "2024-08",
+        "coverage_pct": 29.5176802,
+        "admissions": 34,
+        "bound_efficacy_100": 0.7048232,
+        "bound_efficacy_675": 0.80075566,
+        "observed_reanchored": 0.92002214
+      },
+      {
+        "month": "2024-09",
+        "coverage_pct": 30.7039419,
+        "admissions": 31,
+        "bound_efficacy_100": 0.69296058,
+        "bound_efficacy_675": 0.79274839,
+        "observed_reanchored": 1.06317914
+      },
+      {
+        "month": "2024-10",
+        "coverage_pct": 31.73273258,
+        "admissions": 33,
+        "bound_efficacy_100": 0.68267267,
+        "bound_efficacy_675": 0.78580406,
+        "observed_reanchored": 1.1106275
+      },
+      {
+        "month": "2024-11",
+        "coverage_pct": 32.80473414,
+        "admissions": 40,
+        "bound_efficacy_100": 0.67195266,
+        "bound_efficacy_675": 0.77856804,
+        "observed_reanchored": 1.16791288
+      },
+      {
+        "month": "2024-12",
+        "coverage_pct": 34.70589328,
+        "admissions": 46,
+        "bound_efficacy_100": 0.65294107,
+        "bound_efficacy_675": 0.76573522,
+        "observed_reanchored": 1.04042498
+      },
+      {
+        "month": "2025-01",
+        "coverage_pct": 35.90060784,
+        "admissions": 68,
+        "bound_efficacy_100": 0.64099392,
+        "bound_efficacy_675": 0.7576709,
+        "observed_reanchored": 0.68457052
+      },
+      {
+        "month": "2025-02",
+        "coverage_pct": 38.63601597,
+        "admissions": 83,
+        "bound_efficacy_100": 0.61363984,
+        "bound_efficacy_675": 0.73920689,
+        "observed_reanchored": 0.71202115
+      },
+      {
+        "month": "2025-03",
+        "coverage_pct": 40.54972369,
+        "admissions": 102,
+        "bound_efficacy_100": 0.59450276,
+        "bound_efficacy_675": 0.72628937,
+        "observed_reanchored": 0.61768232
+      },
+      {
+        "month": "2025-04",
+        "coverage_pct": 41.79680404,
+        "admissions": 102,
+        "bound_efficacy_100": 0.58203196,
+        "bound_efficacy_675": 0.71787157,
+        "observed_reanchored": 0.53863335
+      },
+      {
+        "month": "2025-05",
+        "coverage_pct": 42.99244025,
+        "admissions": 105,
+        "bound_efficacy_100": 0.5700756,
+        "bound_efficacy_675": 0.70980103,
+        "observed_reanchored": 0.50591286
+      },
+      {
+        "month": "2025-06",
+        "coverage_pct": 44.53215504,
+        "admissions": 59,
+        "bound_efficacy_100": 0.55467845,
+        "bound_efficacy_675": 0.69940795,
+        "observed_reanchored": 0.56006823
+      },
+      {
+        "month": "2025-07",
+        "coverage_pct": 45.8270723,
+        "admissions": 45,
+        "bound_efficacy_100": 0.54172928,
+        "bound_efficacy_675": 0.69066726,
+        "observed_reanchored": 0.74707629
+      },
+      {
+        "month": "2025-08",
+        "coverage_pct": 47.1755492,
+        "admissions": 23,
+        "bound_efficacy_100": 0.52824451,
+        "bound_efficacy_675": 0.68156504,
+        "observed_reanchored": 0.47943878
+      },
+      {
+        "month": "2025-09",
+        "coverage_pct": 48.15560462,
+        "admissions": 19,
+        "bound_efficacy_100": 0.51844395,
+        "bound_efficacy_675": 0.67494967,
+        "observed_reanchored": 0.6558149
+      },
+      {
+        "month": "2025-10",
+        "coverage_pct": 49.34776737,
+        "admissions": 22,
+        "bound_efficacy_100": 0.50652233,
+        "bound_efficacy_675": 0.66690257,
+        "observed_reanchored": 0.99725264
+      },
+      {
+        "month": "2025-11",
+        "coverage_pct": 50.76759834,
+        "admissions": 23,
+        "bound_efficacy_100": 0.49232402,
+        "bound_efficacy_675": 0.65731871,
+        "observed_reanchored": 0.98622415
+      },
+      {
+        "month": "2025-12",
+        "coverage_pct": 51.92327855,
+        "admissions": 28,
+        "bound_efficacy_100": 0.48076721,
+        "bound_efficacy_675": 0.64951787,
+        "observed_reanchored": 0.93996759
+      }
+    ]
+  },
+  "placebos_season": {
+    "window": "3 seasons of pre-period (main)",
+    "seasons": [
+      {
+        "season": "2019/20",
+        "vaccine": false,
+        "RRT": 0.7502172,
+        "cint_lwr": 0.61473428,
+        "cint_upr": 0.91555956,
+        "p": 0.00468185
+      },
+      {
+        "season": "2020/21",
+        "vaccine": false,
+        "RRT": 0.99624265,
+        "cint_lwr": 0.79946538,
+        "cint_upr": 1.2414539,
+        "p": 0.97325167
+      },
+      {
+        "season": "2021/22",
+        "vaccine": false,
+        "RRT": 0.97561665,
+        "cint_lwr": 0.78304621,
+        "cint_upr": 1.21554493,
+        "p": 0.82583397
+      },
+      {
+        "season": "2022/23",
+        "vaccine": false,
+        "RRT": 1.08818934,
+        "cint_lwr": 0.94112908,
+        "cint_upr": 1.25822914,
+        "p": 0.25390499
+      },
+      {
+        "season": "2023/24",
+        "vaccine": false,
+        "RRT": 0.92376051,
+        "cint_lwr": 0.76081233,
+        "cint_upr": 1.12160839,
+        "p": 0.42317408
+      },
+      {
+        "season": "2024/25",
+        "vaccine": true,
+        "RRT": 0.71129037,
+        "cint_lwr": 0.57804372,
+        "cint_upr": 0.87525212,
+        "p": 0.00128636
+      }
+    ],
+    "agegroup_placebos": [
+      0.7502172,
+      1.08818934
+    ],
+    "placebos_significant": "2019/20",
+    "sensitivity_all_pre": [
+      {
+        "season": "2019/20",
+        "RRT": 0.7502172,
+        "cint_lwr": 0.61473428,
+        "cint_upr": 0.91555956,
+        "p": 0.00468185
+      },
+      {
+        "season": "2020/21",
+        "RRT": 0.99578148,
+        "cint_lwr": 0.79984498,
+        "cint_upr": 1.23971617,
+        "p": 0.96983464
+      },
+      {
+        "season": "2021/22",
+        "RRT": 0.94554623,
+        "cint_lwr": 0.76780497,
+        "cint_upr": 1.16443329,
+        "p": 0.59816138
+      },
+      {
+        "season": "2022/23",
+        "RRT": 1.03466568,
+        "cint_lwr": 0.90289017,
+        "cint_upr": 1.18567364,
+        "p": 0.62392846
+      },
+      {
+        "season": "2023/24",
+        "RRT": 1.01626384,
+        "cint_lwr": 0.85383744,
+        "cint_upr": 1.20958878,
+        "p": 0.85591694
+      },
+      {
+        "season": "2024/25",
+        "RRT": 0.73035564,
+        "cint_lwr": 0.6160662,
+        "cint_upr": 0.86584747,
+        "p": 0.0002957
+      }
+    ],
+    "permutation": {
+      "n_placebos": 5,
+      "p_unilateral": 0.16666667,
+      "p_twosided": 0.16666667,
+      "p_minimum_possible": 0.16666667
+    }
+  },
+  "dose_response_withinseason": {
+    "season_2025": {
+      "RR_by_10pp": 1.18702194,
+      "cint_lwr": 0.71915782,
+      "cint_upr": 1.95926547,
+      "p": 0.50249464,
+      "municipalities": 521,
+      "admissions_agegroup_target": 679,
+      "coverage_p25": 0.40392176,
+      "coverage_p50": 0.51582573,
+      "coverage_p75": 0.64330773
+    },
+    "season_2024": {
+      "RR_by_10pp": 0.91143431,
+      "cint_lwr": 0.7873186,
+      "cint_upr": 1.05511606,
+      "p": 0.21436258,
+      "municipalities": 521,
+      "admissions_agegroup_target": 3454,
+      "coverage_p25": 0.11788898,
+      "coverage_p50": 0.28339728,
+      "coverage_p75": 0.38898158
+    },
+    "seasons_joint": {
+      "RR_by_10pp": 0.95516465,
+      "cint_lwr": 0.87426826,
+      "cint_upr": 1.04354641,
+      "p": 0.3096519,
+      "municipalities": 521,
+      "admissions_agegroup_target": 4133,
+      "coverage_p25": 0.25398408,
+      "coverage_p50": 0.3950005,
+      "coverage_p75": 0.53846154
+    },
+    "falsification_2019": {
+      "RR_by_10pp": 1.47368089,
+      "cint_lwr": 0.94176187,
+      "cint_upr": 2.30603451,
+      "p": 0.08963041,
+      "municipalities": 521,
+      "admissions_agegroup_target": 1457,
+      "coverage_p25": 0.40392176,
+      "coverage_p50": 0.51582573,
+      "coverage_p75": 0.64330773
+    },
+    "falsification_2023": {
+      "RR_by_10pp": 1.136574,
+      "cint_lwr": 0.79287728,
+      "cint_upr": 1.6292565,
+      "p": 0.48593693,
+      "municipalities": 521,
+      "admissions_agegroup_target": 1502,
+      "coverage_p25": 0.40392176,
+      "coverage_p50": 0.51582573,
+      "coverage_p75": 0.64330773
+    }
+  },
+  "dose_response_longitudinal": [
+    {
+      "model": "D1 alone — per 10 p.p. of coverage",
+      "term": "cov1_target",
+      "RR": 0.89824925,
+      "cint_lwr": 0.8658474,
+      "cint_upr": 0.93186364,
+      "p": 1.03552545e-08
+    },
+    {
+      "model": "D1 alone — at the mean observed coverage (52%)",
+      "term": "cov1_target",
+      "RR": 0.57262422,
+      "cint_lwr": 0.47312036,
+      "cint_upr": 0.69305515,
+      "p": 1.03552545e-08
+    },
+    {
+      "model": "Coverage categories (ref. no coverage)",
+      "term": "1 (<20%)",
+      "RR": 1.02012213,
+      "cint_lwr": 0.82637546,
+      "cint_upr": 1.2592934,
+      "p": 0.85292532
+    },
+    {
+      "model": "Coverage categories (ref. no coverage)",
+      "term": "2 (20-50%)",
+      "RR": 0.7023138,
+      "cint_lwr": 0.51609799,
+      "cint_upr": 0.95571905,
+      "p": 0.02456733
+    },
+    {
+      "model": "Coverage categories (ref. no coverage)",
+      "term": "3 (>=50%)",
+      "RR": 0.81819164,
+      "cint_lwr": 0.61206927,
+      "cint_upr": 1.09372842,
+      "p": 0.17541671
+    },
+    {
+      "model": "D1+D2 (exploratory) — D1 per 10 p.p.",
+      "term": "cov1_target",
+      "RR": 0.84693092,
+      "cint_lwr": 0.76719923,
+      "cint_upr": 0.93494879,
+      "p": 0.00098984
+    },
+    {
+      "model": "D1+D2 (exploratory) — D2 per 10 p.p.",
+      "term": "cov2_target",
+      "RR": 1.17952749,
+      "cint_lwr": 0.92341311,
+      "cint_upr": 1.50667678,
+      "p": 0.18615779
+    }
+  ],
+  "sensitivity": {
+    "n_analyses": 17,
+    "agegroup_RRR": [
+      0.67913289,
+      1.03057953
+    ],
+    "rows": [
+      {
+        "analysis": "Negative control: chikungunya (SINAN)",
+        "RRR": 0.96697283,
+        "cint_lwr": 0.85630273,
+        "cint_upr": 1.09194614,
+        "p": 0.58811217
+      },
+      {
+        "analysis": "Comparison with adults 20-59 only",
+        "RRR": 0.69510153,
+        "cint_lwr": 0.58756938,
+        "cint_upr": 0.82231333,
+        "p": 2.22e-05
+      },
+      {
+        "analysis": "Comparison with 5-9 and 15-19 only",
+        "RRR": 0.77725841,
+        "cint_lwr": 0.69983244,
+        "cint_upr": 0.8632504,
+        "p": 2.51730655e-06
+      },
+      {
+        "analysis": "Excluding Feb-Apr/2025",
+        "RRR": 0.71559207,
+        "cint_lwr": 0.61913916,
+        "cint_upr": 0.82707096,
+        "p": 5.88876707e-06
+      },
+      {
+        "analysis": "Adoption by D1 coverage >= 20% (SI-PNI)",
+        "RRR": 0.70098472,
+        "cint_lwr": 0.60075213,
+        "cint_upr": 0.81794065,
+        "p": 6.40048098e-06
+      },
+      {
+        "analysis": "Placebo: adoption 24 months earlier",
+        "RRR": 1.03057953,
+        "cint_lwr": 0.90363117,
+        "cint_upr": 1.17536247,
+        "p": 0.65335313
+      },
+      {
+        "analysis": "Including expanded municipalities (treated at entry)",
+        "RRR": 0.76823279,
+        "cint_lwr": 0.68255689,
+        "cint_upr": 0.8646629,
+        "p": 1.241e-05
+      },
+      {
+        "analysis": "Expanded municipalities kept as controls (conservative bias)",
+        "RRR": 0.76771237,
+        "cint_lwr": 0.66470478,
+        "cint_upr": 0.88668278,
+        "p": 0.00032295
+      },
+      {
+        "analysis": "Negative binomial",
+        "RRR": 0.71170696,
+        "cint_lwr": 0.62294034,
+        "cint_upr": 0.8131225,
+        "p": 5.62314524e-07
+      },
+      {
+        "analysis": "Municipalities ≥ 100 thousand inhab.",
+        "RRR": 0.71064606,
+        "cint_lwr": 0.61580884,
+        "cint_upr": 0.82008862,
+        "p": 2.95345806e-06
+      },
+      {
+        "analysis": "Aggregated by health region (449)",
+        "RRR": 0.7117499,
+        "cint_lwr": 0.61852108,
+        "cint_upr": 0.81903097,
+        "p": 2.0645806e-06
+      },
+      {
+        "analysis": "Main model, SE clustered by health region",
+        "RRR": 0.71144033,
+        "cint_lwr": 0.61684873,
+        "cint_upr": 0.82053724,
+        "p": 2.9058666e-06
+      },
+      {
+        "analysis": "Region Central-West",
+        "RRR": 0.80719514,
+        "cint_lwr": 0.56976931,
+        "cint_upr": 1.14355756,
+        "p": 0.22812605
+      },
+      {
+        "analysis": "Region Northeast",
+        "RRR": 0.67913289,
+        "cint_lwr": 0.57360494,
+        "cint_upr": 0.80407516,
+        "p": 7.09337439e-06
+      },
+      {
+        "analysis": "Region North",
+        "RRR": 0.86193126,
+        "cint_lwr": 0.43420838,
+        "cint_upr": 1.71098838,
+        "p": 0.67103374
+      },
+      {
+        "analysis": "Region Southeast",
+        "RRR": 0.71054289,
+        "cint_lwr": 0.58334737,
+        "cint_upr": 0.86547266,
+        "p": 0.00068462
+      },
+      {
+        "analysis": "Region South",
+        "RRR": 0.8612093,
+        "cint_lwr": 0.67711721,
+        "cint_upr": 1.09535166,
+        "p": 0.22332191
+      }
+    ]
+  },
+  "specifications_regional": [
+    {
+      "specification": "base (main model)",
+      "RRR": 0.71144033,
+      "cint_lwr": 0.61895064,
+      "cint_upr": 0.81775075,
+      "p": 1.65445764e-06
+    },
+    {
+      "specification": "+ agegroup^uf^year",
+      "RRR": 0.65484358,
+      "cint_lwr": 0.56222418,
+      "cint_upr": 0.76272088,
+      "p": 5.28769561e-08
+    },
+    {
+      "specification": "+ agegroup^region^month",
+      "RRR": 0.73718583,
+      "cint_lwr": 0.65834032,
+      "cint_upr": 0.82547419,
+      "p": 1.2689183e-07
+    },
+    {
+      "specification": "+ agegroup^uf^year and agegroup^region^month",
+      "RRR": 0.69331951,
+      "cint_lwr": 0.60159981,
+      "cint_upr": 0.79902277,
+      "p": 4.21248829e-07
+    },
+    {
+      "specification": "base, so 2019-2025 (comparacao)",
+      "RRR": 0.71189442,
+      "cint_lwr": 0.61403561,
+      "cint_upr": 0.82534898,
+      "p": 6.66401495e-06
+    },
+    {
+      "specification": "base + sorotipo x faixa (UF-mes), 2019-2025",
+      "RRR": 0.71565515,
+      "cint_lwr": 0.62133567,
+      "cint_upr": 0.82429244,
+      "p": 3.48715003e-06
+    },
+    {
+      "specification": "faixa^uf^ano + sorotipo x faixa (UF-mes), 2019-2025",
+      "RRR": 0.64479693,
+      "cint_lwr": 0.54774396,
+      "cint_upr": 0.75904641,
+      "p": 1.34590217e-07
+    }
+  ],
+  "placebos_adjusted": [
+    {
+      "specification": "base (modelo principal)",
+      "season": "2019/20",
+      "vaccine": false,
+      "RRT": 0.7502172,
+      "cint_lwr": 0.61473428,
+      "cint_upr": 0.91555956,
+      "p": 0.00468185
+    },
+    {
+      "specification": "base (modelo principal)",
+      "season": "2020/21",
+      "vaccine": false,
+      "RRT": 0.99624265,
+      "cint_lwr": 0.79946538,
+      "cint_upr": 1.2414539,
+      "p": 0.97325167
+    },
+    {
+      "specification": "base (modelo principal)",
+      "season": "2021/22",
+      "vaccine": false,
+      "RRT": 0.97561665,
+      "cint_lwr": 0.78304621,
+      "cint_upr": 1.21554493,
+      "p": 0.82583397
+    },
+    {
+      "specification": "base (modelo principal)",
+      "season": "2022/23",
+      "vaccine": false,
+      "RRT": 1.08818934,
+      "cint_lwr": 0.94112908,
+      "cint_upr": 1.25822914,
+      "p": 0.25390499
+    },
+    {
+      "specification": "base (modelo principal)",
+      "season": "2023/24",
+      "vaccine": false,
+      "RRT": 0.92376051,
+      "cint_lwr": 0.76081233,
+      "cint_upr": 1.12160839,
+      "p": 0.42317408
+    },
+    {
+      "specification": "base (modelo principal)",
+      "season": "2024/25",
+      "vaccine": true,
+      "RRT": 0.71129037,
+      "cint_lwr": 0.57804372,
+      "cint_upr": 0.87525212,
+      "p": 0.00128636
+    },
+    {
+      "specification": "+ faixa^uf^ano",
+      "season": "2019/20",
+      "vaccine": false,
+      "RRT": 0.76217122,
+      "cint_lwr": 0.57404844,
+      "cint_upr": 1.01194417,
+      "p": 0.06039485
+    },
+    {
+      "specification": "+ faixa^uf^ano",
+      "season": "2020/21",
+      "vaccine": false,
+      "RRT": 1.08262687,
+      "cint_lwr": 0.81923458,
+      "cint_upr": 1.43070248,
+      "p": 0.5767254
+    },
+    {
+      "specification": "+ faixa^uf^ano",
+      "season": "2021/22",
+      "vaccine": false,
+      "RRT": 1.22032782,
+      "cint_lwr": 0.82024396,
+      "cint_upr": 1.81555741,
+      "p": 0.32591116
+    },
+    {
+      "specification": "+ faixa^uf^ano",
+      "season": "2022/23",
+      "vaccine": false,
+      "RRT": 1.17611483,
+      "cint_lwr": 0.93685496,
+      "cint_upr": 1.47647836,
+      "p": 0.16214132
+    },
+    {
+      "specification": "+ faixa^uf^ano",
+      "season": "2023/24",
+      "vaccine": false,
+      "RRT": 0.75291412,
+      "cint_lwr": 0.59904267,
+      "cint_upr": 0.94630933,
+      "p": 0.0149693
+    },
+    {
+      "specification": "+ faixa^uf^ano",
+      "season": "2024/25",
+      "vaccine": true,
+      "RRT": 0.64446819,
+      "cint_lwr": 0.53657542,
+      "cint_upr": 0.77405567,
+      "p": 2.60437914e-06
+    },
+    {
+      "specification": "+ faixa^regiao^mes",
+      "season": "2019/20",
+      "vaccine": false,
+      "RRT": 0.75606163,
+      "cint_lwr": 0.60217156,
+      "cint_upr": 0.94927963,
+      "p": 0.01602752
+    },
+    {
+      "specification": "+ faixa^regiao^mes",
+      "season": "2020/21",
+      "vaccine": false,
+      "RRT": 1.05861775,
+      "cint_lwr": 0.83730927,
+      "cint_upr": 1.33842008,
+      "p": 0.63402808
+    },
+    {
+      "specification": "+ faixa^regiao^mes",
+      "season": "2021/22",
+      "vaccine": false,
+      "RRT": 1.08371794,
+      "cint_lwr": 0.81741059,
+      "cint_upr": 1.43678659,
+      "p": 0.57631892
+    },
+    {
+      "specification": "+ faixa^regiao^mes",
+      "season": "2022/23",
+      "vaccine": false,
+      "RRT": 1.06910789,
+      "cint_lwr": 0.90376252,
+      "cint_upr": 1.26470358,
+      "p": 0.43565078
+    },
+    {
+      "specification": "+ faixa^regiao^mes",
+      "season": "2023/24",
+      "vaccine": false,
+      "RRT": 0.81403041,
+      "cint_lwr": 0.66613785,
+      "cint_upr": 0.99475733,
+      "p": 0.04428486
+    },
+    {
+      "specification": "+ faixa^regiao^mes",
+      "season": "2024/25",
+      "vaccine": true,
+      "RRT": 0.76002142,
+      "cint_lwr": 0.65263487,
+      "cint_upr": 0.88507768,
+      "p": 0.00041432
+    },
+    {
+      "specification": "+ faixa^uf^ano e faixa^regiao^mes",
+      "season": "2019/20",
+      "vaccine": false,
+      "RRT": 0.69560296,
+      "cint_lwr": 0.51543748,
+      "cint_upr": 0.93874331,
+      "p": 0.01762901
+    },
+    {
+      "specification": "+ faixa^uf^ano e faixa^regiao^mes",
+      "season": "2020/21",
+      "vaccine": false,
+      "RRT": 1.01965512,
+      "cint_lwr": 0.76456004,
+      "cint_upr": 1.35986255,
+      "p": 0.89458599
+    },
+    {
+      "specification": "+ faixa^uf^ano e faixa^regiao^mes",
+      "season": "2021/22",
+      "vaccine": false,
+      "RRT": 1.41010653,
+      "cint_lwr": 0.93860771,
+      "cint_upr": 2.11845738,
+      "p": 0.09794395
+    },
+    {
+      "specification": "+ faixa^uf^ano e faixa^regiao^mes",
+      "season": "2022/23",
+      "vaccine": false,
+      "RRT": 1.01949719,
+      "cint_lwr": 0.78056612,
+      "cint_upr": 1.33156498,
+      "p": 0.88729807
+    },
+    {
+      "specification": "+ faixa^uf^ano e faixa^regiao^mes",
+      "season": "2023/24",
+      "vaccine": false,
+      "RRT": 0.72898524,
+      "cint_lwr": 0.56657437,
+      "cint_upr": 0.93795187,
+      "p": 0.01396629
+    },
+    {
+      "specification": "+ faixa^uf^ano e faixa^regiao^mes",
+      "season": "2024/25",
+      "vaccine": true,
+      "RRT": 0.71701312,
+      "cint_lwr": 0.606406,
+      "cint_upr": 0.84779474,
+      "p": 9.959e-05
+    }
+  ],
+  "serotype_completeness": [
+    {
+      "year": 2017,
+      "cases": 239720,
+      "typed": 536,
+      "pct_typed": 0.22,
+      "ufs_with_30_typed": 5,
+      "ufmes_with_min": 5
+    },
+    {
+      "year": 2018,
+      "cases": 264093,
+      "typed": 1174,
+      "pct_typed": 0.44,
+      "ufs_with_30_typed": 9,
+      "ufmes_with_min": 14
+    },
+    {
+      "year": 2019,
+      "cases": 1548042,
+      "typed": 12580,
+      "pct_typed": 0.81,
+      "ufs_with_30_typed": 22,
+      "ufmes_with_min": 83
+    },
+    {
+      "year": 2020,
+      "cases": 971985,
+      "typed": 7159,
+      "pct_typed": 0.74,
+      "ufs_with_30_typed": 16,
+      "ufmes_with_min": 42
+    },
+    {
+      "year": 2021,
+      "cases": 540011,
+      "typed": 4326,
+      "pct_typed": 0.8,
+      "ufs_with_30_typed": 16,
+      "ufmes_with_min": 47
+    },
+    {
+      "year": 2022,
+      "cases": 1405038,
+      "typed": 20756,
+      "pct_typed": 1.48,
+      "ufs_with_30_typed": 24,
+      "ufmes_with_min": 111
+    },
+    {
+      "year": 2023,
+      "cases": 1651186,
+      "typed": 47376,
+      "pct_typed": 2.87,
+      "ufs_with_30_typed": 24,
+      "ufmes_with_min": 160
+    },
+    {
+      "year": 2024,
+      "cases": 6569215,
+      "typed": 189413,
+      "pct_typed": 2.88,
+      "ufs_with_30_typed": 27,
+      "ufmes_with_min": 201
+    },
+    {
+      "year": 2025,
+      "cases": 1630509,
+      "typed": 48667,
+      "pct_typed": 2.98,
+      "ufs_with_30_typed": 27,
+      "ufmes_with_min": 168
+    }
+  ],
+  "serotype_composition_national": [
+    {
+      "year": 2017,
+      "typed": 536,
+      "f_denv1": 0.519,
+      "f_denv2": 0.381,
+      "f_denv3": 0.017,
+      "f_denv4": 0.084
+    },
+    {
+      "year": 2018,
+      "typed": 1174,
+      "f_denv1": 0.383,
+      "f_denv2": 0.603,
+      "f_denv3": 0.003,
+      "f_denv4": 0.011
+    },
+    {
+      "year": 2019,
+      "typed": 12580,
+      "f_denv1": 0.334,
+      "f_denv2": 0.634,
+      "f_denv3": 0.001,
+      "f_denv4": 0.031
+    },
+    {
+      "year": 2020,
+      "typed": 7159,
+      "f_denv1": 0.29,
+      "f_denv2": 0.704,
+      "f_denv3": 0,
+      "f_denv4": 0.005
+    },
+    {
+      "year": 2021,
+      "typed": 4326,
+      "f_denv1": 0.637,
+      "f_denv2": 0.36,
+      "f_denv3": 0.001,
+      "f_denv4": 0.002
+    },
+    {
+      "year": 2022,
+      "typed": 20756,
+      "f_denv1": 0.88,
+      "f_denv2": 0.119,
+      "f_denv3": 0,
+      "f_denv4": 0.001
+    },
+    {
+      "year": 2023,
+      "typed": 47376,
+      "f_denv1": 0.867,
+      "f_denv2": 0.131,
+      "f_denv3": 0.002,
+      "f_denv4": 0
+    },
+    {
+      "year": 2024,
+      "typed": 189413,
+      "f_denv1": 0.685,
+      "f_denv2": 0.305,
+      "f_denv3": 0.01,
+      "f_denv4": 0
+    },
+    {
+      "year": 2025,
+      "typed": 48667,
+      "f_denv1": 0.121,
+      "f_denv2": 0.739,
+      "f_denv3": 0.139,
+      "f_denv4": 0.001
+    }
+  ],
+  "diagnostic_cohort": [
+    {
+      "item": "brpop::mun_pop_age — nº de faixas",
+      "val": "17",
+      "observation": "anos 2000-2024; idade simples: NAO"
+    },
+    {
+      "item": "brpop::uf_pop_age — nº de faixas",
+      "val": "17",
+      "observation": "anos 2000-2021; idade simples: NAO"
+    },
+    {
+      "item": "brpop::regsaude_pop_age — nº de faixas",
+      "val": "17",
+      "observation": "anos 2000-2021; idade simples: NAO"
+    },
+    {
+      "item": "brpop::ibge_pop — colunas",
+      "val": "code_muni, year, pop",
+      "observation": "população TOTAL do município, sem idade"
+    },
+    {
+      "item": "SIH-RD (IDADE + COD_IDADE)",
+      "val": "idade simples",
+      "observation": "no cache; hoje agregada em faixas por 02_extrair_sih.R"
+    },
+    {
+      "item": "SINAN (NU_IDADE_N)",
+      "val": "idade simples",
+      "observation": "no cache; hoje agregada em faixas por 01_extrair_sinan.R"
+    },
+    {
+      "item": "SI-PNI (nu_idade_paciente)",
+      "val": "idade simples NA ORIGEM",
+      "observation": "os 23 arquivos locais em data/raw/sipni/reduzidos/ já vêm agregados por faixa (coluna idade: ausente); recuperar idade simples exige rebaixar com 05a_baixar_sipni.R"
+    },
+    {
+      "item": "D1 aplicadas a 15-19 anos nos 521 municípios",
+      "val": "87.167",
+      "observation": "2.6% da população de 15-19 de 2025 — contaminação JÁ observável, sem supor nada"
+    },
+    {
+      "item": "D1 de 2024 que envelhece para 15-19 em 2025 (aprox.)",
+      "val": "239.773",
+      "observation": "supondo distribuição uniforme dentro de 10-14; 7.1% da população de 15-19 de 2025"
+    },
+    {
+      "item": "Contaminação total do grupo de comparação 15-19 em 2025 (aprox.)",
+      "val": "9.6%",
+      "observation": "viés para o nulo: parte do controle está protegida"
+    },
+    {
+      "item": "Entram em 10-14 em 2025 sem elegibilidade em 2024 (aprox.)",
+      "val": "674.129",
+      "observation": "20.0% da população-alvo de 2025; parte recebe D1 já em 2025"
+    },
+    {
+      "item": "Municípios com cobertura de D1 = 100% (dez/2025)",
+      "val": "20",
+      "observation": "de 521; mediana da cobertura 58.8%. Numerador acumula coortes; denominador é a população de 10-14 de 2024, fixa"
+    },
+    {
+      "item": "Municípios com cobertura de D1 >= 90% (dez/2025)",
+      "val": "37",
+      "observation": ""
+    }
+  ],
+  "event_annual": [
+    {
+      "period": 2017,
+      "RRR": 1.07292016,
+      "cint_lwr": 0.88192521,
+      "cint_upr": 1.30527811
+    },
+    {
+      "period": 2018,
+      "RRR": 1.16287603,
+      "cint_lwr": 1.0017916,
+      "cint_upr": 1.34986225
+    },
+    {
+      "period": 2019,
+      "RRR": 0.8963762,
+      "cint_lwr": 0.78064698,
+      "cint_upr": 1.02926203
+    },
+    {
+      "period": 2020,
+      "RRR": 0.98465864,
+      "cint_lwr": 0.85793336,
+      "cint_upr": 1.13010249
+    },
+    {
+      "period": 2021,
+      "RRR": 1.0089197,
+      "cint_lwr": 0.86021086,
+      "cint_upr": 1.18333656
+    },
+    {
+      "period": 2022,
+      "RRR": 0.96487499,
+      "cint_lwr": 0.87200534,
+      "cint_upr": 1.06763538
+    },
+    {
+      "period": 2023,
+      "RRR": 0.93281497,
+      "cint_lwr": 0.80791725,
+      "cint_upr": 1.07702091
+    },
+    {
+      "period": 2024,
+      "RRR": 0.74476083,
+      "cint_lwr": 0.64031736,
+      "cint_upr": 0.86624029
+    },
+    {
+      "period": 2025,
+      "RRR": 0.6597225,
+      "cint_lwr": 0.57224263,
+      "cint_upr": 0.76057559
+    }
+  ],
+  "event_season": [
+    {
+      "period": "2017/18",
+      "RRR": 1.04879073,
+      "cint_lwr": 0.87326522,
+      "cint_upr": 1.2595967
+    },
+    {
+      "period": "2018/19",
+      "RRR": 1.18432228,
+      "cint_lwr": 1.02008856,
+      "cint_upr": 1.37499754
+    },
+    {
+      "period": "2019/20",
+      "RRR": 0.88262962,
+      "cint_lwr": 0.76961768,
+      "cint_upr": 1.01223643
+    },
+    {
+      "period": "2020/21",
+      "RRR": 0.9909755,
+      "cint_lwr": 0.85695611,
+      "cint_upr": 1.14595419
+    },
+    {
+      "period": "2021/22",
+      "RRR": 0.95205164,
+      "cint_lwr": 0.81664822,
+      "cint_upr": 1.10990547
+    },
+    {
+      "period": "2022/23",
+      "RRR": 0.98770293,
+      "cint_lwr": 0.89262705,
+      "cint_upr": 1.09290557
+    },
+    {
+      "period": "2023/24",
+      "RRR": 0.97884291,
+      "cint_lwr": 0.84552514,
+      "cint_upr": 1.13318149
+    },
+    {
+      "period": "2024/25",
+      "RRR": 0.70660429,
+      "cint_lwr": 0.60084779,
+      "cint_upr": 0.83097521
+    },
+    {
+      "period": "2025/26",
+      "RRR": 0.6510701,
+      "cint_lwr": 0.56470536,
+      "cint_upr": 0.75064325
+    }
+  ],
+  "calibration_placebo": [
+    {
+      "subset": "calendar year",
+      "period": "2024",
+      "sd_log_placebos": 0.08767771,
+      "t": -3.14400607,
+      "gl": 6,
+      "p_unilateral": 0.00998303,
+      "p_twosided": 0.01996606
+    },
+    {
+      "subset": "calendar year",
+      "period": "2025",
+      "sd_log_placebos": 0.08767771,
+      "t": -4.43753019,
+      "gl": 6,
+      "p_unilateral": 0.00219373,
+      "p_twosided": 0.00438746
+    },
+    {
+      "subset": "season Feb-Jan",
+      "period": "2024/25",
+      "sd_log_placebos": 0.0909051,
+      "t": -3.57356068,
+      "gl": 6,
+      "p_unilateral": 0.00586687,
+      "p_twosided": 0.01173373
+    },
+    {
+      "subset": "season Feb-Jan",
+      "period": "2025/26",
+      "sd_log_placebos": 0.0909051,
+      "t": -4.41583386,
+      "gl": 6,
+      "p_unilateral": 0.00224552,
+      "p_twosided": 0.00449104
+    }
+  ],
+  "cluster_alternative": [
+    {
+      "clustering": "municipality (main)",
+      "RRR": 0.71144033,
+      "cint_lwr": 0.61895064,
+      "cint_upr": 0.81775075,
+      "p": 1.65445764e-06
+    },
+    {
+      "clustering": "UF",
+      "RRR": 0.71144033,
+      "cint_lwr": 0.61866803,
+      "cint_upr": 0.8181243,
+      "p": 1.78860032e-06
+    },
+    {
+      "clustering": "health region (unit of assignment)",
+      "RRR": 0.71144033,
+      "cint_lwr": 0.61684873,
+      "cint_upr": 0.82053724,
+      "p": 2.9058666e-06
+    }
+  ],
+  "att_reanchorings": [
+    {
+      "reanchoring": "mean of the previous 24 months (Feb/2022-Dec/2023; ~07b)",
+      "months_pre": 23,
+      "RRR": 0.7310765,
+      "cint_lwr": 0.61575318,
+      "cint_upr": 0.86799851
+    },
+    {
+      "reanchoring": "mean of all pre months (Jan/2017-Dec/2023)",
+      "months_pre": 84,
+      "RRR": 0.74909077,
+      "cint_lwr": 0.65612646,
+      "cint_upr": 0.85522688
+    },
+    {
+      "reanchoring": "mean of Jan/2017-Jan/2022 (excludes 2022-2023)",
+      "months_pre": 61,
+      "RRR": 0.75599769,
+      "cint_lwr": 0.65729304,
+      "cint_upr": 0.86952467
+    }
+  ],
+  "spatial_permutation": [
+    {
+      "scheme": "municipality",
+      "coefficient": "p2019",
+      "n_draws": 400,
+      "overlap_mean": 0.20414107,
+      "RRR_real": 0.90298992,
+      "RRR_placebo_median": 1.00196862,
+      "RRR_placebo_p05": 0.84993918,
+      "RRR_placebo_p95": 1.17325278,
+      "sd_log_placebos": 0.09597265,
+      "p_unilateral": 0.14214464,
+      "p_twosided": 0.30673317
+    },
+    {
+      "scheme": "municipality",
+      "coefficient": "p2024",
+      "n_draws": 400,
+      "overlap_mean": 0.20414107,
+      "RRR_real": 0.75579162,
+      "RRR_placebo_median": 1.01192823,
+      "RRR_placebo_p05": 0.79985333,
+      "RRR_placebo_p95": 1.16299036,
+      "sd_log_placebos": 0.12240077,
+      "p_unilateral": 0.00997506,
+      "p_twosided": 0.00997506
+    },
+    {
+      "scheme": "municipality",
+      "coefficient": "p2025",
+      "n_draws": 400,
+      "overlap_mean": 0.20414107,
+      "RRR_real": 0.66707281,
+      "RRR_placebo_median": 0.95760035,
+      "RRR_placebo_p05": 0.82254259,
+      "RRR_placebo_p95": 1.16063762,
+      "sd_log_placebos": 0.09810166,
+      "p_unilateral": 0.00249377,
+      "p_twosided": 0.00249377
+    },
+    {
+      "scheme": "municipality",
+      "coefficient": "ppool",
+      "n_draws": 400,
+      "overlap_mean": 0.20414107,
+      "RRR_real": 0.71144033,
+      "RRR_placebo_median": 1.00119225,
+      "RRR_placebo_p05": 0.80382903,
+      "RRR_placebo_p95": 1.14951235,
+      "sd_log_placebos": 0.1169681,
+      "p_unilateral": 0.00249377,
+      "p_twosided": 0.00249377
+    }
+  ],
+  "crosssec_dose_annual": [
+    {
+      "samp": "expanded (2,230)",
+      "year": 2017,
+      "RR_10pp": 0.99923905,
+      "cint_lwr": 0.94653169,
+      "cint_upr": 1.05488141,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2018,
+      "RR_10pp": 1.02100086,
+      "cint_lwr": 0.96409517,
+      "cint_upr": 1.0812654,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2019,
+      "RR_10pp": 0.9823976,
+      "cint_lwr": 0.94927673,
+      "cint_upr": 1.01667408,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2020,
+      "RR_10pp": 0.98714141,
+      "cint_lwr": 0.94534557,
+      "cint_upr": 1.03078515,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2021,
+      "RR_10pp": 1.02673628,
+      "cint_lwr": 0.95622875,
+      "cint_upr": 1.10244267,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2022,
+      "RR_10pp": 0.9854649,
+      "cint_lwr": 0.94089353,
+      "cint_upr": 1.03214768,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2023,
+      "RR_10pp": 0.99893622,
+      "cint_lwr": 0.96453108,
+      "cint_upr": 1.03456861,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2024,
+      "RR_10pp": 0.97447449,
+      "cint_lwr": 0.93963938,
+      "cint_upr": 1.01060104,
+      "p_calibrated_unilateral": 0.10752449,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "expanded (2,230)",
+      "year": 2025,
+      "RR_10pp": 0.89310751,
+      "cint_lwr": 0.86042318,
+      "cint_upr": 0.92703339,
+      "p_calibrated_unilateral": 0.00045776,
+      "municipalities": 2099,
+      "admissions_target_2025": 2952
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2017,
+      "RR_10pp": 1.02578739,
+      "cint_lwr": 0.99587907,
+      "cint_upr": 1.05659391,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2018,
+      "RR_10pp": 1.0258597,
+      "cint_lwr": 0.99768822,
+      "cint_upr": 1.05482664,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2019,
+      "RR_10pp": 0.97917244,
+      "cint_lwr": 0.95760681,
+      "cint_upr": 1.00122373,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2020,
+      "RR_10pp": 0.98737241,
+      "cint_lwr": 0.96749661,
+      "cint_upr": 1.00765653,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2021,
+      "RR_10pp": 1.00287057,
+      "cint_lwr": 0.97548981,
+      "cint_upr": 1.03101987,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2022,
+      "RR_10pp": 0.99023121,
+      "cint_lwr": 0.97168781,
+      "cint_upr": 1.00912849,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2023,
+      "RR_10pp": 0.9897671,
+      "cint_lwr": 0.96955731,
+      "cint_upr": 1.01039815,
+      "p_calibrated_unilateral": null,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2024,
+      "RR_10pp": 0.96041163,
+      "cint_lwr": 0.93735885,
+      "cint_upr": 0.98403135,
+      "p_calibrated_unilateral": 0.04541846,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "all municipalities",
+      "year": 2025,
+      "RR_10pp": 0.91005802,
+      "cint_lwr": 0.89163654,
+      "cint_upr": 0.92886009,
+      "p_calibrated_unilateral": 0.00167056,
+      "municipalities": 5137,
+      "admissions_target_2025": 4616
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2017,
+      "RR_10pp": 1.00338316,
+      "cint_lwr": 0.9584868,
+      "cint_upr": 1.05038251,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2018,
+      "RR_10pp": 1.01666569,
+      "cint_lwr": 0.97311259,
+      "cint_upr": 1.06216807,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2019,
+      "RR_10pp": 0.97213459,
+      "cint_lwr": 0.94239308,
+      "cint_upr": 1.00281472,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2020,
+      "RR_10pp": 0.97901532,
+      "cint_lwr": 0.95321617,
+      "cint_upr": 1.00551273,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2021,
+      "RR_10pp": 1.02170638,
+      "cint_lwr": 0.98310203,
+      "cint_upr": 1.06182663,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2022,
+      "RR_10pp": 1.00765266,
+      "cint_lwr": 0.97658465,
+      "cint_upr": 1.03970904,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2023,
+      "RR_10pp": 1.00046565,
+      "cint_lwr": 0.97279573,
+      "cint_upr": 1.02892261,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2024,
+      "RR_10pp": 0.96173215,
+      "cint_lwr": 0.92966609,
+      "cint_upr": 0.99490424,
+      "p_calibrated_unilateral": 0.04794888,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "official list (first phase + expanded)",
+      "year": 2025,
+      "RR_10pp": 0.90506378,
+      "cint_lwr": 0.87783213,
+      "cint_upr": 0.93314021,
+      "p_calibrated_unilateral": 0.00117279,
+      "municipalities": 2609,
+      "admissions_target_2025": 3631
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2017,
+      "RR_10pp": 1.09484803,
+      "cint_lwr": 1.0113171,
+      "cint_upr": 1.1852783,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2018,
+      "RR_10pp": 0.9974671,
+      "cint_lwr": 0.9237989,
+      "cint_upr": 1.07700996,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2019,
+      "RR_10pp": 0.95693513,
+      "cint_lwr": 0.90395945,
+      "cint_upr": 1.0130154,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2020,
+      "RR_10pp": 0.95760815,
+      "cint_lwr": 0.90472491,
+      "cint_upr": 1.01358253,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2021,
+      "RR_10pp": 1.00371101,
+      "cint_lwr": 0.92757978,
+      "cint_upr": 1.08609073,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2022,
+      "RR_10pp": 1.00166474,
+      "cint_lwr": 0.95277307,
+      "cint_upr": 1.05306531,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2023,
+      "RR_10pp": 0.99390796,
+      "cint_lwr": 0.94935427,
+      "cint_upr": 1.04055258,
+      "p_calibrated_unilateral": null,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2024,
+      "RR_10pp": 0.9789231,
+      "cint_lwr": 0.9123211,
+      "cint_upr": 1.05038724,
+      "p_calibrated_unilateral": 0.33630756,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "first phase (521)",
+      "year": 2025,
+      "RR_10pp": 0.9565741,
+      "cint_lwr": 0.86262618,
+      "cint_upr": 1.06075381,
+      "p_calibrated_unilateral": 0.19524453,
+      "municipalities": 510,
+      "admissions_target_2025": 679
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2017,
+      "RR_10pp": 1.02999364,
+      "cint_lwr": 0.99222586,
+      "cint_upr": 1.069199,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2018,
+      "RR_10pp": 1.02651287,
+      "cint_lwr": 0.99462391,
+      "cint_upr": 1.05942423,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2019,
+      "RR_10pp": 0.97677644,
+      "cint_lwr": 0.95023152,
+      "cint_upr": 1.00406289,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2020,
+      "RR_10pp": 0.986723,
+      "cint_lwr": 0.96374014,
+      "cint_upr": 1.01025395,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2021,
+      "RR_10pp": 1.0022794,
+      "cint_lwr": 0.97341733,
+      "cint_upr": 1.03199724,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2022,
+      "RR_10pp": 0.99444676,
+      "cint_lwr": 0.97580275,
+      "cint_upr": 1.01344699,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2023,
+      "RR_10pp": 0.9845557,
+      "cint_lwr": 0.96067457,
+      "cint_upr": 1.00903048,
+      "p_calibrated_unilateral": null,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2024,
+      "RR_10pp": 0.9490002,
+      "cint_lwr": 0.92157843,
+      "cint_upr": 0.9772379,
+      "p_calibrated_unilateral": 0.02786887,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    },
+    {
+      "samp": "main sample (521 + never)",
+      "year": 2025,
+      "RR_10pp": 0.92689412,
+      "cint_lwr": 0.90319614,
+      "cint_upr": 0.95121388,
+      "p_calibrated_unilateral": 0.00696009,
+      "municipalities": 3038,
+      "admissions_target_2025": 1664
+    }
+  ],
+  "crosssec_dose_outcomes": [
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Admissions (SIH)",
+      "year": 2024,
+      "RR_10pp": 0.9794886,
+      "cint_lwr": 0.9465941,
+      "cint_upr": 1.0135262,
+      "p": 0.23439512
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Admissions (SIH)",
+      "year": 2025,
+      "RR_10pp": 0.89783363,
+      "cint_lwr": 0.86452228,
+      "cint_upr": 0.93242853,
+      "p": 2.31080002e-08
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Probable cases (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.9869463,
+      "cint_lwr": 0.97892798,
+      "cint_upr": 0.99503029,
+      "p": 0.00159379
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Probable cases (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.9674161,
+      "cint_lwr": 0.94218066,
+      "cint_upr": 0.99332745,
+      "p": 0.01403168
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Hospitalized (SINAN)",
+      "year": 2024,
+      "RR_10pp": 1.01106113,
+      "cint_lwr": 0.98638241,
+      "cint_upr": 1.0363573,
+      "p": 0.38293672
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Hospitalized (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.94838336,
+      "cint_lwr": 0.89909176,
+      "cint_upr": 1.00037732,
+      "p": 0.05163715
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Warning signs/severe (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.97325788,
+      "cint_lwr": 0.93302202,
+      "cint_upr": 1.01522887,
+      "p": 0.20826294
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Warning signs/severe (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.97554724,
+      "cint_lwr": 0.89562051,
+      "cint_upr": 1.06260676,
+      "p": 0.57027752
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Negative control: chikungunya (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.98689307,
+      "cint_lwr": 0.92917711,
+      "cint_upr": 1.04819407,
+      "p": 0.66784012
+    },
+    {
+      "samp": "expanded (2,230)",
+      "outcome": "Negative control: chikungunya (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.94786148,
+      "cint_lwr": 0.89289627,
+      "cint_upr": 1.00621026,
+      "p": 0.07893969
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Admissions (SIH)",
+      "year": 2024,
+      "RR_10pp": 0.96836587,
+      "cint_lwr": 0.94507164,
+      "cint_upr": 0.99223425,
+      "p": 0.00966622
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Admissions (SIH)",
+      "year": 2025,
+      "RR_10pp": 0.91714731,
+      "cint_lwr": 0.89851439,
+      "cint_upr": 0.93616662,
+      "p": 1.4715226e-16
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Probable cases (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.98263892,
+      "cint_lwr": 0.97471343,
+      "cint_upr": 0.99062886,
+      "p": 2.247e-05
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Probable cases (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.96332146,
+      "cint_lwr": 0.94997824,
+      "cint_upr": 0.97685209,
+      "p": 1.51269475e-07
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Hospitalized (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.98832629,
+      "cint_lwr": 0.96956624,
+      "cint_upr": 1.00744933,
+      "p": 0.22977179
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Hospitalized (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.93757103,
+      "cint_lwr": 0.90957231,
+      "cint_upr": 0.96643161,
+      "p": 3.081e-05
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Warning signs/severe (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.96259788,
+      "cint_lwr": 0.93516118,
+      "cint_upr": 0.99083955,
+      "p": 0.00977293
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Warning signs/severe (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.95073123,
+      "cint_lwr": 0.90761254,
+      "cint_upr": 0.9958984,
+      "p": 0.03287866
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Negative control: chikungunya (SINAN)",
+      "year": 2024,
+      "RR_10pp": 0.99789353,
+      "cint_lwr": 0.97604483,
+      "cint_upr": 1.02023131,
+      "p": 0.85190088
+    },
+    {
+      "samp": "all municipalities",
+      "outcome": "Negative control: chikungunya (SINAN)",
+      "year": 2025,
+      "RR_10pp": 0.96871868,
+      "cint_lwr": 0.94401424,
+      "cint_upr": 0.99406963,
+      "p": 0.01589628
+    }
+  ],
+  "crosssec_dose_categories": [
+    {
+      "category": "10-25%",
+      "year": 2024,
+      "RR": 0.93481221,
+      "CI95_lwr": 0.71050898,
+      "CI95_upr": 1.22992657,
+      "p": 0.63011834,
+      "municipalities": 354
+    },
+    {
+      "category": "25-40%",
+      "year": 2024,
+      "RR": 0.87595532,
+      "CI95_lwr": 0.67265631,
+      "CI95_upr": 1.14069802,
+      "p": 0.32562312,
+      "municipalities": 465
+    },
+    {
+      "category": "40-55%",
+      "year": 2024,
+      "RR": 0.83364196,
+      "CI95_lwr": 0.63280421,
+      "CI95_upr": 1.09822108,
+      "p": 0.19573744,
+      "municipalities": 346
+    },
+    {
+      "category": ">=55%",
+      "year": 2024,
+      "RR": 0.85199466,
+      "CI95_lwr": 0.63449567,
+      "CI95_upr": 1.14405019,
+      "p": 0.28682293,
+      "municipalities": 252
+    },
+    {
+      "category": "10-25%",
+      "year": 2025,
+      "RR": 0.92143307,
+      "CI95_lwr": 0.71503805,
+      "CI95_upr": 1.18740381,
+      "p": 0.52711479,
+      "municipalities": 354
+    },
+    {
+      "category": "25-40%",
+      "year": 2025,
+      "RR": 0.68012229,
+      "CI95_lwr": 0.53837013,
+      "CI95_upr": 0.85919761,
+      "p": 0.00122665,
+      "municipalities": 465
+    },
+    {
+      "category": "40-55%",
+      "year": 2025,
+      "RR": 0.53208011,
+      "CI95_lwr": 0.42489974,
+      "CI95_upr": 0.66629657,
+      "p": 3.84516508e-08,
+      "municipalities": 346
+    },
+    {
+      "category": ">=55%",
+      "year": 2025,
+      "RR": 0.5966679,
+      "CI95_lwr": 0.47586554,
+      "CI95_upr": 0.74813692,
+      "p": 7.67677034e-06,
+      "municipalities": 252
+    }
+  ],
+  "crosssec_dose_permutation": [
+    {
+      "year": 2024,
+      "n_draws": 300,
+      "RR_10pp_real": 0.9794886,
+      "RR_10pp_placebo_p05": 0.96445501,
+      "RR_10pp_placebo_p95": 1.01743534,
+      "sd_log_placebos": 0.17266553,
+      "p_unilateral": 0.24916944
+    },
+    {
+      "year": 2025,
+      "n_draws": 300,
+      "RR_10pp_real": 0.89783363,
+      "RR_10pp_placebo_p05": 0.95612899,
+      "RR_10pp_placebo_p95": 1.02681831,
+      "sd_log_placebos": 0.21931048,
+      "p_unilateral": 0.00332226
+    }
+  ],
+  "birth_cohort": [
+    {
+      "analysis": "adjacent cohorts (2007-2009 and 2016-2018)",
+      "RRR": 0.92219562,
+      "CI95_lwr": 0.82548032,
+      "CI95_upr": 1.03024233,
+      "p": 0.15188098,
+      "n_obs": 121513,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "adjacent without boundary cohorts (2007-2008, 2017-2018)",
+      "RRR": 0.90705719,
+      "CI95_lwr": 0.79867496,
+      "CI95_upr": 1.03014717,
+      "p": 0.13296346,
+      "n_obs": 92067,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "all cohorts 2000-2018",
+      "RRR": 0.86511464,
+      "CI95_lwr": 0.7713877,
+      "CI95_upr": 0.97022981,
+      "p": 0.0132651,
+      "n_obs": 273498,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "adjacent cohorts (2007-2009 and 2016-2018) — 2024",
+      "RRR": 0.94643866,
+      "CI95_lwr": 0.83331773,
+      "CI95_upr": 1.07491549,
+      "p": 0.39664206,
+      "n_obs": 121513,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "adjacent cohorts (2007-2009 and 2016-2018) — 2025",
+      "RRR": 0.86979429,
+      "CI95_lwr": 0.73529367,
+      "CI95_upr": 1.02889789,
+      "p": 0.10360735,
+      "n_obs": 121513,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "adjacent without boundary cohorts (2007-2008, 2017-2018) — 2024",
+      "RRR": 0.92307205,
+      "CI95_lwr": 0.79760301,
+      "CI95_upr": 1.06827831,
+      "p": 0.28286365,
+      "n_obs": 92067,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "adjacent without boundary cohorts (2007-2008, 2017-2018) — 2025",
+      "RRR": 0.86945627,
+      "CI95_lwr": 0.72073338,
+      "CI95_upr": 1.04886803,
+      "p": 0.14387329,
+      "n_obs": 92067,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "all cohorts 2000-2018 — 2024",
+      "RRR": 0.88175784,
+      "CI95_lwr": 0.77367108,
+      "CI95_upr": 1.00494501,
+      "p": 0.05928599,
+      "n_obs": 273498,
+      "admissions_exposed_post": 3771
+    },
+    {
+      "analysis": "all cohorts 2000-2018 — 2025",
+      "RRR": 0.83058548,
+      "CI95_lwr": 0.71094799,
+      "CI95_upr": 0.97035542,
+      "p": 0.01932361,
+      "n_obs": 273498,
+      "admissions_exposed_post": 3771
+    }
+  ],
+  "cohort_group": [
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2017,
+      "RR": 0.9561651,
+      "cint_lwr": 0.87106102,
+      "cint_upr": 1.04958398,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2018,
+      "RR": 0.97231536,
+      "cint_lwr": 0.88185251,
+      "cint_upr": 1.07205815,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2019,
+      "RR": 1.03718685,
+      "cint_lwr": 0.98542532,
+      "cint_upr": 1.09166727,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2020,
+      "RR": 0.99973613,
+      "cint_lwr": 0.92169671,
+      "cint_upr": 1.0843831,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2021,
+      "RR": 1.02968539,
+      "cint_lwr": 0.92959177,
+      "cint_upr": 1.14055656,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2022,
+      "RR": 1.02848584,
+      "cint_lwr": 0.95807319,
+      "cint_upr": 1.10407339,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2023,
+      "RR": 0.97952316,
+      "cint_lwr": 0.92693622,
+      "cint_upr": 1.03509347,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2024,
+      "RR": 0.99966589,
+      "cint_lwr": 0.94893668,
+      "cint_upr": 1.05310702,
+      "p_calibrated_unilateral": 0.49627933,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2025,
+      "RR": 0.96316407,
+      "cint_lwr": 0.91367087,
+      "cint_upr": 1.0153383,
+      "p_calibrated_unilateral": 0.15839605,
+      "municipalities": 1755,
+      "admissions_exposed_2025": 4102
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2017,
+      "RR": 0.99690102,
+      "cint_lwr": 0.75643249,
+      "cint_upr": 1.31381406,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2018,
+      "RR": 0.8168178,
+      "cint_lwr": 0.63796309,
+      "cint_upr": 1.04581491,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2019,
+      "RR": 0.83991296,
+      "cint_lwr": 0.68196985,
+      "cint_upr": 1.03443545,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2020,
+      "RR": 1.07024953,
+      "cint_lwr": 0.88330268,
+      "cint_upr": 1.29676279,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2021,
+      "RR": 0.90085149,
+      "cint_lwr": 0.67135551,
+      "cint_upr": 1.20879832,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2022,
+      "RR": 1.16894595,
+      "cint_lwr": 0.96762878,
+      "cint_upr": 1.41214759,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2023,
+      "RR": 1.29734597,
+      "cint_lwr": 1.09381611,
+      "cint_upr": 1.53874728,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2024,
+      "RR": 1.04610519,
+      "cint_lwr": 0.85890433,
+      "cint_upr": 1.27410705,
+      "p_calibrated_unilateral": 0.59235099,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — clean adjacent (2005-2007 and 2017-2019)",
+      "year": 2025,
+      "RR": 1.02650525,
+      "cint_lwr": 0.84663911,
+      "cint_upr": 1.24458346,
+      "p_calibrated_unilateral": 0.55400798,
+      "municipalities": 2408,
+      "admissions_exposed_2025": 2353
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2017,
+      "RR": 1.02409011,
+      "cint_lwr": 0.91938559,
+      "cint_upr": 1.14071894,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2018,
+      "RR": 1.01847385,
+      "cint_lwr": 0.92280264,
+      "cint_upr": 1.12406374,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2019,
+      "RR": 0.94775877,
+      "cint_lwr": 0.90428226,
+      "cint_upr": 0.99332557,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2020,
+      "RR": 1.01783385,
+      "cint_lwr": 0.95786138,
+      "cint_upr": 1.08156124,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2021,
+      "RR": 0.9814311,
+      "cint_lwr": 0.89516351,
+      "cint_upr": 1.07601237,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2022,
+      "RR": 1.0284589,
+      "cint_lwr": 0.96145471,
+      "cint_upr": 1.10013264,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2023,
+      "RR": 0.9846695,
+      "cint_lwr": 0.93611338,
+      "cint_upr": 1.03574421,
+      "p_calibrated_unilateral": null,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2024,
+      "RR": 0.9990053,
+      "cint_lwr": 0.95351646,
+      "cint_upr": 1.04666425,
+      "p_calibrated_unilateral": 0.48820257,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "Expanded: exposed cohort x final coverage, per 10 p.p. — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2025,
+      "RR": 0.95581606,
+      "cint_lwr": 0.90628455,
+      "cint_upr": 1.00805463,
+      "p_calibrated_unilateral": 0.1055312,
+      "municipalities": 1749,
+      "admissions_exposed_2025": 3501
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2017,
+      "RR": 1.24111173,
+      "cint_lwr": 0.94797727,
+      "cint_upr": 1.62488953,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2018,
+      "RR": 0.95425003,
+      "cint_lwr": 0.73515746,
+      "cint_upr": 1.23863685,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2019,
+      "RR": 0.8916566,
+      "cint_lwr": 0.77132162,
+      "cint_upr": 1.03076521,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2020,
+      "RR": 0.9312804,
+      "cint_lwr": 0.75482946,
+      "cint_upr": 1.14897897,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2021,
+      "RR": 0.95410691,
+      "cint_lwr": 0.77130531,
+      "cint_upr": 1.18023302,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2022,
+      "RR": 1.0195032,
+      "cint_lwr": 0.87466991,
+      "cint_upr": 1.18831888,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2023,
+      "RR": 1.04535359,
+      "cint_lwr": 0.89493332,
+      "cint_upr": 1.22105648,
+      "p_calibrated_unilateral": null,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2024,
+      "RR": 1.02206701,
+      "cint_lwr": 0.89241155,
+      "cint_upr": 1.17055968,
+      "p_calibrated_unilateral": 0.57104299,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    },
+    {
+      "analysis": "first phase vs never: exposed cohort x treated — adjacent from script 20 (2007-2009 and 2016-2018)",
+      "year": 2025,
+      "RR": 0.9207495,
+      "cint_lwr": 0.76933708,
+      "cint_upr": 1.10196124,
+      "p_calibrated_unilateral": 0.25306281,
+      "municipalities": 2378,
+      "admissions_exposed_2025": 1993
+    }
+  ],
+  "birth_cohort_annual": [
+    {
+      "year": 2017,
+      "RRR": 1.05768196,
+      "cint_lwr": 0.79110938,
+      "cint_upr": 1.41407895,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2018,
+      "RRR": 1.03930761,
+      "cint_lwr": 0.79222651,
+      "cint_upr": 1.36344884,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2019,
+      "RRR": 0.88922727,
+      "cint_lwr": 0.75200417,
+      "cint_upr": 1.05149035,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2020,
+      "RRR": 0.9264928,
+      "cint_lwr": 0.71306702,
+      "cint_upr": 1.20379836,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2021,
+      "RRR": 0.98928837,
+      "cint_lwr": 0.80135495,
+      "cint_upr": 1.22129587,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2022,
+      "RRR": 1.04313442,
+      "cint_lwr": 0.87901913,
+      "cint_upr": 1.23789048,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2023,
+      "RRR": 1.06999758,
+      "cint_lwr": 0.87544657,
+      "cint_upr": 1.30778378,
+      "p_calibrated_unilateral": null
+    },
+    {
+      "year": 2024,
+      "RRR": 1.06134354,
+      "cint_lwr": 0.90352701,
+      "cint_upr": 1.24672545,
+      "p_calibrated_unilateral": 0.76701373
+    },
+    {
+      "year": 2025,
+      "RRR": 0.90810484,
+      "cint_lwr": 0.74988326,
+      "cint_upr": 1.09971036,
+      "p_calibrated_unilateral": 0.12720454
+    }
+  ],
+  "_meta": {
+    "generated_em": "2026-09-23 20:25:22",
+    "script": "R/90_numeros_manuscrito.R",
+    "cache_congelado": false,
+    "cache": {
+      "manifest": "dados_comuns/cache_datasus/MANIFESTO_CONGELADO.csv",
+      "fnames": 5015,
+      "fnames_usados_dengue": 3260,
+      "gigabytes": 3.11,
+      "generated_em": "2026-09-23 15:56:05"
+    },
+    "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+    "missing_tables": []
+  }
+}

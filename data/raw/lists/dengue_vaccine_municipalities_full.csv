@@ -1,0 +1,2752 @@
+code_muni,uf,name,health_region,phase,start_date
+120001,AC,Acrelândia,Baixo Acre e Purus,1,2024-02-01
+120013,AC,Bujari,Baixo Acre e Purus,1,2024-02-01
+120017,AC,Capixaba,Baixo Acre e Purus,1,2024-02-01
+120032,AC,Jordão,Baixo Acre e Purus,1,2024-02-01
+120034,AC,Manoel Urbano,Baixo Acre e Purus,1,2024-02-01
+120038,AC,Plácido de Castro,Baixo Acre e Purus,1,2024-02-01
+120080,AC,Porto Acre,Baixo Acre e Purus,1,2024-02-01
+120040,AC,Rio Branco,Baixo Acre e Purus,1,2024-02-01
+120043,AC,Santa Rosa do Purus,Baixo Acre e Purus,1,2024-02-01
+120045,AC,Senador Guiomard,Baixo Acre e Purus,1,2024-02-01
+120050,AC,Sena Madureira,Baixo Acre e Purus,1,2024-02-01
+130030,AM,Autazes,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130040,AM,Barcelos,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130110,AM,Careiro,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130115,AM,Careiro da Várzea,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130185,AM,Iranduba,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130255,AM,Manaquiri,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130260,AM,Manaus,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130310,AM,Nova Olinda do Norte,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130353,AM,Presidente Figueiredo,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130356,AM,Rio Preto da Eva,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130360,AM,Santa Isabel do Rio Negro,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+130380,AM,São Gabriel da Cachoeira,"Manaus, Entorno e Alto Rio Negro",1,2024-02-01
+290060,BA,Aiquara,Jequié,1,2024-02-01
+290090,BA,Almadina,Itabuna,1,2024-02-01
+290110,BA,Amélia Rodrigues,Feira de Santana,1,2024-02-01
+290140,BA,Angical,Barreiras,1,2024-02-01
+290150,BA,Anguera,Feira de Santana,1,2024-02-01
+290170,BA,Antônio Cardoso,Feira de Santana,1,2024-02-01
+290195,BA,Apuarema,Jequié,1,2024-02-01
+290225,BA,Arataca,Ilhéus,1,2024-02-01
+290240,BA,Aurelino Leal,Itabuna,1,2024-02-01
+290250,BA,Baianópolis,Barreiras,1,2024-02-01
+290260,BA,Baixa Grande,Feira de Santana,1,2024-02-01
+290310,BA,Barra do Rocha,Jequié,1,2024-02-01
+290320,BA,Barreiras,Barreiras,1,2024-02-01
+290330,BA,Barro Preto,Itabuna,1,2024-02-01
+290370,BA,Boa Nova,Jequié,1,2024-02-01
+290430,BA,Brejões,Jequié,1,2024-02-01
+290440,BA,Brejolândia,Barreiras,1,2024-02-01
+290470,BA,Buerarema,Itabuna,1,2024-02-01
+290560,BA,Camacan,Itabuna,1,2024-02-01
+290570,BA,Camaçari,Camaçari,1,2024-02-01
+290630,BA,Canavieiras,Ilhéus,1,2024-02-01
+290640,BA,Candeal,Feira de Santana,1,2024-02-01
+290650,BA,Candeias,Salvador,1,2024-02-01
+290685,BA,Capela do Alto Alegre,Feira de Santana,1,2024-02-01
+290740,BA,Catolândia,Barreiras,1,2024-02-01
+290800,BA,Coaraci,Itabuna,1,2024-02-01
+290850,BA,Conceição do Jacuípe,Feira de Santana,1,2024-02-01
+290860,BA,Conde,Camaçari,1,2024-02-01
+290890,BA,Coração de Maria,Feira de Santana,1,2024-02-01
+290940,BA,Cotegipe,Barreiras,1,2024-02-01
+290950,BA,Cravolândia,Jequié,1,2024-02-01
+290970,BA,Cristópolis,Barreiras,1,2024-02-01
+291000,BA,Dário Meira,Jequié,1,2024-02-01
+291005,BA,Dias d'Ávila,Camaçari,1,2024-02-01
+291080,BA,Feira de Santana,Feira de Santana,1,2024-02-01
+291100,BA,Floresta Azul,Itabuna,1,2024-02-01
+291110,BA,Formosa do Rio Preto,Barreiras,1,2024-02-01
+291125,BA,Gavião,Feira de Santana,1,2024-02-01
+291150,BA,Gongogi,Itabuna,1,2024-02-01
+291210,BA,Ibicaraí,Itabuna,1,2024-02-01
+291270,BA,Ibirapitanga,Itabuna,1,2024-02-01
+291290,BA,Ibirataia,Jequié,1,2024-02-01
+291330,BA,Ichu,Feira de Santana,1,2024-02-01
+291360,BA,Ilhéus,Ilhéus,1,2024-02-01
+291380,BA,Ipecaetá,Feira de Santana,1,2024-02-01
+291390,BA,Ipiaú,Jequié,1,2024-02-01
+291400,BA,Ipirá,Feira de Santana,1,2024-02-01
+291420,BA,Irajuba,Jequié,1,2024-02-01
+291430,BA,Iramaia,Jequié,1,2024-02-01
+291450,BA,Irará,Feira de Santana,1,2024-02-01
+291480,BA,Itabuna,Itabuna,1,2024-02-01
+291490,BA,Itacaré,Ilhéus,1,2024-02-01
+291510,BA,Itagi,Jequié,1,2024-02-01
+291520,BA,Itagibá,Jequié,1,2024-02-01
+291540,BA,Itaju do Colônia,Itabuna,1,2024-02-01
+291550,BA,Itajuípe,Itabuna,1,2024-02-01
+291570,BA,Itamari,Jequié,1,2024-02-01
+291610,BA,Itaparica,Salvador,1,2024-02-01
+291620,BA,Itapé,Itabuna,1,2024-02-01
+291660,BA,Itapitanga,Itabuna,1,2024-02-01
+291670,BA,Itaquara,Jequié,1,2024-02-01
+291690,BA,Itiruçu,Jequié,1,2024-02-01
+291760,BA,Jaguaquara,Jequié,1,2024-02-01
+291800,BA,Jequié,Jequié,1,2024-02-01
+291830,BA,Jitaúna,Jequié,1,2024-02-01
+291855,BA,Jussari,Itabuna,1,2024-02-01
+291870,BA,Lafaiete Coutinho,Jequié,1,2024-02-01
+291905,BA,Lajedo do Tabocal,Jequié,1,2024-02-01
+291920,BA,Lauro de Freitas,Salvador,1,2024-02-01
+291955,BA,Luís Eduardo Magalhães,Barreiras,1,2024-02-01
+291992,BA,Madre de Deus,Salvador,1,2024-02-01
+292040,BA,Manoel Vitorino,Jequié,1,2024-02-01
+292045,BA,Mansidão,Barreiras,1,2024-02-01
+292050,BA,Maracás,Jequié,1,2024-02-01
+292070,BA,Maraú,Itabuna,1,2024-02-01
+292090,BA,Mascote,Ilhéus,1,2024-02-01
+292100,BA,Mata de São João,Camaçari,1,2024-02-01
+292210,BA,Mundo Novo,Feira de Santana,1,2024-02-01
+292273,BA,Nova Fátima,Feira de Santana,1,2024-02-01
+292280,BA,Nova Itarana,Jequié,1,2024-02-01
+292390,BA,Pau Brasil,Itabuna,1,2024-02-01
+292405,BA,Pé de Serra,Feira de Santana,1,2024-02-01
+292465,BA,Pintadas,Feira de Santana,1,2024-02-01
+292490,BA,Planaltino,Jequié,1,2024-02-01
+292520,BA,Pojuca,Camaçari,1,2024-02-01
+292595,BA,Rafael Jambeiro,Feira de Santana,1,2024-02-01
+292620,BA,Riachão das Neves,Barreiras,1,2024-02-01
+292630,BA,Riachão do Jacuípe,Feira de Santana,1,2024-02-01
+292740,BA,Salvador,Salvador,1,2024-02-01
+292750,BA,Santa Bárbara,Feira de Santana,1,2024-02-01
+292780,BA,Santa Cruz da Vitória,Itabuna,1,2024-02-01
+292790,BA,Santa Inês,Jequié,1,2024-02-01
+292805,BA,Santa Luzia,Ilhéus,1,2024-02-01
+292830,BA,Santanópolis,Feira de Santana,1,2024-02-01
+292840,BA,Santa Rita de Cássia,Barreiras,1,2024-02-01
+292860,BA,Santo Amaro,Salvador,1,2024-02-01
+292880,BA,Santo Estêvão,Feira de Santana,1,2024-02-01
+292890,BA,São Desidério,Barreiras,1,2024-02-01
+292920,BA,São Francisco do Conde,Salvador,1,2024-02-01
+292930,BA,São Gonçalo dos Campos,Feira de Santana,1,2024-02-01
+292935,BA,São José da Vitória,Itabuna,1,2024-02-01
+292950,BA,São Sebastião do Passé,Salvador,1,2024-02-01
+292975,BA,Saubara,Salvador,1,2024-02-01
+293040,BA,Serra Preta,Feira de Santana,1,2024-02-01
+293070,BA,Simões Filho,Camaçari,1,2024-02-01
+293090,BA,Tabocas do Brejo Velho,Barreiras,1,2024-02-01
+293110,BA,Tanquinho,Feira de Santana,1,2024-02-01
+293140,BA,Teodoro Sampaio,Feira de Santana,1,2024-02-01
+293170,BA,Terra Nova,Feira de Santana,1,2024-02-01
+293220,BA,Ubaitaba,Itabuna,1,2024-02-01
+293230,BA,Ubatã,Itabuna,1,2024-02-01
+293250,BA,Una,Ilhéus,1,2024-02-01
+293270,BA,Uruçuca,Ilhéus,1,2024-02-01
+293320,BA,Vera Cruz,Salvador,1,2024-02-01
+293345,BA,Wanderley,Barreiras,1,2024-02-01
+530010,DF,Brasília,Distrito Federal,1,2024-02-01
+320010,ES,Afonso Cláudio,Metropolitana,1,2024-02-01
+320115,ES,Brejetuba,Metropolitana,1,2024-02-01
+320130,ES,Cariacica,Metropolitana,1,2024-02-01
+320170,ES,Conceição do Castelo,Metropolitana,1,2024-02-01
+320190,ES,Domingos Martins,Metropolitana,1,2024-02-01
+320220,ES,Fundão,Metropolitana,1,2024-02-01
+320240,ES,Guarapari,Metropolitana,1,2024-02-01
+320245,ES,Ibatiba,Metropolitana,1,2024-02-01
+320270,ES,Itaguaçu,Metropolitana,1,2024-02-01
+320290,ES,Itarana,Metropolitana,1,2024-02-01
+320316,ES,Laranja da Terra,Metropolitana,1,2024-02-01
+320334,ES,Marechal Floriano,Metropolitana,1,2024-02-01
+320450,ES,Santa Leopoldina,Metropolitana,1,2024-02-01
+320455,ES,Santa Maria de Jetibá,Metropolitana,1,2024-02-01
+320460,ES,Santa Teresa,Metropolitana,1,2024-02-01
+320500,ES,Serra,Metropolitana,1,2024-02-01
+320506,ES,Venda Nova do Imigrante,Metropolitana,1,2024-02-01
+320510,ES,Viana,Metropolitana,1,2024-02-01
+320520,ES,Vila Velha,Metropolitana,1,2024-02-01
+320530,ES,Vitória,Metropolitana,1,2024-02-01
+520005,GO,Abadia de Goiás,Central,1,2024-02-01
+520010,GO,Abadiânia,Pirineus,1,2024-02-01
+520013,GO,Acreúna,Sudoeste I,1,2024-02-01
+520017,GO,Água Fria de Goiás,Entorno Norte,1,2024-02-01
+520020,GO,Água Limpa,Sul,1,2024-02-01
+520025,GO,Águas Lindas de Goiás,Entorno Sul,1,2024-02-01
+520030,GO,Alexânia,Pirineus,1,2024-02-01
+520050,GO,Aloândia,Sul,1,2024-02-01
+520060,GO,Alto Paraíso de Goiás,Entorno Norte,1,2024-02-01
+520110,GO,Anápolis,Pirineus,1,2024-02-01
+520120,GO,Anhanguera,Estrada de Ferro,1,2024-02-01
+520130,GO,Anicuns,Central,1,2024-02-01
+520140,GO,Aparecida de Goiânia,Centro Sul,1,2024-02-01
+520145,GO,Aparecida do Rio Doce,Sudoeste I,1,2024-02-01
+520150,GO,Aporé,Sudoeste II,1,2024-02-01
+520160,GO,Araçu,Central,1,2024-02-01
+520180,GO,Aragoiânia,Centro Sul,1,2024-02-01
+520280,GO,Avelinópolis,Central,1,2024-02-01
+520330,GO,Bela Vista de Goiás,Centro Sul,1,2024-02-01
+520350,GO,Bom Jesus de Goiás,Sul,1,2024-02-01
+520355,GO,Bonfinópolis,Centro Sul,1,2024-02-01
+520360,GO,Brazabrantes,Central,1,2024-02-01
+520390,GO,Buriti Alegre,Sul,1,2024-02-01
+520400,GO,Cabeceiras,Entorno Norte,1,2024-02-01
+520410,GO,Cachoeira Alta,Sudoeste I,1,2024-02-01
+520425,GO,Cachoeira Dourada,Sul,1,2024-02-01
+520430,GO,Caçu,Sudoeste I,1,2024-02-01
+520440,GO,Caiapônia,Sudoeste II,1,2024-02-01
+520450,GO,Caldas Novas,Estrada de Ferro,1,2024-02-01
+520455,GO,Caldazinha,Centro Sul,1,2024-02-01
+520460,GO,Campestre de Goiás,Central,1,2024-02-01
+520480,GO,Campo Alegre de Goiás,Estrada de Ferro,1,2024-02-01
+520485,GO,Campo Limpo de Goiás,Pirineus,1,2024-02-01
+520505,GO,Castelândia,Sudoeste I,1,2024-02-01
+520510,GO,Catalão,Estrada de Ferro,1,2024-02-01
+520520,GO,Caturaí,Central,1,2024-02-01
+520545,GO,Cezarina,Centro Sul,1,2024-02-01
+520547,GO,Chapadão do Céu,Sudoeste II,1,2024-02-01
+520549,GO,Cidade Ocidental,Entorno Sul,1,2024-02-01
+520551,GO,Cocalzinho de Goiás,Pirineus,1,2024-02-01
+520580,GO,Corumbá de Goiás,Pirineus,1,2024-02-01
+520590,GO,Corumbaíba,Estrada de Ferro,1,2024-02-01
+520620,GO,Cristalina,Entorno Sul,1,2024-02-01
+520630,GO,Cristianópolis,Centro Sul,1,2024-02-01
+520650,GO,Cromínia,Centro Sul,1,2024-02-01
+520660,GO,Cumari,Estrada de Ferro,1,2024-02-01
+520680,GO,Damolândia,Central,1,2024-02-01
+520690,GO,Davinópolis,Estrada de Ferro,1,2024-02-01
+520725,GO,Doverlândia,Sudoeste II,1,2024-02-01
+520735,GO,Edealina,Centro Sul,1,2024-02-01
+520740,GO,Edéia,Centro Sul,1,2024-02-01
+520790,GO,Flores de Goiás,Entorno Norte,1,2024-02-01
+520800,GO,Formosa,Entorno Norte,1,2024-02-01
+520815,GO,Gameleira de Goiás,Pirineus,1,2024-02-01
+520840,GO,Goianápolis,Pirineus,1,2024-02-01
+520850,GO,Goiandira,Estrada de Ferro,1,2024-02-01
+520870,GO,Goiânia,Central,1,2024-02-01
+520880,GO,Goianira,Central,1,2024-02-01
+520910,GO,Goiatuba,Sul,1,2024-02-01
+520915,GO,Gouvelândia,Sul,1,2024-02-01
+520920,GO,Guapó,Central,1,2024-02-01
+520970,GO,Hidrolândia,Centro Sul,1,2024-02-01
+520993,GO,Inaciolândia,Sul,1,2024-02-01
+520995,GO,Indiara,Centro Sul,1,2024-02-01
+521000,GO,Inhumas,Central,1,2024-02-01
+521010,GO,Ipameri,Estrada de Ferro,1,2024-02-01
+521056,GO,Itaguari,Central,1,2024-02-01
+521080,GO,Itajá,Sudoeste I,1,2024-02-01
+521130,GO,Itarumã,Sudoeste I,1,2024-02-01
+521140,GO,Itauçu,Central,1,2024-02-01
+521150,GO,Itumbiara,Sul,1,2024-02-01
+521170,GO,Jandaia,Centro Sul,1,2024-02-01
+521190,GO,Jataí,Sudoeste II,1,2024-02-01
+521205,GO,Jesúpolis,Central,1,2024-02-01
+521210,GO,Joviânia,Sul,1,2024-02-01
+521225,GO,Lagoa Santa,Sudoeste I,1,2024-02-01
+521230,GO,Leopoldo de Bulhões,Centro Sul,1,2024-02-01
+521250,GO,Luziânia,Entorno Sul,1,2024-02-01
+521260,GO,Mairipotaba,Centro Sul,1,2024-02-01
+521290,GO,Marzagão,Estrada de Ferro,1,2024-02-01
+521300,GO,Maurilândia,Sudoeste I,1,2024-02-01
+521310,GO,Mineiros,Sudoeste II,1,2024-02-01
+521375,GO,Montividiu,Sudoeste I,1,2024-02-01
+521380,GO,Morrinhos,Sul,1,2024-02-01
+521440,GO,Nazário,Central,1,2024-02-01
+521450,GO,Nerópolis,Central,1,2024-02-01
+521480,GO,Nova Aurora,Estrada de Ferro,1,2024-02-01
+521500,GO,Nova Veneza,Central,1,2024-02-01
+521523,GO,Novo Gama,Entorno Sul,1,2024-02-01
+521530,GO,Orizona,Centro Sul,1,2024-02-01
+521540,GO,Ouro Verde de Goiás,Central,1,2024-02-01
+521550,GO,Ouvidor,Estrada de Ferro,1,2024-02-01
+521580,GO,Palmelo,Estrada de Ferro,1,2024-02-01
+521600,GO,Panamá,Sul,1,2024-02-01
+521630,GO,Paranaiguara,Sudoeste I,1,2024-02-01
+521645,GO,Perolândia,Sudoeste II,1,2024-02-01
+521680,GO,Petrolina de Goiás,Central,1,2024-02-01
+521710,GO,Piracanjuba,Centro Sul,1,2024-02-01
+521730,GO,Pirenópolis,Pirineus,1,2024-02-01
+521740,GO,Pires do Rio,Estrada de Ferro,1,2024-02-01
+521760,GO,Planaltina,Entorno Norte,1,2024-02-01
+521770,GO,Pontalina,Centro Sul,1,2024-02-01
+521805,GO,Porteirão,Sudoeste I,1,2024-02-01
+521810,GO,Portelândia,Sudoeste II,1,2024-02-01
+521839,GO,Professor Jamil,Centro Sul,1,2024-02-01
+521850,GO,Quirinópolis,Sudoeste I,1,2024-02-01
+521878,GO,Rio Quente,Estrada de Ferro,1,2024-02-01
+521880,GO,Rio Verde,Sudoeste I,1,2024-02-01
+521910,GO,Santa Bárbara de Goiás,Central,1,2024-02-01
+521920,GO,Santa Cruz de Goiás,Estrada de Ferro,1,2024-02-01
+521930,GO,Santa Helena de Goiás,Sudoeste I,1,2024-02-01
+521940,GO,Santa Rita do Araguaia,Sudoeste II,1,2024-02-01
+521950,GO,Santa Rosa de Goiás,Central,1,2024-02-01
+521971,GO,Santo Antônio da Barra,Sudoeste I,1,2024-02-01
+521973,GO,Santo Antônio de Goiás,Central,1,2024-02-01
+521975,GO,Santo Antônio do Descoberto,Entorno Sul,1,2024-02-01
+521990,GO,São Francisco de Goiás,Central,1,2024-02-01
+522000,GO,São João d'Aliança,Entorno Norte,1,2024-02-01
+522026,GO,São Miguel do Passa Quatro,Centro Sul,1,2024-02-01
+522040,GO,São Simão,Sudoeste I,1,2024-02-01
+522045,GO,Senador Canedo,Centro Sul,1,2024-02-01
+522050,GO,Serranópolis,Sudoeste II,1,2024-02-01
+522060,GO,Silvânia,Centro Sul,1,2024-02-01
+522100,GO,Taquaral de Goiás,Central,1,2024-02-01
+522119,GO,Terezópolis de Goiás,Pirineus,1,2024-02-01
+522130,GO,Três Ranchos,Estrada de Ferro,1,2024-02-01
+522140,GO,Trindade,Central,1,2024-02-01
+522155,GO,Turvelândia,Sudoeste I,1,2024-02-01
+522180,GO,Urutaí,Estrada de Ferro,1,2024-02-01
+522185,GO,Valparaíso de Goiás,Entorno Sul,1,2024-02-01
+522190,GO,Varjão,Centro Sul,1,2024-02-01
+522200,GO,Vianópolis,Centro Sul,1,2024-02-01
+522205,GO,Vicentinópolis,Centro Sul,1,2024-02-01
+522220,GO,Vila Boa,Entorno Norte,1,2024-02-01
+210020,MA,Alcântara,São Luís,1,2024-02-01
+210750,MA,Paço do Lumiar,São Luís,1,2024-02-01
+210945,MA,Raposa,São Luís,1,2024-02-01
+211120,MA,São José de Ribamar,São Luís,1,2024-02-01
+211130,MA,São Luís,São Luís,1,2024-02-01
+310300,MG,Antônio Dias,Coronel Fabriciano/Timóteo,1,2024-02-01
+310620,MG,Belo Horizonte,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+310640,MG,Belo Vale,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+311000,MG,Caeté,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+311940,MG,Coronel Fabriciano,Coronel Fabriciano/Timóteo,1,2024-02-01
+312000,MG,Córrego Novo,Coronel Fabriciano/Timóteo,1,2024-02-01
+312180,MG,Dionísio,Coronel Fabriciano/Timóteo,1,2024-02-01
+313460,MG,Jaboticatubas,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+313500,MG,Jaguaraçu,Coronel Fabriciano/Timóteo,1,2024-02-01
+314030,MG,Marliéria,Coronel Fabriciano/Timóteo,1,2024-02-01
+314230,MG,Moeda,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+314480,MG,Nova Lima,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+313660,MG,Nova União,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+315053,MG,Pingo-d'Água,Coronel Fabriciano/Timóteo,1,2024-02-01
+315390,MG,Raposos,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+315460,MG,Ribeirão das Neves,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+315480,MG,Rio Acima,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+315670,MG,Sabará,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+315780,MG,Santa Luzia,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+315800,MG,Santa Maria de Itabira,Coronel Fabriciano/Timóteo,1,2024-02-01
+316830,MG,Taquaraçu de Minas,Belo Horizonte/ Nova Lima/ Caeté,1,2024-02-01
+316870,MG,Timóteo,Coronel Fabriciano/Timóteo,1,2024-02-01
+500020,MS,Água Clara,Três Lagoas,1,2024-02-01
+500025,MS,Alcinópolis,Campo Grande,1,2024-02-01
+500060,MS,Amambai,Dourados,1,2024-02-01
+500070,MS,Anastácio,Campo Grande,1,2024-02-01
+500080,MS,Anaurilândia,Dourados,1,2024-02-01
+500085,MS,Angélica,Dourados,1,2024-02-01
+500090,MS,Antônio João,Dourados,1,2024-02-01
+500100,MS,Aparecida do Taboado,Três Lagoas,1,2024-02-01
+500110,MS,Aquidauana,Campo Grande,1,2024-02-01
+500124,MS,Aral Moreira,Dourados,1,2024-02-01
+500150,MS,Bandeirantes,Campo Grande,1,2024-02-01
+500190,MS,Bataguassu,Três Lagoas,1,2024-02-01
+500200,MS,Batayporã,Dourados,1,2024-02-01
+500210,MS,Bela Vista,Campo Grande,1,2024-02-01
+500215,MS,Bodoquena,Campo Grande,1,2024-02-01
+500220,MS,Bonito,Campo Grande,1,2024-02-01
+500230,MS,Brasilândia,Três Lagoas,1,2024-02-01
+500240,MS,Caarapó,Dourados,1,2024-02-01
+500260,MS,Camapuã,Campo Grande,1,2024-02-01
+500270,MS,Campo Grande,Campo Grande,1,2024-02-01
+500280,MS,Caracol,Campo Grande,1,2024-02-01
+500290,MS,Cassilândia,Três Lagoas,1,2024-02-01
+500295,MS,Chapadão do Sul,Campo Grande,1,2024-02-01
+500310,MS,Corguinho,Campo Grande,1,2024-02-01
+500315,MS,Coronel Sapucaia,Dourados,1,2024-02-01
+500320,MS,Corumbá,Corumbá,1,2024-02-01
+500325,MS,Costa Rica,Campo Grande,1,2024-02-01
+500330,MS,Coxim,Campo Grande,1,2024-02-01
+500345,MS,Deodápolis,Dourados,1,2024-02-01
+500348,MS,Dois Irmãos do Buriti,Campo Grande,1,2024-02-01
+500350,MS,Douradina,Dourados,1,2024-02-01
+500375,MS,Eldorado,Dourados,1,2024-02-01
+500380,MS,Fátima do Sul,Dourados,1,2024-02-01
+500390,MS,Figueirão,Campo Grande,1,2024-02-01
+500400,MS,Glória de Dourados,Dourados,1,2024-02-01
+500410,MS,Guia Lopes da Laguna,Campo Grande,1,2024-02-01
+500430,MS,Iguatemi,Dourados,1,2024-02-01
+500440,MS,Inocência,Três Lagoas,1,2024-02-01
+500450,MS,Itaporã,Dourados,1,2024-02-01
+500460,MS,Itaquiraí,Dourados,1,2024-02-01
+500470,MS,Ivinhema,Dourados,1,2024-02-01
+500480,MS,Japorã,Dourados,1,2024-02-01
+500490,MS,Jaraguari,Campo Grande,1,2024-02-01
+500500,MS,Jardim,Campo Grande,1,2024-02-01
+500510,MS,Jateí,Dourados,1,2024-02-01
+500515,MS,Juti,Dourados,1,2024-02-01
+500520,MS,Ladário,Corumbá,1,2024-02-01
+500525,MS,Laguna Carapã,Dourados,1,2024-02-01
+500540,MS,Maracaju,Campo Grande,1,2024-02-01
+500560,MS,Miranda,Campo Grande,1,2024-02-01
+500568,MS,Mundo Novo,Dourados,1,2024-02-01
+500570,MS,Naviraí,Dourados,1,2024-02-01
+500580,MS,Nioaque,Campo Grande,1,2024-02-01
+500600,MS,Nova Alvorada do Sul,Campo Grande,1,2024-02-01
+500620,MS,Nova Andradina,Dourados,1,2024-02-01
+500625,MS,Novo Horizonte do Sul,Dourados,1,2024-02-01
+500627,MS,Paraíso das Águas,Campo Grande,1,2024-02-01
+500630,MS,Paranaíba,Três Lagoas,1,2024-02-01
+500635,MS,Paranhos,Dourados,1,2024-02-01
+500640,MS,Pedro Gomes,Campo Grande,1,2024-02-01
+500660,MS,Ponta Porã,Dourados,1,2024-02-01
+500690,MS,Porto Murtinho,Campo Grande,1,2024-02-01
+500710,MS,Ribas do Rio Pardo,Campo Grande,1,2024-02-01
+500720,MS,Rio Brilhante,Dourados,1,2024-02-01
+500730,MS,Rio Negro,Campo Grande,1,2024-02-01
+500740,MS,Rio Verde de Mato Grosso,Campo Grande,1,2024-02-01
+500750,MS,Rochedo,Campo Grande,1,2024-02-01
+500755,MS,Santa Rita do Pardo,Três Lagoas,1,2024-02-01
+500769,MS,São Gabriel do Oeste,Campo Grande,1,2024-02-01
+500780,MS,Selvíria,Três Lagoas,1,2024-02-01
+500770,MS,Sete Quedas,Dourados,1,2024-02-01
+500790,MS,Sidrolândia,Campo Grande,1,2024-02-01
+500793,MS,Sonora,Campo Grande,1,2024-02-01
+500795,MS,Tacuru,Dourados,1,2024-02-01
+500797,MS,Taquarussu,Dourados,1,2024-02-01
+500800,MS,Terenos,Campo Grande,1,2024-02-01
+500830,MS,Três Lagoas,Três Lagoas,1,2024-02-01
+500840,MS,Vicentina,Dourados,1,2024-02-01
+250060,PB,Alhandra,1ª Região Mata Atlântica,1,2024-02-01
+250180,PB,Bayeux,1ª Região Mata Atlântica,1,2024-02-01
+250300,PB,Caaporã,1ª Região Mata Atlântica,1,2024-02-01
+250320,PB,Cabedelo,1ª Região Mata Atlântica,1,2024-02-01
+250460,PB,Conde,1ª Região Mata Atlântica,1,2024-02-01
+250490,PB,Cruz do Espírito Santo,1ª Região Mata Atlântica,1,2024-02-01
+250750,PB,João Pessoa,1ª Região Mata Atlântica,1,2024-02-01
+250860,PB,Lucena,1ª Região Mata Atlântica,1,2024-02-01
+250910,PB,Mari,1ª Região Mata Atlântica,1,2024-02-01
+251190,PB,Pitimbu,1ª Região Mata Atlântica,1,2024-02-01
+251276,PB,Riachão do Poço,1ª Região Mata Atlântica,1,2024-02-01
+251370,PB,Santa Rita,1ª Região Mata Atlântica,1,2024-02-01
+251530,PB,Sapé,1ª Região Mata Atlântica,1,2024-02-01
+251597,PB,Sobrado,1ª Região Mata Atlântica,1,2024-02-01
+410080,PR,Alvorada do Sul,17ª RS Londrina,1,2024-02-01
+410190,PR,Assaí,17ª RS Londrina,1,2024-02-01
+410280,PR,Bela Vista do Paraíso,17ª RS Londrina,1,2024-02-01
+410340,PR,Cafeara,17ª RS Londrina,1,2024-02-01
+410370,PR,Cambé,17ª RS Londrina,1,2024-02-01
+410510,PR,Centenário do Sul,17ª RS Londrina,1,2024-02-01
+410800,PR,Florestópolis,17ª RS Londrina,1,2024-02-01
+410830,PR,Foz do Iguaçu,9ª RS Foz do Iguaçu,1,2024-02-01
+410920,PR,Guaraci,17ª RS Londrina,1,2024-02-01
+410980,PR,Ibiporã,17ª RS Londrina,1,2024-02-01
+411095,PR,Itaipulândia,9ª RS Foz do Iguaçu,1,2024-02-01
+411190,PR,Jaguapitã,17ª RS Londrina,1,2024-02-01
+411270,PR,Jataizinho,17ª RS Londrina,1,2024-02-01
+411370,PR,Londrina,17ª RS Londrina,1,2024-02-01
+411380,PR,Lupionópolis,17ª RS Londrina,1,2024-02-01
+411560,PR,Matelândia,9ª RS Foz do Iguaçu,1,2024-02-01
+411580,PR,Medianeira,9ª RS Foz do Iguaçu,1,2024-02-01
+411600,PR,Miraselva,17ª RS Londrina,1,2024-02-01
+411605,PR,Missal,9ª RS Foz do Iguaçu,1,2024-02-01
+411965,PR,Pitangueiras,17ª RS Londrina,1,2024-02-01
+412000,PR,Porecatu,17ª RS Londrina,1,2024-02-01
+412033,PR,Prado Ferreira,17ª RS Londrina,1,2024-02-01
+412050,PR,Primeiro de Maio,17ª RS Londrina,1,2024-02-01
+412125,PR,Ramilândia,9ª RS Foz do Iguaçu,1,2024-02-01
+412240,PR,Rolândia,17ª RS Londrina,1,2024-02-01
+412405,PR,Santa Terezinha de Itaipu,9ª RS Foz do Iguaçu,1,2024-02-01
+412570,PR,São Miguel do Iguaçu,9ª RS Foz do Iguaçu,1,2024-02-01
+412635,PR,Serranópolis do Iguaçu,9ª RS Foz do Iguaçu,1,2024-02-01
+412650,PR,Sertanópolis,17ª RS Londrina,1,2024-02-01
+412667,PR,Tamarana,17ª RS Londrina,1,2024-02-01
+330045,RJ,Belford Roxo,Metropolitana I,1,2024-02-01
+330170,RJ,Duque de Caxias,Metropolitana I,1,2024-02-01
+330200,RJ,Itaguaí,Metropolitana I,1,2024-02-01
+330227,RJ,Japeri,Metropolitana I,1,2024-02-01
+330250,RJ,Magé,Metropolitana I,1,2024-02-01
+330285,RJ,Mesquita,Metropolitana I,1,2024-02-01
+330320,RJ,Nilópolis,Metropolitana I,1,2024-02-01
+330350,RJ,Nova Iguaçu,Metropolitana I,1,2024-02-01
+330414,RJ,Queimados,Metropolitana I,1,2024-02-01
+330455,RJ,Rio de Janeiro,Metropolitana I,1,2024-02-01
+330510,RJ,São João de Meriti,Metropolitana I,1,2024-02-01
+330555,RJ,Seropédica,Metropolitana I,1,2024-02-01
+240100,RN,Apodi,2ª Região de Saúde - Mossoró,1,2024-02-01
+240110,RN,Areia Branca,2ª Região de Saúde - Mossoró,1,2024-02-01
+240130,RN,Augusto Severo,2ª Região de Saúde - Mossoró,1,2024-02-01
+240145,RN,Baraúna,2ª Região de Saúde - Mossoró,1,2024-02-01
+240230,RN,Caraúbas,2ª Região de Saúde - Mossoró,1,2024-02-01
+240360,RN,Extremoz,7ª Região de Saúde - Metropolitana,1,2024-02-01
+240370,RN,Felipe Guerra,2ª Região de Saúde - Mossoró,1,2024-02-01
+240430,RN,Governador Dix-Sept Rosado,2ª Região de Saúde - Mossoró,1,2024-02-01
+240440,RN,Grossos,2ª Região de Saúde - Mossoró,1,2024-02-01
+240520,RN,Janduís,2ª Região de Saúde - Mossoró,1,2024-02-01
+240710,RN,Macaíba,7ª Região de Saúde - Metropolitana,1,2024-02-01
+240760,RN,Messias Targino,2ª Região de Saúde - Mossoró,1,2024-02-01
+240800,RN,Mossoró,2ª Região de Saúde - Mossoró,1,2024-02-01
+240810,RN,Natal,7ª Região de Saúde - Metropolitana,1,2024-02-01
+240325,RN,Parnamirim,7ª Região de Saúde - Metropolitana,1,2024-02-01
+241200,RN,São Gonçalo do Amarante,7ª Região de Saúde - Metropolitana,1,2024-02-01
+241335,RN,Serra do Mel,2ª Região de Saúde - Mossoró,1,2024-02-01
+241105,RN,Tibau,2ª Região de Saúde - Mossoró,1,2024-02-01
+241460,RN,Upanema,2ª Região de Saúde - Mossoró,1,2024-02-01
+140005,RR,Alto Alegre,Centro Norte,1,2024-02-01
+140002,RR,Amajari,Centro Norte,1,2024-02-01
+140010,RR,Boa Vista,Centro Norte,1,2024-02-01
+140015,RR,Bonfim,Centro Norte,1,2024-02-01
+140017,RR,Cantá,Centro Norte,1,2024-02-01
+140028,RR,Iracema,Centro Norte,1,2024-02-01
+140030,RR,Mucajaí,Centro Norte,1,2024-02-01
+140040,RR,Normandia,Centro Norte,1,2024-02-01
+140045,RR,Pacaraima,Centro Norte,1,2024-02-01
+140070,RR,Uiramutã,Centro Norte,1,2024-02-01
+420130,SC,Araquari,Nordeste,1,2024-02-01
+420205,SC,Balneário Barra do Sul,Nordeste,1,2024-02-01
+420210,SC,Barra Velha,Nordeste,1,2024-02-01
+420450,SC,Corupá,Nordeste,1,2024-02-01
+420580,SC,Garuva,Nordeste,1,2024-02-01
+420650,SC,Guaramirim,Nordeste,1,2024-02-01
+420845,SC,Itapoá,Nordeste,1,2024-02-01
+420890,SC,Jaraguá do Sul,Nordeste,1,2024-02-01
+420910,SC,Joinville,Nordeste,1,2024-02-01
+421060,SC,Massaranduba,Nordeste,1,2024-02-01
+421620,SC,São Francisco do Sul,Nordeste,1,2024-02-01
+421635,SC,São João do Itaperiú,Nordeste,1,2024-02-01
+421740,SC,Schroeder,Nordeste,1,2024-02-01
+350390,SP,Arujá,Alto do Tietê,1,2024-02-01
+350660,SP,Biritiba-Mirim,Alto do Tietê,1,2024-02-01
+351570,SP,Ferraz de Vasconcelos,Alto do Tietê,1,2024-02-01
+351830,SP,Guararema,Alto do Tietê,1,2024-02-01
+351880,SP,Guarulhos,Alto do Tietê,1,2024-02-01
+352310,SP,Itaquaquecetuba,Alto do Tietê,1,2024-02-01
+353060,SP,Mogi das Cruzes,Alto do Tietê,1,2024-02-01
+353980,SP,Poá,Alto do Tietê,1,2024-02-01
+354500,SP,Salesópolis,Alto do Tietê,1,2024-02-01
+354680,SP,Santa Isabel,Alto do Tietê,1,2024-02-01
+355250,SP,Suzano,Alto do Tietê,1,2024-02-01
+170110,TO,Aparecida do Rio Negro,Capim Dourado,1,2024-02-01
+170825,TO,Fortaleza do Tabocão,Capim Dourado,1,2024-02-01
+171195,TO,Lagoa do Tocantins,Capim Dourado,1,2024-02-01
+171200,TO,Lajeado,Capim Dourado,1,2024-02-01
+171240,TO,Lizarda,Capim Dourado,1,2024-02-01
+171320,TO,Miracema do Tocantins,Capim Dourado,1,2024-02-01
+171330,TO,Miranorte,Capim Dourado,1,2024-02-01
+171510,TO,Novo Acordo,Capim Dourado,1,2024-02-01
+172100,TO,Palmas,Capim Dourado,1,2024-02-01
+171870,TO,Rio dos Bois,Capim Dourado,1,2024-02-01
+171875,TO,Rio Sono,Capim Dourado,1,2024-02-01
+171900,TO,Santa Tereza do Tocantins,Capim Dourado,1,2024-02-01
+172015,TO,São Félix do Tocantins,Capim Dourado,1,2024-02-01
+172110,TO,Tocantínia,Capim Dourado,1,2024-02-01
+120005,AC,Assis Brasil,ALTO ACRE,expanded,2024-07-01
+120010,AC,Brasiléia,ALTO ACRE,expanded,2024-07-01
+120020,AC,Cruzeiro do Sul,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120025,AC,Epitaciolândia,ALTO ACRE,expanded,2024-07-01
+120030,AC,Feijó,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120033,AC,Mâncio Lima,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120035,AC,Marechal Thaumaturgo,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120039,AC,Porto Walter,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120042,AC,Rodrigues Alves,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120060,AC,Tarauacá,JURUA E TARAUACA/ENVIRA,expanded,2024-07-01
+120070,AC,Xapuri,ALTO ACRE,expanded,2024-07-01
+270030,AL,Arapiraca,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270050,AL,Barra de Santo Antônio,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270060,AL,Barra de São Miguel,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270070,AL,Batalha,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270090,AL,Belo Monte,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270150,AL,Campo Grande,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270200,AL,Coité do Nóia,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270220,AL,Coqueiro Seco,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270235,AL,Craíbas,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270260,AL,Feira Grande,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270280,AL,Flexeiras,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270290,AL,Girau do Ponciano,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270340,AL,Jacaré dos Homens,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270370,AL,Jaramataia,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270410,AL,Lagoa da Canoa,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270420,AL,Limoeiro de Anadia,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270430,AL,Maceió,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270440,AL,Major Isidoro,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270470,AL,Marechal Deodoro,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270520,AL,Messias,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270590,AL,Olho d'Água Grande,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270644,AL,Paripueira,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270690,AL,Pilar,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270770,AL,Rio Largo,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270790,AL,Santa Luzia do Norte,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270880,AL,São Sebastião,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270890,AL,Satuba,1ª REGIAO DE SAUDE,expanded,2024-07-01
+270910,AL,Taquarana,7ª REGIAO DE SAUDE,expanded,2024-07-01
+270920,AL,Traipu,7ª REGIAO DE SAUDE,expanded,2024-07-01
+130002,AM,Alvarães,TRIANGULO,expanded,2024-07-01
+130008,AM,Anamã,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130010,AM,Anori,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130060,AM,Benjamin Constant,ALTO SOLIMOES,expanded,2024-07-01
+130063,AM,Beruri,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130070,AM,Boca do Acre,REGIONAL PURUS,expanded,2024-07-01
+130080,AM,Borba,RIO MADEIRA,expanded,2024-07-01
+130083,AM,Caapiranga,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130090,AM,Canutama,REGIONAL PURUS,expanded,2024-07-01
+130100,AM,Carauari,REGIONAL JURUA,expanded,2024-07-01
+130120,AM,Coari,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130130,AM,Codajás,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130150,AM,Envira,REGIONAL JURUA,expanded,2024-07-01
+130170,AM,Humaitá,RIO MADEIRA,expanded,2024-07-01
+130190,AM,Itacoatiara,MEDIO AMAZONAS,expanded,2024-07-01
+130210,AM,Japurá,TRIANGULO,expanded,2024-07-01
+130220,AM,Juruá,TRIANGULO,expanded,2024-07-01
+130230,AM,Jutaí,ALTO SOLIMOES,expanded,2024-07-01
+130240,AM,Lábrea,REGIONAL PURUS,expanded,2024-07-01
+130250,AM,Manacapuru,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130280,AM,Maraã,TRIANGULO,expanded,2024-07-01
+130320,AM,Novo Airão,RIO NEGRO E SOLIMOES,expanded,2024-07-01
+130350,AM,Pauini,REGIONAL PURUS,expanded,2024-07-01
+130406,AM,Tabatinga,ALTO SOLIMOES,expanded,2024-07-01
+130410,AM,Tapauá,REGIONAL PURUS,expanded,2024-07-01
+130420,AM,Tefé,TRIANGULO,expanded,2024-07-01
+130423,AM,Tonantins,ALTO SOLIMOES,expanded,2024-07-01
+130426,AM,Uarini,TRIANGULO,expanded,2024-07-01
+160010,AP,Amapá,AREA NORTE,expanded,2024-07-01
+160020,AP,Calçoene,AREA NORTE,expanded,2024-07-01
+160021,AP,Cutias,AREA CENTRAL,expanded,2024-07-01
+160023,AP,Ferreira Gomes,AREA CENTRAL,expanded,2024-07-01
+160025,AP,Itaubal,AREA CENTRAL,expanded,2024-07-01
+160027,AP,Laranjal do Jari,AREA SUDOESTE,expanded,2024-07-01
+160030,AP,Macapá,AREA CENTRAL,expanded,2024-07-01
+160040,AP,Mazagão,AREA SUDOESTE,expanded,2024-07-01
+160050,AP,Oiapoque,AREA NORTE,expanded,2024-07-01
+160015,AP,Pedra Branca do Amapari,AREA CENTRAL,expanded,2024-07-01
+160053,AP,Porto Grande,AREA CENTRAL,expanded,2024-07-01
+160055,AP,Pracuúba,AREA NORTE,expanded,2024-07-01
+160060,AP,Santana,AREA SUDOESTE,expanded,2024-07-01
+160005,AP,Serra do Navio,AREA CENTRAL,expanded,2024-07-01
+160070,AP,Tartarugalzinho,AREA NORTE,expanded,2024-07-01
+160080,AP,Vitória do Jari,AREA SUDOESTE,expanded,2024-07-01
+290020,BA,Abaré,PAULO AFONSO,expanded,2024-07-01
+290040,BA,Água Fria,SERRINHA,expanded,2024-07-01
+290080,BA,Alcobaça,TEIXEIRA DE FREITAS,expanded,2024-07-01
+290100,BA,Amargosa,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+290120,BA,Anagé,VITORIA DA CONQUISTA,expanded,2024-07-01
+290210,BA,Araci,SERRINHA,expanded,2024-07-01
+290230,BA,Aratuípe,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+290290,BA,Barra do Choça,VITORIA DA CONQUISTA,expanded,2024-07-01
+290327,BA,Barrocas,SERRINHA,expanded,2024-07-01
+290340,BA,Belmonte,PORTO SEGURO,expanded,2024-07-01
+290350,BA,Belo Campo,VITORIA DA CONQUISTA,expanded,2024-07-01
+290360,BA,Biritinga,SERRINHA,expanded,2024-07-01
+290390,BA,Bom Jesus da Lapa,SANTA MARIA DA VITORIA,expanded,2024-07-01
+290395,BA,Bom Jesus da Serra,VITORIA DA CONQUISTA,expanded,2024-07-01
+290405,BA,Bonito,ITABERABA,expanded,2024-07-01
+290420,BA,Botuporã,GUANAMBI,expanded,2024-07-01
+290500,BA,Caculé,GUANAMBI,expanded,2024-07-01
+290510,BA,Caém,JACOBINA,expanded,2024-07-01
+290515,BA,Caetanos,VITORIA DA CONQUISTA,expanded,2024-07-01
+290520,BA,Caetité,GUANAMBI,expanded,2024-07-01
+290550,BA,Caldeirão Grande,JACOBINA,expanded,2024-07-01
+290610,BA,Canápolis,SANTA MARIA DA VITORIA,expanded,2024-07-01
+290660,BA,Candiba,GUANAMBI,expanded,2024-07-01
+290670,BA,Cândido Sales,VITORIA DA CONQUISTA,expanded,2024-07-01
+290680,BA,Cansanção,SERRINHA,expanded,2024-07-01
+290687,BA,Capim Grosso,JACOBINA,expanded,2024-07-01
+290689,BA,Caraíbas,VITORIA DA CONQUISTA,expanded,2024-07-01
+290690,BA,Caravelas,TEIXEIRA DE FREITAS,expanded,2024-07-01
+290710,BA,Carinhanha,GUANAMBI,expanded,2024-07-01
+290730,BA,Castro Alves,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+290770,BA,Chorrochó,PAULO AFONSO,expanded,2024-07-01
+290810,BA,Cocos,SANTA MARIA DA VITORIA,expanded,2024-07-01
+290830,BA,Conceição do Almeida,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+290840,BA,Conceição do Coité,SERRINHA,expanded,2024-07-01
+290870,BA,Condeúba,VITORIA DA CONQUISTA,expanded,2024-07-01
+290900,BA,Cordeiros,VITORIA DA CONQUISTA,expanded,2024-07-01
+290910,BA,Coribe,SANTA MARIA DA VITORIA,expanded,2024-07-01
+290930,BA,Correntina,SANTA MARIA DA VITORIA,expanded,2024-07-01
+291020,BA,Dom Macedo Costa,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+291030,BA,Elísio Medrado,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+291040,BA,Encruzilhada,VITORIA DA CONQUISTA,expanded,2024-07-01
+291070,BA,Euclides da Cunha,SERRINHA,expanded,2024-07-01
+291072,BA,Eunápolis,PORTO SEGURO,expanded,2024-07-01
+291077,BA,Feira da Mata,GUANAMBI,expanded,2024-07-01
+291140,BA,Glória,PAULO AFONSO,expanded,2024-07-01
+291170,BA,Guanambi,GUANAMBI,expanded,2024-07-01
+291180,BA,Guaratinga,PORTO SEGURO,expanded,2024-07-01
+291200,BA,Ibiassucê,GUANAMBI,expanded,2024-07-01
+291280,BA,Ibirapuã,TEIXEIRA DE FREITAS,expanded,2024-07-01
+291340,BA,Igaporã,GUANAMBI,expanded,2024-07-01
+291465,BA,Itabela,PORTO SEGURO,expanded,2024-07-01
+291530,BA,Itagimirim,PORTO SEGURO,expanded,2024-07-01
+291560,BA,Itamaraju,TEIXEIRA DE FREITAS,expanded,2024-07-01
+291600,BA,Itanhém,TEIXEIRA DE FREITAS,expanded,2024-07-01
+291630,BA,Itapebi,PORTO SEGURO,expanded,2024-07-01
+291685,BA,Itatim,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+291733,BA,Iuiu,GUANAMBI,expanded,2024-07-01
+291735,BA,Jaborandi,SANTA MARIA DA VITORIA,expanded,2024-07-01
+291740,BA,Jacaraci,GUANAMBI,expanded,2024-07-01
+291750,BA,Jacobina,JACOBINA,expanded,2024-07-01
+291780,BA,Jaguaripe,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+291810,BA,Jeremoabo,PAULO AFONSO,expanded,2024-07-01
+291820,BA,Jiquiriçá,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+291845,BA,Jucuruçu,TEIXEIRA DE FREITAS,expanded,2024-07-01
+291875,BA,Lagoa Real,GUANAMBI,expanded,2024-07-01
+291880,BA,Laje,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+291890,BA,Lajedão,TEIXEIRA DE FREITAS,expanded,2024-07-01
+291910,BA,Lamarão,SERRINHA,expanded,2024-07-01
+291940,BA,Licínio de Almeida,GUANAMBI,expanded,2024-07-01
+291980,BA,Macaúbas,BRUMADO,expanded,2024-07-01
+291990,BA,Macururé,PAULO AFONSO,expanded,2024-07-01
+291995,BA,Maetinga,VITORIA DA CONQUISTA,expanded,2024-07-01
+292010,BA,Mairi,JACOBINA,expanded,2024-07-01
+292020,BA,Malhada,GUANAMBI,expanded,2024-07-01
+292105,BA,Matina,GUANAMBI,expanded,2024-07-01
+292110,BA,Medeiros Neto,TEIXEIRA DE FREITAS,expanded,2024-07-01
+292120,BA,Miguel Calmon,JACOBINA,expanded,2024-07-01
+292130,BA,Milagres,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292140,BA,Mirangaba,JACOBINA,expanded,2024-07-01
+292145,BA,Mirante,VITORIA DA CONQUISTA,expanded,2024-07-01
+292150,BA,Monte Santo,SERRINHA,expanded,2024-07-01
+292170,BA,Morro do Chapéu,JACOBINA,expanded,2024-07-01
+292180,BA,Mortugaba,GUANAMBI,expanded,2024-07-01
+292200,BA,Mucuri,TEIXEIRA DE FREITAS,expanded,2024-07-01
+292220,BA,Muniz Ferreira,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292240,BA,Mutuípe,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292250,BA,Nazaré,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292265,BA,Nordestina,SERRINHA,expanded,2024-07-01
+292300,BA,Nova Viçosa,TEIXEIRA DE FREITAS,expanded,2024-07-01
+292335,BA,Ourolândia,JACOBINA,expanded,2024-07-01
+292340,BA,Palmas de Monte Alto,GUANAMBI,expanded,2024-07-01
+292400,BA,Paulo Afonso,PAULO AFONSO,expanded,2024-07-01
+292420,BA,Pedro Alexandre,PAULO AFONSO,expanded,2024-07-01
+292450,BA,Pindaí,GUANAMBI,expanded,2024-07-01
+292470,BA,Piripá,VITORIA DA CONQUISTA,expanded,2024-07-01
+292480,BA,Piritiba,JACOBINA,expanded,2024-07-01
+292500,BA,Planalto,VITORIA DA CONQUISTA,expanded,2024-07-01
+292510,BA,Poções,VITORIA DA CONQUISTA,expanded,2024-07-01
+292530,BA,Porto Seguro,PORTO SEGURO,expanded,2024-07-01
+292550,BA,Prado,TEIXEIRA DE FREITAS,expanded,2024-07-01
+292570,BA,Presidente Jânio Quadros,VITORIA DA CONQUISTA,expanded,2024-07-01
+292575,BA,Presidente Tancredo Neves,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292580,BA,Queimadas,SERRINHA,expanded,2024-07-01
+292590,BA,Quijingue,SERRINHA,expanded,2024-07-01
+292593,BA,Quixabeira,JACOBINA,expanded,2024-07-01
+292610,BA,Retirolândia,SERRINHA,expanded,2024-07-01
+292640,BA,Riacho de Santana,GUANAMBI,expanded,2024-07-01
+292665,BA,Ribeirão do Largo,VITORIA DA CONQUISTA,expanded,2024-07-01
+292680,BA,Rio do Antônio,GUANAMBI,expanded,2024-07-01
+292710,BA,Rodelas,PAULO AFONSO,expanded,2024-07-01
+292730,BA,Salinas da Margarida,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292760,BA,Santa Brígida,PAULO AFONSO,expanded,2024-07-01
+292770,BA,Santa Cruz Cabrália,PORTO SEGURO,expanded,2024-07-01
+292800,BA,Santaluz,SERRINHA,expanded,2024-07-01
+292810,BA,Santa Maria da Vitória,SANTA MARIA DA VITORIA,expanded,2024-07-01
+292820,BA,Santana,SANTA MARIA DA VITORIA,expanded,2024-07-01
+292850,BA,Santa Terezinha,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292870,BA,Santo Antônio de Jesus,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292895,BA,São Domingos,SERRINHA,expanded,2024-07-01
+292910,BA,São Felipe,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292905,BA,São Félix do Coribe,SANTA MARIA DA VITORIA,expanded,2024-07-01
+292937,BA,São José do Jacuípe,JACOBINA,expanded,2024-07-01
+292940,BA,São Miguel das Matas,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+292980,BA,Saúde,JACOBINA,expanded,2024-07-01
+293000,BA,Sebastião Laranjeiras,GUANAMBI,expanded,2024-07-01
+293015,BA,Serra do Ramalho,SANTA MARIA DA VITORIA,expanded,2024-07-01
+293030,BA,Serra Dourada,SANTA MARIA DA VITORIA,expanded,2024-07-01
+293050,BA,Serrinha,SERRINHA,expanded,2024-07-01
+293060,BA,Serrolândia,JACOBINA,expanded,2024-07-01
+293075,BA,Sítio do Mato,SANTA MARIA DA VITORIA,expanded,2024-07-01
+293105,BA,Tanque Novo,GUANAMBI,expanded,2024-07-01
+293130,BA,Tapiramutá,JACOBINA,expanded,2024-07-01
+293135,BA,Teixeira de Freitas,TEIXEIRA DE FREITAS,expanded,2024-07-01
+293150,BA,Teofilândia,SERRINHA,expanded,2024-07-01
+293180,BA,Tremedal,VITORIA DA CONQUISTA,expanded,2024-07-01
+293190,BA,Tucano,SERRINHA,expanded,2024-07-01
+293210,BA,Ubaíra,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+293245,BA,Umburanas,JACOBINA,expanded,2024-07-01
+293260,BA,Urandi,GUANAMBI,expanded,2024-07-01
+293300,BA,Valente,SERRINHA,expanded,2024-07-01
+293305,BA,Várzea da Roça,JACOBINA,expanded,2024-07-01
+293310,BA,Várzea do Poço,JACOBINA,expanded,2024-07-01
+293315,BA,Várzea Nova,JACOBINA,expanded,2024-07-01
+293317,BA,Varzedo,SANTO ANTONIO DE JESUS,expanded,2024-07-01
+293325,BA,Vereda,TEIXEIRA DE FREITAS,expanded,2024-07-01
+293330,BA,Vitória da Conquista,VITORIA DA CONQUISTA,expanded,2024-07-01
+230030,CE,Acopiara,2ª RS CARIRI,expanded,2024-07-01
+230060,CE,Altaneira,2ª RS CARIRI,expanded,2024-07-01
+230080,CE,Antonina do Norte,2ª RS CARIRI,expanded,2024-07-01
+230100,CE,Aquiraz,1ª RS FORTALEZA,expanded,2024-07-01
+230130,CE,Araripe,2ª RS CARIRI,expanded,2024-07-01
+230160,CE,Assaré,2ª RS CARIRI,expanded,2024-07-01
+230270,CE,Campos Sales,2ª RS CARIRI,expanded,2024-07-01
+230330,CE,Cariús,2ª RS CARIRI,expanded,2024-07-01
+230360,CE,Catarina,2ª RS CARIRI,expanded,2024-07-01
+230420,CE,Crato,2ª RS CARIRI,expanded,2024-07-01
+230426,CE,Deputado Irapuan Pinheiro,2ª RS CARIRI,expanded,2024-07-01
+230428,CE,Eusébio,1ª RS FORTALEZA,expanded,2024-07-01
+230430,CE,Farias Brito,2ª RS CARIRI,expanded,2024-07-01
+230440,CE,Fortaleza,1ª RS FORTALEZA,expanded,2024-07-01
+230550,CE,Iguatu,2ª RS CARIRI,expanded,2024-07-01
+230625,CE,Itaitinga,1ª RS FORTALEZA,expanded,2024-07-01
+230740,CE,Jucás,2ª RS CARIRI,expanded,2024-07-01
+230850,CE,Mombaça,2ª RS CARIRI,expanded,2024-07-01
+230920,CE,Nova Olinda,2ª RS CARIRI,expanded,2024-07-01
+231090,CE,Piquet Carneiro,2ª RS CARIRI,expanded,2024-07-01
+231120,CE,Potengi,2ª RS CARIRI,expanded,2024-07-01
+231135,CE,Quixelô,2ª RS CARIRI,expanded,2024-07-01
+231190,CE,Saboeiro,2ª RS CARIRI,expanded,2024-07-01
+231195,CE,Salitre,2ª RS CARIRI,expanded,2024-07-01
+231210,CE,Santana do Cariri,2ª RS CARIRI,expanded,2024-07-01
+231325,CE,Tarrafas,2ª RS CARIRI,expanded,2024-07-01
+231400,CE,Várzea Alegre,2ª RS CARIRI,expanded,2024-07-01
+320016,ES,Água Doce do Norte,CENTRAL NORTE,expanded,2024-07-01
+320013,ES,Águia Branca,CENTRAL NORTE,expanded,2024-07-01
+320020,ES,Alegre,SUL,expanded,2024-07-01
+320030,ES,Alfredo Chaves,SUL,expanded,2024-07-01
+320035,ES,Alto Rio Novo,CENTRAL NORTE,expanded,2024-07-01
+320040,ES,Anchieta,SUL,expanded,2024-07-01
+320050,ES,Apiacá,SUL,expanded,2024-07-01
+320060,ES,Aracruz,METROPOLITANA,expanded,2024-07-01
+320070,ES,Atílio Vivacqua,SUL,expanded,2024-07-01
+320080,ES,Baixo Guandu,CENTRAL NORTE,expanded,2024-07-01
+320090,ES,Barra de São Francisco,CENTRAL NORTE,expanded,2024-07-01
+320100,ES,Boa Esperança,CENTRAL NORTE,expanded,2024-07-01
+320110,ES,Bom Jesus do Norte,SUL,expanded,2024-07-01
+320120,ES,Cachoeiro de Itapemirim,SUL,expanded,2024-07-01
+320140,ES,Castelo,SUL,expanded,2024-07-01
+320150,ES,Colatina,CENTRAL NORTE,expanded,2024-07-01
+320160,ES,Conceição da Barra,CENTRAL NORTE,expanded,2024-07-01
+320180,ES,Divino de São Lourenço,SUL,expanded,2024-07-01
+320200,ES,Dores do Rio Preto,SUL,expanded,2024-07-01
+320210,ES,Ecoporanga,CENTRAL NORTE,expanded,2024-07-01
+320225,ES,Governador Lindenberg,CENTRAL NORTE,expanded,2024-07-01
+320230,ES,Guaçuí,SUL,expanded,2024-07-01
+320250,ES,Ibiraçu,METROPOLITANA,expanded,2024-07-01
+320255,ES,Ibitirama,SUL,expanded,2024-07-01
+320260,ES,Iconha,SUL,expanded,2024-07-01
+320265,ES,Irupi,SUL,expanded,2024-07-01
+320280,ES,Itapemirim,SUL,expanded,2024-07-01
+320300,ES,Iúna,SUL,expanded,2024-07-01
+320305,ES,Jaguaré,CENTRAL NORTE,expanded,2024-07-01
+320310,ES,Jerônimo Monteiro,SUL,expanded,2024-07-01
+320313,ES,João Neiva,METROPOLITANA,expanded,2024-07-01
+320320,ES,Linhares,CENTRAL NORTE,expanded,2024-07-01
+320330,ES,Mantenópolis,CENTRAL NORTE,expanded,2024-07-01
+320332,ES,Marataízes,SUL,expanded,2024-07-01
+320335,ES,Marilândia,CENTRAL NORTE,expanded,2024-07-01
+320340,ES,Mimoso do Sul,SUL,expanded,2024-07-01
+320350,ES,Montanha,CENTRAL NORTE,expanded,2024-07-01
+320360,ES,Mucurici,CENTRAL NORTE,expanded,2024-07-01
+320370,ES,Muniz Freire,SUL,expanded,2024-07-01
+320380,ES,Muqui,SUL,expanded,2024-07-01
+320390,ES,Nova Venécia,CENTRAL NORTE,expanded,2024-07-01
+320400,ES,Pancas,CENTRAL NORTE,expanded,2024-07-01
+320405,ES,Pedro Canário,CENTRAL NORTE,expanded,2024-07-01
+320410,ES,Pinheiros,CENTRAL NORTE,expanded,2024-07-01
+320420,ES,Piúma,SUL,expanded,2024-07-01
+320425,ES,Ponto Belo,CENTRAL NORTE,expanded,2024-07-01
+320430,ES,Presidente Kennedy,SUL,expanded,2024-07-01
+320435,ES,Rio Bananal,CENTRAL NORTE,expanded,2024-07-01
+320440,ES,Rio Novo do Sul,SUL,expanded,2024-07-01
+320465,ES,São Domingos do Norte,CENTRAL NORTE,expanded,2024-07-01
+320470,ES,São Gabriel da Palha,CENTRAL NORTE,expanded,2024-07-01
+320480,ES,São José do Calçado,SUL,expanded,2024-07-01
+320490,ES,São Mateus,CENTRAL NORTE,expanded,2024-07-01
+320495,ES,São Roque do Canaã,CENTRAL NORTE,expanded,2024-07-01
+320501,ES,Sooretama,CENTRAL NORTE,expanded,2024-07-01
+320503,ES,Vargem Alta,SUL,expanded,2024-07-01
+320515,ES,Vila Pavão,CENTRAL NORTE,expanded,2024-07-01
+320517,ES,Vila Valério,CENTRAL NORTE,expanded,2024-07-01
+520015,GO,Adelândia,OESTE II,expanded,2024-07-01
+520055,GO,Alto Horizonte,SERRA DA MESA,expanded,2024-07-01
+520080,GO,Alvorada do Norte,NORDESTE II,expanded,2024-07-01
+520082,GO,Amaralina,SERRA DA MESA,expanded,2024-07-01
+520085,GO,Americano do Brasil,RIO VERMELHO,expanded,2024-07-01
+520090,GO,Amorinópolis,OESTE I,expanded,2024-07-01
+520170,GO,Aragarças,OESTE I,expanded,2024-07-01
+520215,GO,Araguapaz,RIO VERMELHO,expanded,2024-07-01
+520235,GO,Arenópolis,OESTE I,expanded,2024-07-01
+520250,GO,Aruanã,RIO VERMELHO,expanded,2024-07-01
+520260,GO,Aurilândia,OESTE II,expanded,2024-07-01
+520310,GO,Baliza,OESTE I,expanded,2024-07-01
+520320,GO,Barro Alto,SAO PATRICIO II,expanded,2024-07-01
+520340,GO,Bom Jardim de Goiás,OESTE I,expanded,2024-07-01
+520357,GO,Bonópolis,NORTE,expanded,2024-07-01
+520380,GO,Britânia,RIO VERMELHO,expanded,2024-07-01
+520393,GO,Buriti de Goiás,OESTE II,expanded,2024-07-01
+520396,GO,Buritinópolis,NORDESTE II,expanded,2024-07-01
+520420,GO,Cachoeira de Goiás,OESTE II,expanded,2024-07-01
+520465,GO,Campinaçu,NORTE,expanded,2024-07-01
+520470,GO,Campinorte,SERRA DA MESA,expanded,2024-07-01
+520490,GO,Campos Belos,NORDESTE I,expanded,2024-07-01
+520495,GO,Campos Verdes,SAO PATRICIO I,expanded,2024-07-01
+520500,GO,Carmo do Rio Verde,SAO PATRICIO I,expanded,2024-07-01
+520530,GO,Cavalcante,NORDESTE I,expanded,2024-07-01
+520540,GO,Ceres,SAO PATRICIO I,expanded,2024-07-01
+520552,GO,Colinas do Sul,SERRA DA MESA,expanded,2024-07-01
+520570,GO,Córrego do Ouro,OESTE II,expanded,2024-07-01
+520640,GO,Crixás,SAO PATRICIO I,expanded,2024-07-01
+520670,GO,Damianópolis,NORDESTE II,expanded,2024-07-01
+520710,GO,Diorama,OESTE I,expanded,2024-07-01
+520830,GO,Divinópolis de Goiás,NORDESTE I,expanded,2024-07-01
+520750,GO,Estrela do Norte,NORTE,expanded,2024-07-01
+520753,GO,Faina,RIO VERMELHO,expanded,2024-07-01
+520760,GO,Fazenda Nova,OESTE I,expanded,2024-07-01
+520780,GO,Firminópolis,OESTE II,expanded,2024-07-01
+520810,GO,Formoso,NORTE,expanded,2024-07-01
+520860,GO,Goianésia,SAO PATRICIO II,expanded,2024-07-01
+520890,GO,Goiás,RIO VERMELHO,expanded,2024-07-01
+520929,GO,Guaraíta,RIO VERMELHO,expanded,2024-07-01
+520940,GO,Guarani de Goiás,NORDESTE II,expanded,2024-07-01
+520945,GO,Guarinos,SAO PATRICIO I,expanded,2024-07-01
+520960,GO,Heitoraí,RIO VERMELHO,expanded,2024-07-01
+520980,GO,Hidrolina,SERRA DA MESA,expanded,2024-07-01
+520990,GO,Iaciara,NORDESTE II,expanded,2024-07-01
+521015,GO,Ipiranga de Goiás,SAO PATRICIO I,expanded,2024-07-01
+521020,GO,Iporá,OESTE I,expanded,2024-07-01
+521030,GO,Israelândia,OESTE I,expanded,2024-07-01
+521040,GO,Itaberaí,RIO VERMELHO,expanded,2024-07-01
+521060,GO,Itaguaru,SAO PATRICIO II,expanded,2024-07-01
+521090,GO,Itapaci,SAO PATRICIO I,expanded,2024-07-01
+521100,GO,Itapirapuã,RIO VERMELHO,expanded,2024-07-01
+521120,GO,Itapuranga,RIO VERMELHO,expanded,2024-07-01
+521160,GO,Ivolândia,OESTE I,expanded,2024-07-01
+521180,GO,Jaraguá,SAO PATRICIO II,expanded,2024-07-01
+521200,GO,Jaupaci,OESTE I,expanded,2024-07-01
+521220,GO,Jussara,RIO VERMELHO,expanded,2024-07-01
+521270,GO,Mambaí,NORDESTE II,expanded,2024-07-01
+521280,GO,Mara Rosa,SERRA DA MESA,expanded,2024-07-01
+521295,GO,Matrinchã,RIO VERMELHO,expanded,2024-07-01
+521305,GO,Mimoso de Goiás,SAO PATRICIO II,expanded,2024-07-01
+521308,GO,Minaçu,NORTE,expanded,2024-07-01
+521340,GO,Moiporá,OESTE I,expanded,2024-07-01
+521350,GO,Monte Alegre de Goiás,NORDESTE I,expanded,2024-07-01
+521370,GO,Montes Claros de Goiás,OESTE I,expanded,2024-07-01
+521377,GO,Montividiu do Norte,NORTE,expanded,2024-07-01
+521385,GO,Morro Agudo de Goiás,SAO PATRICIO I,expanded,2024-07-01
+521390,GO,Mossâmedes,RIO VERMELHO,expanded,2024-07-01
+521400,GO,Mozarlândia,RIO VERMELHO,expanded,2024-07-01
+521405,GO,Mundo Novo,NORTE,expanded,2024-07-01
+521410,GO,Mutunópolis,NORTE,expanded,2024-07-01
+521460,GO,Niquelândia,SERRA DA MESA,expanded,2024-07-01
+521470,GO,Nova América,SAO PATRICIO I,expanded,2024-07-01
+521483,GO,Nova Crixás,RIO VERMELHO,expanded,2024-07-01
+521486,GO,Nova Glória,SAO PATRICIO I,expanded,2024-07-01
+521487,GO,Nova Iguaçu de Goiás,SERRA DA MESA,expanded,2024-07-01
+521490,GO,Nova Roma,NORDESTE II,expanded,2024-07-01
+521520,GO,Novo Brasil,OESTE I,expanded,2024-07-01
+521525,GO,Novo Planalto,NORTE,expanded,2024-07-01
+521560,GO,Padre Bernardo,SAO PATRICIO II,expanded,2024-07-01
+521565,GO,Palestina de Goiás,OESTE I,expanded,2024-07-01
+521570,GO,Palmeiras de Goiás,OESTE II,expanded,2024-07-01
+521590,GO,Palminópolis,OESTE II,expanded,2024-07-01
+521640,GO,Paraúna,OESTE II,expanded,2024-07-01
+521690,GO,Pilar de Goiás,SAO PATRICIO I,expanded,2024-07-01
+521720,GO,Piranhas,OESTE I,expanded,2024-07-01
+521800,GO,Porangatu,NORTE,expanded,2024-07-01
+521830,GO,Posse,NORDESTE II,expanded,2024-07-01
+521860,GO,Rialma,SAO PATRICIO I,expanded,2024-07-01
+521870,GO,Rianápolis,SAO PATRICIO I,expanded,2024-07-01
+521890,GO,Rubiataba,SAO PATRICIO I,expanded,2024-07-01
+521900,GO,Sanclerlândia,OESTE II,expanded,2024-07-01
+521925,GO,Santa Fé de Goiás,RIO VERMELHO,expanded,2024-07-01
+521935,GO,Santa Isabel,SAO PATRICIO I,expanded,2024-07-01
+521945,GO,Santa Rita do Novo Destino,SAO PATRICIO II,expanded,2024-07-01
+521960,GO,Santa Tereza de Goiás,NORTE,expanded,2024-07-01
+521970,GO,Santa Terezinha de Goiás,SAO PATRICIO I,expanded,2024-07-01
+521980,GO,São Domingos,NORDESTE II,expanded,2024-07-01
+522005,GO,São João da Paraúna,OESTE II,expanded,2024-07-01
+522010,GO,São Luís de Montes Belos,OESTE II,expanded,2024-07-01
+522015,GO,São Luiz do Norte,SAO PATRICIO I,expanded,2024-07-01
+522020,GO,São Miguel do Araguaia,NORTE,expanded,2024-07-01
+522028,GO,São Patrício,SAO PATRICIO I,expanded,2024-07-01
+522068,GO,Simolândia,NORDESTE II,expanded,2024-07-01
+522070,GO,Sítio d'Abadia,NORDESTE II,expanded,2024-07-01
+522108,GO,Teresina de Goiás,NORDESTE I,expanded,2024-07-01
+522145,GO,Trombas,NORTE,expanded,2024-07-01
+522150,GO,Turvânia,OESTE II,expanded,2024-07-01
+522157,GO,Uirapuru,SAO PATRICIO I,expanded,2024-07-01
+522160,GO,Uruaçu,SERRA DA MESA,expanded,2024-07-01
+522170,GO,Uruana,SAO PATRICIO I,expanded,2024-07-01
+522230,GO,Vila Propício,SAO PATRICIO II,expanded,2024-07-01
+210005,MA,Açailândia,ACAILANDIA,expanded,2024-07-01
+210050,MA,Alto Parnaíba,BALSAS,expanded,2024-07-01
+210140,MA,Balsas,BALSAS,expanded,2024-07-01
+210203,MA,Bom Jesus das Selvas,ACAILANDIA,expanded,2024-07-01
+210232,MA,Buriticupu,ACAILANDIA,expanded,2024-07-01
+210325,MA,Cidelândia,ACAILANDIA,expanded,2024-07-01
+210407,MA,Feira Nova do Maranhão,BALSAS,expanded,2024-07-01
+210409,MA,Formosa da Serra Negra,BALSAS,expanded,2024-07-01
+210410,MA,Fortaleza dos Nogueiras,BALSAS,expanded,2024-07-01
+210542,MA,Itinga do Maranhão,ACAILANDIA,expanded,2024-07-01
+210610,MA,Loreto,BALSAS,expanded,2024-07-01
+210725,MA,Nova Colinas,BALSAS,expanded,2024-07-01
+210950,MA,Riachão,BALSAS,expanded,2024-07-01
+210970,MA,Sambaíba,BALSAS,expanded,2024-07-01
+211080,MA,São Félix de Balsas,BALSAS,expanded,2024-07-01
+211085,MA,São Francisco do Brejão,ACAILANDIA,expanded,2024-07-01
+211153,MA,São Pedro da Água Branca,ACAILANDIA,expanded,2024-07-01
+211157,MA,São Pedro dos Crentes,BALSAS,expanded,2024-07-01
+211160,MA,São Raimundo das Mangabeiras,BALSAS,expanded,2024-07-01
+211200,MA,Tasso Fragoso,BALSAS,expanded,2024-07-01
+211285,MA,Vila Nova dos Martírios,ACAILANDIA,expanded,2024-07-01
+310010,MG,Abadia dos Dourados,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+310020,MG,Abaeté,SETE LAGOAS,expanded,2024-07-01
+310030,MG,Abre Campo,MANHUACU,expanded,2024-07-01
+310050,MG,Açucena,IPATINGA,expanded,2024-07-01
+310060,MG,Água Boa,PECANHA/SAO JOAO EVANGELISTA/SANTA MARIA DO SUACUI,expanded,2024-07-01
+310070,MG,Água Comprida,UBERABA,expanded,2024-07-01
+310140,MG,Albertina,POCOS DE CALDAS,expanded,2024-07-01
+310163,MG,Alfredo Vasconcelos,BARBACENA,expanded,2024-07-01
+310180,MG,Alpercata,GOVERNADOR VALADARES,expanded,2024-07-01
+310190,MG,Alpinópolis,PASSOS,expanded,2024-07-01
+310205,MG,Alto Caparaó,MANHUACU,expanded,2024-07-01
+315350,MG,Alto Jequitibá,MANHUACU,expanded,2024-07-01
+310210,MG,Alto Rio Doce,BARBACENA,expanded,2024-07-01
+310260,MG,Andradas,POCOS DE CALDAS,expanded,2024-07-01
+310285,MG,Angelândia,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+310290,MG,Antônio Carlos,BARBACENA,expanded,2024-07-01
+310310,MG,Antônio Prado de Minas,MURIAE,expanded,2024-07-01
+310320,MG,Araçaí,SETE LAGOAS,expanded,2024-07-01
+310350,MG,Araguari,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+310375,MG,Araporã,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+310390,MG,Araújos,DIVINOPOLIS,expanded,2024-07-01
+310400,MG,Araxá,ARAXA,expanded,2024-07-01
+310450,MG,Arinos,UNAI/PARACATU,expanded,2024-07-01
+310470,MG,Ataléia,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+310480,MG,Augusto de Lima,CURVELO,expanded,2024-07-01
+310500,MG,Baldim,SETE LAGOAS,expanded,2024-07-01
+310550,MG,Barão de Monte Alto,MURIAE,expanded,2024-07-01
+310560,MG,Barbacena,BARBACENA,expanded,2024-07-01
+310600,MG,Bela Vista de Minas,JOAO MONLEVADE,expanded,2024-07-01
+310610,MG,Belmiro Braga,JUIZ DE FORA,expanded,2024-07-01
+310630,MG,Belo Oriente,IPATINGA,expanded,2024-07-01
+310670,MG,Betim,BETIM,expanded,2024-07-01
+310700,MG,Biquinhas,SETE LAGOAS,expanded,2024-07-01
+310760,MG,Bom Jesus da Penha,PASSOS,expanded,2024-07-01
+310790,MG,Bom Repouso,POUSO ALEGRE,expanded,2024-07-01
+310810,MG,Bonfim,BETIM,expanded,2024-07-01
+310820,MG,Bonfinópolis de Minas,UNAI/PARACATU,expanded,2024-07-01
+310830,MG,Borda da Mata,POUSO ALEGRE,expanded,2024-07-01
+310870,MG,Brás Pires,UBA,expanded,2024-07-01
+310880,MG,Braúnas,IPATINGA,expanded,2024-07-01
+310890,MG,Brazópolis,ITAJUBA,expanded,2024-07-01
+310900,MG,Brumadinho,BETIM,expanded,2024-07-01
+310910,MG,Bueno Brandão,POUSO ALEGRE,expanded,2024-07-01
+310920,MG,Buenópolis,CURVELO,expanded,2024-07-01
+310925,MG,Bugre,IPATINGA,expanded,2024-07-01
+310930,MG,Buritis,UNAI/PARACATU,expanded,2024-07-01
+310945,MG,Cabeceira Grande,UNAI/PARACATU,expanded,2024-07-01
+310960,MG,Cachoeira da Prata,SETE LAGOAS,expanded,2024-07-01
+310970,MG,Cachoeira de Minas,POUSO ALEGRE,expanded,2024-07-01
+310980,MG,Cachoeira Dourada,ITUIUTABA,expanded,2024-07-01
+310990,MG,Caetanópolis,SETE LAGOAS,expanded,2024-07-01
+311030,MG,Caldas,POCOS DE CALDAS,expanded,2024-07-01
+311050,MG,Camanducaia,POUSO ALEGRE,expanded,2024-07-01
+311060,MG,Cambuí,POUSO ALEGRE,expanded,2024-07-01
+311090,MG,Campanha,VARGINHA,expanded,2024-07-01
+311110,MG,Campina Verde,ITUIUTABA,expanded,2024-07-01
+311140,MG,Campo Florido,UBERABA,expanded,2024-07-01
+311150,MG,Campos Altos,ARAXA,expanded,2024-07-01
+311180,MG,Canápolis,ITUIUTABA,expanded,2024-07-01
+311220,MG,Capela Nova,BARBACENA,expanded,2024-07-01
+311250,MG,Capim Branco,SETE LAGOAS,expanded,2024-07-01
+311260,MG,Capinópolis,ITUIUTABA,expanded,2024-07-01
+311265,MG,Capitão Andrade,GOVERNADOR VALADARES,expanded,2024-07-01
+311290,MG,Caputira,MANHUACU,expanded,2024-07-01
+311310,MG,Caranaíba,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+311320,MG,Carandaí,BARBACENA,expanded,2024-07-01
+311360,MG,Careaçu,POUSO ALEGRE,expanded,2024-07-01
+311420,MG,Carmo do Cajuru,DIVINOPOLIS,expanded,2024-07-01
+311440,MG,Carmo do Rio Claro,PASSOS,expanded,2024-07-01
+311460,MG,Carrancas,LAVRAS,expanded,2024-07-01
+311490,MG,Casa Grande,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+311500,MG,Cascalho Rico,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+311540,MG,Catas Altas da Noruega,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+311560,MG,Cedro do Abaeté,SETE LAGOAS,expanded,2024-07-01
+311580,MG,Centralina,ITUIUTABA,expanded,2024-07-01
+311590,MG,Chácara,JUIZ DE FORA,expanded,2024-07-01
+311600,MG,Chalé,MANHUACU,expanded,2024-07-01
+311615,MG,Chapada Gaúcha,UNAI/PARACATU,expanded,2024-07-01
+311620,MG,Chiador,JUIZ DE FORA,expanded,2024-07-01
+311630,MG,Cipotânea,BARBACENA,expanded,2024-07-01
+311650,MG,Claro dos Poções,MONTES CLAROS,expanded,2024-07-01
+311660,MG,Cláudio,DIVINOPOLIS,expanded,2024-07-01
+311670,MG,Coimbra,UBA,expanded,2024-07-01
+311730,MG,Conceição das Alagoas,UBERABA,expanded,2024-07-01
+311720,MG,Conceição das Pedras,ITAJUBA,expanded,2024-07-01
+311740,MG,Conceição de Ipanema,MANHUACU,expanded,2024-07-01
+311760,MG,Conceição do Pará,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+311780,MG,Conceição dos Ouros,POUSO ALEGRE,expanded,2024-07-01
+311787,MG,Confins,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+311790,MG,Congonhal,POUSO ALEGRE,expanded,2024-07-01
+311820,MG,Conquista,UBERABA,expanded,2024-07-01
+311830,MG,Conselheiro Lafaiete,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+311850,MG,Consolação,ITAJUBA,expanded,2024-07-01
+311860,MG,Contagem,CONTAGEM,expanded,2024-07-01
+311890,MG,Cordisburgo,SETE LAGOAS,expanded,2024-07-01
+311900,MG,Cordislândia,VARGINHA,expanded,2024-07-01
+311910,MG,Corinto,CURVELO,expanded,2024-07-01
+311920,MG,Coroaci,GOVERNADOR VALADARES,expanded,2024-07-01
+311930,MG,Coromandel,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+311960,MG,Coronel Pacheco,JUIZ DE FORA,expanded,2024-07-01
+311990,MG,Córrego do Bom Jesus,POUSO ALEGRE,expanded,2024-07-01
+312040,MG,Cristiano Otoni,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+312060,MG,Crucilândia,BETIM,expanded,2024-07-01
+312070,MG,Cruzeiro da Fortaleza,PATOS DE MINAS,expanded,2024-07-01
+312090,MG,Curvelo,CURVELO,expanded,2024-07-01
+312110,MG,Delfim Moreira,ITAJUBA,expanded,2024-07-01
+312125,MG,Delta,UBERABA,expanded,2024-07-01
+312150,MG,Desterro do Melo,BARBACENA,expanded,2024-07-01
+312190,MG,Divinésia,UBA,expanded,2024-07-01
+312220,MG,Divinolândia de Minas,GOVERNADOR VALADARES,expanded,2024-07-01
+312230,MG,Divinópolis,DIVINOPOLIS,expanded,2024-07-01
+312247,MG,Dom Bosco,UNAI/PARACATU,expanded,2024-07-01
+312250,MG,Dom Cavati,IPATINGA,expanded,2024-07-01
+312330,MG,Dores do Turvo,UBA,expanded,2024-07-01
+312350,MG,Douradoquara,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+312352,MG,Durandé,MANHUACU,expanded,2024-07-01
+312360,MG,Elói Mendes,VARGINHA,expanded,2024-07-01
+312370,MG,Engenheiro Caldas,GOVERNADOR VALADARES,expanded,2024-07-01
+312400,MG,Ervália,UBA,expanded,2024-07-01
+312410,MG,Esmeraldas,BETIM,expanded,2024-07-01
+312440,MG,Espírito Santo do Dourado,POUSO ALEGRE,expanded,2024-07-01
+312450,MG,Estiva,POUSO ALEGRE,expanded,2024-07-01
+312480,MG,Estrela do Sul,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+312490,MG,Eugenópolis,MURIAE,expanded,2024-07-01
+312500,MG,Ewbank da Câmara,JUIZ DE FORA,expanded,2024-07-01
+312510,MG,Extrema,POUSO ALEGRE,expanded,2024-07-01
+312570,MG,Felixlândia,CURVELO,expanded,2024-07-01
+312580,MG,Fernandes Tourinho,GOVERNADOR VALADARES,expanded,2024-07-01
+312600,MG,Florestal,BETIM,expanded,2024-07-01
+312620,MG,Formoso,UNAI/PARACATU,expanded,2024-07-01
+312630,MG,Fortaleza de Minas,PASSOS,expanded,2024-07-01
+312640,MG,Fortuna de Minas,SETE LAGOAS,expanded,2024-07-01
+312675,MG,Franciscópolis,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+312690,MG,Frei Inocêncio,GOVERNADOR VALADARES,expanded,2024-07-01
+312720,MG,Funilândia,SETE LAGOAS,expanded,2024-07-01
+312730,MG,Galiléia,GOVERNADOR VALADARES,expanded,2024-07-01
+312735,MG,Glaucilândia,MONTES CLAROS,expanded,2024-07-01
+312738,MG,Goianá,JUIZ DE FORA,expanded,2024-07-01
+312740,MG,Gonçalves,ITAJUBA,expanded,2024-07-01
+312750,MG,Gonzaga,GOVERNADOR VALADARES,expanded,2024-07-01
+312770,MG,Governador Valadares,GOVERNADOR VALADARES,expanded,2024-07-01
+312790,MG,Grupiara,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+312840,MG,Guarani,UBA,expanded,2024-07-01
+312860,MG,Guarda-Mor,PATOS DE MINAS,expanded,2024-07-01
+312880,MG,Guidoval,UBA,expanded,2024-07-01
+312890,MG,Guimarânia,PATOS DE MINAS,expanded,2024-07-01
+312900,MG,Guiricema,UBA,expanded,2024-07-01
+312910,MG,Gurinhatã,ITUIUTABA,expanded,2024-07-01
+312920,MG,Heliodora,POUSO ALEGRE,expanded,2024-07-01
+312930,MG,Iapu,IPATINGA,expanded,2024-07-01
+312940,MG,Ibertioga,BARBACENA,expanded,2024-07-01
+312950,MG,Ibiá,ARAXA,expanded,2024-07-01
+312980,MG,Ibirité,CONTAGEM,expanded,2024-07-01
+312990,MG,Ibitiúra de Minas,POCOS DE CALDAS,expanded,2024-07-01
+313010,MG,Igarapé,BETIM,expanded,2024-07-01
+313020,MG,Igaratinga,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+313040,MG,Ijaci,LAVRAS,expanded,2024-07-01
+313060,MG,Inconfidentes,POUSO ALEGRE,expanded,2024-07-01
+313070,MG,Indianópolis,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+313080,MG,Ingaí,LAVRAS,expanded,2024-07-01
+313100,MG,Inhaúma,SETE LAGOAS,expanded,2024-07-01
+313110,MG,Inimutaba,CURVELO,expanded,2024-07-01
+313115,MG,Ipaba,IPATINGA,expanded,2024-07-01
+313120,MG,Ipanema,MANHUACU,expanded,2024-07-01
+313130,MG,Ipatinga,IPATINGA,expanded,2024-07-01
+313140,MG,Ipiaçu,ITUIUTABA,expanded,2024-07-01
+313150,MG,Ipuiúna,POUSO ALEGRE,expanded,2024-07-01
+313160,MG,Iraí de Minas,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+313200,MG,Itacambira,MONTES CLAROS,expanded,2024-07-01
+313240,MG,Itajubá,ITAJUBA,expanded,2024-07-01
+313320,MG,Itanhomi,GOVERNADOR VALADARES,expanded,2024-07-01
+313350,MG,Itapecerica,DIVINOPOLIS,expanded,2024-07-01
+313360,MG,Itapeva,POUSO ALEGRE,expanded,2024-07-01
+313375,MG,Itaú de Minas,PASSOS,expanded,2024-07-01
+313390,MG,Itaverava,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+313420,MG,Ituiutaba,ITUIUTABA,expanded,2024-07-01
+313430,MG,Itumirim,LAVRAS,expanded,2024-07-01
+313450,MG,Itutinga,LAVRAS,expanded,2024-07-01
+313490,MG,Jacutinga,POUSO ALEGRE,expanded,2024-07-01
+313507,MG,Jampruca,GOVERNADOR VALADARES,expanded,2024-07-01
+313570,MG,Jequitibá,SETE LAGOAS,expanded,2024-07-01
+313610,MG,Joanésia,IPATINGA,expanded,2024-07-01
+313620,MG,João Monlevade,JOAO MONLEVADE,expanded,2024-07-01
+313665,MG,Juatuba,BETIM,expanded,2024-07-01
+313670,MG,Juiz de Fora,JUIZ DE FORA,expanded,2024-07-01
+313680,MG,Juramento,MONTES CLAROS,expanded,2024-07-01
+313700,MG,Ladainha,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+313710,MG,Lagamar,PATOS DE MINAS,expanded,2024-07-01
+313750,MG,Lagoa Formosa,PATOS DE MINAS,expanded,2024-07-01
+313760,MG,Lagoa Santa,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+313770,MG,Lajinha,MANHUACU,expanded,2024-07-01
+313790,MG,Lamim,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+313820,MG,Lavras,LAVRAS,expanded,2024-07-01
+313830,MG,Leandro Ferreira,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+313867,MG,Luisburgo,MANHUACU,expanded,2024-07-01
+313870,MG,Luminárias,LAVRAS,expanded,2024-07-01
+313920,MG,Malacacheta,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+313940,MG,Manhuaçu,MANHUACU,expanded,2024-07-01
+313950,MG,Manhumirim,MANHUACU,expanded,2024-07-01
+313970,MG,Maravilhas,SETE LAGOAS,expanded,2024-07-01
+313990,MG,Maria da Fé,ITAJUBA,expanded,2024-07-01
+314010,MG,Marilac,GOVERNADOR VALADARES,expanded,2024-07-01
+314015,MG,Mário Campos,BETIM,expanded,2024-07-01
+314040,MG,Marmelópolis,ITAJUBA,expanded,2024-07-01
+314053,MG,Martins Soares,MANHUACU,expanded,2024-07-01
+314070,MG,Mateus Leme,BETIM,expanded,2024-07-01
+317150,MG,Mathias Lobato,GOVERNADOR VALADARES,expanded,2024-07-01
+314080,MG,Matias Barbosa,JUIZ DE FORA,expanded,2024-07-01
+314090,MG,Matipó,MANHUACU,expanded,2024-07-01
+314110,MG,Matozinhos,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+314160,MG,Mercês,UBA,expanded,2024-07-01
+314170,MG,Mesquita,IPATINGA,expanded,2024-07-01
+314200,MG,Mirabela,MONTES CLAROS,expanded,2024-07-01
+314210,MG,Miradouro,MURIAE,expanded,2024-07-01
+314220,MG,Miraí,MURIAE,expanded,2024-07-01
+314250,MG,Monjolos,CURVELO,expanded,2024-07-01
+314260,MG,Monsenhor Paulo,VARGINHA,expanded,2024-07-01
+314280,MG,Monte Alegre de Minas,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+314310,MG,Monte Carmelo,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+314330,MG,Montes Claros,MONTES CLAROS,expanded,2024-07-01
+314340,MG,Monte Sião,POUSO ALEGRE,expanded,2024-07-01
+314350,MG,Morada Nova de Minas,SETE LAGOAS,expanded,2024-07-01
+314360,MG,Morro da Garça,CURVELO,expanded,2024-07-01
+314380,MG,Munhoz,POUSO ALEGRE,expanded,2024-07-01
+314390,MG,Muriaé,MURIAE,expanded,2024-07-01
+314400,MG,Mutum,MANHUACU,expanded,2024-07-01
+314420,MG,Nacip Raydan,GOVERNADOR VALADARES,expanded,2024-07-01
+314435,MG,Naque,IPATINGA,expanded,2024-07-01
+314437,MG,Natalândia,UNAI/PARACATU,expanded,2024-07-01
+314440,MG,Natércia,POUSO ALEGRE,expanded,2024-07-01
+314460,MG,Nepomuceno,LAVRAS,expanded,2024-07-01
+314470,MG,Nova Era,JOAO MONLEVADE,expanded,2024-07-01
+314500,MG,Nova Ponte,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+314510,MG,Nova Resende,PASSOS,expanded,2024-07-01
+314520,MG,Nova Serrana,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+314530,MG,Novo Cruzeiro,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+314535,MG,Novo Oriente de Minas,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+314580,MG,Onça de Pitangui,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+314600,MG,Ouro Fino,POUSO ALEGRE,expanded,2024-07-01
+314620,MG,Ouro Verde de Minas,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+314640,MG,Paineiras,SETE LAGOAS,expanded,2024-07-01
+314660,MG,Paiva,BARBACENA,expanded,2024-07-01
+314690,MG,Papagaios,SETE LAGOAS,expanded,2024-07-01
+314700,MG,Paracatu,UNAI/PARACATU,expanded,2024-07-01
+314710,MG,Pará de Minas,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+314730,MG,Paraisópolis,ITAJUBA,expanded,2024-07-01
+314740,MG,Paraopeba,SETE LAGOAS,expanded,2024-07-01
+314790,MG,Passos,PASSOS,expanded,2024-07-01
+314800,MG,Patos de Minas,PATOS DE MINAS,expanded,2024-07-01
+314810,MG,Patrocínio,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+314820,MG,Patrocínio do Muriaé,MURIAE,expanded,2024-07-01
+314910,MG,Pedralva,ITAJUBA,expanded,2024-07-01
+314920,MG,Pedrinópolis,ARAXA,expanded,2024-07-01
+314930,MG,Pedro Leopoldo,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+314960,MG,Pequi,SETE LAGOAS,expanded,2024-07-01
+314970,MG,Perdigão,DIVINOPOLIS,expanded,2024-07-01
+314980,MG,Perdizes,ARAXA,expanded,2024-07-01
+314990,MG,Perdões,LAVRAS,expanded,2024-07-01
+314995,MG,Periquito,IPATINGA,expanded,2024-07-01
+315010,MG,Piau,JUIZ DE FORA,expanded,2024-07-01
+315040,MG,Piedade dos Gerais,BETIM,expanded,2024-07-01
+315080,MG,Piranga,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+315090,MG,Piranguçu,ITAJUBA,expanded,2024-07-01
+315100,MG,Piranguinho,ITAJUBA,expanded,2024-07-01
+315130,MG,Piraúba,UBA,expanded,2024-07-01
+315140,MG,Pitangui,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+315180,MG,Poços de Caldas,POCOS DE CALDAS,expanded,2024-07-01
+315190,MG,Pocrane,MANHUACU,expanded,2024-07-01
+315200,MG,Pompéu,SETE LAGOAS,expanded,2024-07-01
+315240,MG,Poté,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+315250,MG,Pouso Alegre,POUSO ALEGRE,expanded,2024-07-01
+315280,MG,Prata,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+315300,MG,Pratinha,ARAXA,expanded,2024-07-01
+315310,MG,Presidente Bernardes,UBA,expanded,2024-07-01
+315320,MG,Presidente Juscelino,CURVELO,expanded,2024-07-01
+315340,MG,Presidente Olegário,PATOS DE MINAS,expanded,2024-07-01
+315360,MG,Prudente de Morais,SETE LAGOAS,expanded,2024-07-01
+315370,MG,Quartel Geral,SETE LAGOAS,expanded,2024-07-01
+315380,MG,Queluzito,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+315415,MG,Reduto,MANHUACU,expanded,2024-07-01
+315440,MG,Ressaquinha,BARBACENA,expanded,2024-07-01
+315445,MG,Riachinho,UNAI/PARACATU,expanded,2024-07-01
+315470,MG,Ribeirão Vermelho,LAVRAS,expanded,2024-07-01
+315520,MG,Rio Espera,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+315530,MG,Rio Manso,BETIM,expanded,2024-07-01
+315540,MG,Rio Novo,JUIZ DE FORA,expanded,2024-07-01
+315570,MG,Rio Piracicaba,JOAO MONLEVADE,expanded,2024-07-01
+315580,MG,Rio Pomba,UBA,expanded,2024-07-01
+315630,MG,Rodeiro,UBA,expanded,2024-07-01
+315640,MG,Romaria,PATROCINIO/MONTE CARMELO,expanded,2024-07-01
+315645,MG,Rosário da Limeira,MURIAE,expanded,2024-07-01
+315690,MG,Sacramento,UBERABA,expanded,2024-07-01
+315730,MG,Santa Bárbara do Tugúrio,BARBACENA,expanded,2024-07-01
+315750,MG,Santa Efigênia de Minas,GOVERNADOR VALADARES,expanded,2024-07-01
+315770,MG,Santa Juliana,ARAXA,expanded,2024-07-01
+315790,MG,Santa Margarida,MANHUACU,expanded,2024-07-01
+315850,MG,Santana de Pirapama,SETE LAGOAS,expanded,2024-07-01
+315860,MG,Santana do Deserto,JUIZ DE FORA,expanded,2024-07-01
+315870,MG,Santana do Garambéu,BARBACENA,expanded,2024-07-01
+315890,MG,Santana do Manhuaçu,MANHUACU,expanded,2024-07-01
+315895,MG,Santana do Paraíso,IPATINGA,expanded,2024-07-01
+315900,MG,Santana do Riacho,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+315910,MG,Santana dos Montes,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+315920,MG,Santa Rita de Caldas,POCOS DE CALDAS,expanded,2024-07-01
+315940,MG,Santa Rita de Ibitipoca,BARBACENA,expanded,2024-07-01
+315960,MG,Santa Rita do Sapucaí,POUSO ALEGRE,expanded,2024-07-01
+315980,MG,Santa Vitória,ITUIUTABA,expanded,2024-07-01
+316060,MG,Santo Hipólito,CURVELO,expanded,2024-07-01
+316100,MG,São Domingos do Prata,JOAO MONLEVADE,expanded,2024-07-01
+316140,MG,São Francisco do Glória,MURIAE,expanded,2024-07-01
+316150,MG,São Geraldo,UBA,expanded,2024-07-01
+316160,MG,São Geraldo da Piedade,GOVERNADOR VALADARES,expanded,2024-07-01
+316165,MG,São Geraldo do Baixio,GOVERNADOR VALADARES,expanded,2024-07-01
+316170,MG,São Gonçalo do Abaeté,PATOS DE MINAS,expanded,2024-07-01
+316180,MG,São Gonçalo do Pará,DIVINOPOLIS,expanded,2024-07-01
+316200,MG,São Gonçalo do Sapucaí,VARGINHA,expanded,2024-07-01
+316220,MG,São João Batista do Glória,PASSOS,expanded,2024-07-01
+316230,MG,São João da Mata,POUSO ALEGRE,expanded,2024-07-01
+316255,MG,São João do Manhuaçu,MANHUACU,expanded,2024-07-01
+316260,MG,São João do Oriente,IPATINGA,expanded,2024-07-01
+316292,MG,São Joaquim de Bicas,BETIM,expanded,2024-07-01
+316294,MG,São José da Barra,PASSOS,expanded,2024-07-01
+316295,MG,São José da Lapa,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+316300,MG,São José da Safira,GOVERNADOR VALADARES,expanded,2024-07-01
+316310,MG,São José da Varginha,PARA DE MINAS/NOVA SERRANA,expanded,2024-07-01
+316320,MG,São José do Alegre,ITAJUBA,expanded,2024-07-01
+316360,MG,São José do Mantimento,MANHUACU,expanded,2024-07-01
+316440,MG,São Sebastião da Bela Vista,POUSO ALEGRE,expanded,2024-07-01
+316443,MG,São Sebastião da Vargem Alegre,MURIAE,expanded,2024-07-01
+316460,MG,São Sebastião do Oeste,DIVINOPOLIS,expanded,2024-07-01
+316540,MG,Sapucaí-Mirim,ITAJUBA,expanded,2024-07-01
+316550,MG,Sardoá,GOVERNADOR VALADARES,expanded,2024-07-01
+316553,MG,Sarzedo,CONTAGEM,expanded,2024-07-01
+316557,MG,Senador Amaral,POUSO ALEGRE,expanded,2024-07-01
+316570,MG,Senador Firmino,UBA,expanded,2024-07-01
+316580,MG,Senador José Bento,POUSO ALEGRE,expanded,2024-07-01
+316600,MG,Senhora de Oliveira,CONSELHEIRO LAFAIETE,expanded,2024-07-01
+316620,MG,Senhora dos Remédios,BARBACENA,expanded,2024-07-01
+316680,MG,Serra do Salitre,PATOS DE MINAS,expanded,2024-07-01
+316720,MG,Sete Lagoas,SETE LAGOAS,expanded,2024-07-01
+316555,MG,Setubinha,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+316730,MG,Silveirânia,UBA,expanded,2024-07-01
+316740,MG,Silvianópolis,POUSO ALEGRE,expanded,2024-07-01
+316750,MG,Simão Pereira,JUIZ DE FORA,expanded,2024-07-01
+316760,MG,Simonésia,MANHUACU,expanded,2024-07-01
+316770,MG,Sobrália,GOVERNADOR VALADARES,expanded,2024-07-01
+316790,MG,Tabuleiro,UBA,expanded,2024-07-01
+316805,MG,Taparuba,MANHUACU,expanded,2024-07-01
+316810,MG,Tapira,ARAXA,expanded,2024-07-01
+316840,MG,Tarumirim,GOVERNADOR VALADARES,expanded,2024-07-01
+316860,MG,Teófilo Otoni,TEOFILO OTONI/MALACACHETA,expanded,2024-07-01
+316900,MG,Tocantins,UBA,expanded,2024-07-01
+316905,MG,Tocos do Moji,POUSO ALEGRE,expanded,2024-07-01
+316910,MG,Toledo,POUSO ALEGRE,expanded,2024-07-01
+316935,MG,Três Marias,CURVELO,expanded,2024-07-01
+316950,MG,Tumiritinga,GOVERNADOR VALADARES,expanded,2024-07-01
+316960,MG,Tupaciguara,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+316980,MG,Turvolândia,POUSO ALEGRE,expanded,2024-07-01
+316990,MG,Ubá,UBA,expanded,2024-07-01
+317010,MG,Uberaba,UBERABA,expanded,2024-07-01
+317020,MG,Uberlândia,UBERLANDIA/ARAGUARI,expanded,2024-07-01
+317040,MG,Unaí,UNAI/PARACATU,expanded,2024-07-01
+317047,MG,Uruana de Minas,UNAI/PARACATU,expanded,2024-07-01
+317070,MG,Varginha,VARGINHA,expanded,2024-07-01
+317075,MG,Varjão de Minas,PATOS DE MINAS,expanded,2024-07-01
+317100,MG,Vazante,PATOS DE MINAS,expanded,2024-07-01
+317110,MG,Veríssimo,UBERABA,expanded,2024-07-01
+317120,MG,Vespasiano,VESPASIANO/LAGOA SANTA,expanded,2024-07-01
+317140,MG,Vieiras,MURIAE,expanded,2024-07-01
+317190,MG,Virgolândia,GOVERNADOR VALADARES,expanded,2024-07-01
+317200,MG,Visconde do Rio Branco,UBA,expanded,2024-07-01
+317220,MG,Wenceslau Braz,ITAJUBA,expanded,2024-07-01
+500370,MS,Dourados,DOURADOS,expanded,2024-07-01
+510010,MT,Acorizal,BAIXADA CUIABANA,expanded,2024-07-01
+510030,MT,Alto Araguaia,SUL MATOGROSSENSE,expanded,2024-07-01
+510040,MT,Alto Garças,SUL MATOGROSSENSE,expanded,2024-07-01
+510060,MT,Alto Taquari,SUL MATOGROSSENSE,expanded,2024-07-01
+510120,MT,Araguainha,SUL MATOGROSSENSE,expanded,2024-07-01
+510125,MT,Araputanga,OESTE MATOGROSSENSE,expanded,2024-07-01
+510130,MT,Arenápolis,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510160,MT,Barão de Melgaço,BAIXADA CUIABANA,expanded,2024-07-01
+510170,MT,Barra do Bugres,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510250,MT,Cáceres,OESTE MATOGROSSENSE,expanded,2024-07-01
+510263,MT,Campo Novo do Parecis,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510267,MT,Campo Verde,SUL MATOGROSSENSE,expanded,2024-07-01
+510300,MT,Chapada dos Guimarães,BAIXADA CUIABANA,expanded,2024-07-01
+510305,MT,Cláudia,TELES PIRES,expanded,2024-07-01
+510340,MT,Cuiabá,BAIXADA CUIABANA,expanded,2024-07-01
+510343,MT,Curvelândia,OESTE MATOGROSSENSE,expanded,2024-07-01
+510345,MT,Denise,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510360,MT,Dom Aquino,SUL MATOGROSSENSE,expanded,2024-07-01
+510370,MT,Feliz Natal,TELES PIRES,expanded,2024-07-01
+510395,MT,Glória D'Oeste,OESTE MATOGROSSENSE,expanded,2024-07-01
+510420,MT,Guiratinga,SUL MATOGROSSENSE,expanded,2024-07-01
+510450,MT,Indiavaí,OESTE MATOGROSSENSE,expanded,2024-07-01
+510452,MT,Ipiranga do Norte,TELES PIRES,expanded,2024-07-01
+510454,MT,Itanhangá,TELES PIRES,expanded,2024-07-01
+510460,MT,Itiquira,SUL MATOGROSSENSE,expanded,2024-07-01
+510480,MT,Jaciara,SUL MATOGROSSENSE,expanded,2024-07-01
+510490,MT,Jangada,BAIXADA CUIABANA,expanded,2024-07-01
+510520,MT,Juscimeira,SUL MATOGROSSENSE,expanded,2024-07-01
+510523,MT,Lambari D'Oeste,OESTE MATOGROSSENSE,expanded,2024-07-01
+510525,MT,Lucas do Rio Verde,TELES PIRES,expanded,2024-07-01
+510562,MT,Mirassol d'Oeste,OESTE MATOGROSSENSE,expanded,2024-07-01
+510610,MT,Nossa Senhora do Livramento,BAIXADA CUIABANA,expanded,2024-07-01
+510620,MT,Nova Brasilândia,BAIXADA CUIABANA,expanded,2024-07-01
+510885,MT,Nova Marilândia,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510622,MT,Nova Mutum,TELES PIRES,expanded,2024-07-01
+510623,MT,Nova Olímpia,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510624,MT,Nova Ubiratã,TELES PIRES,expanded,2024-07-01
+510630,MT,Paranatinga,SUL MATOGROSSENSE,expanded,2024-07-01
+510637,MT,Pedra Preta,SUL MATOGROSSENSE,expanded,2024-07-01
+510645,MT,Planalto da Serra,BAIXADA CUIABANA,expanded,2024-07-01
+510650,MT,Poconé,BAIXADA CUIABANA,expanded,2024-07-01
+510682,MT,Porto Esperidião,OESTE MATOGROSSENSE,expanded,2024-07-01
+510685,MT,Porto Estrela,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510700,MT,Poxoréu,SUL MATOGROSSENSE,expanded,2024-07-01
+510704,MT,Primavera do Leste,SUL MATOGROSSENSE,expanded,2024-07-01
+510715,MT,Reserva do Cabaçal,OESTE MATOGROSSENSE,expanded,2024-07-01
+510720,MT,Rio Branco,OESTE MATOGROSSENSE,expanded,2024-07-01
+510760,MT,Rondonópolis,SUL MATOGROSSENSE,expanded,2024-07-01
+510775,MT,Salto do Céu,OESTE MATOGROSSENSE,expanded,2024-07-01
+510724,MT,Santa Carmem,TELES PIRES,expanded,2024-07-01
+510776,MT,Santa Rita do Trivelato,TELES PIRES,expanded,2024-07-01
+510726,MT,Santo Afonso,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510779,MT,Santo Antônio do Leste,SUL MATOGROSSENSE,expanded,2024-07-01
+510780,MT,Santo Antônio do Leverger,BAIXADA CUIABANA,expanded,2024-07-01
+510729,MT,São José do Povo,SUL MATOGROSSENSE,expanded,2024-07-01
+510710,MT,São José dos Quatro Marcos,OESTE MATOGROSSENSE,expanded,2024-07-01
+510740,MT,São Pedro da Cipa,SUL MATOGROSSENSE,expanded,2024-07-01
+510787,MT,Sapezal,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510790,MT,Sinop,TELES PIRES,expanded,2024-07-01
+510792,MT,Sorriso,TELES PIRES,expanded,2024-07-01
+510795,MT,Tangará da Serra,MEDIO NORTE MATOGROSSENSE,expanded,2024-07-01
+510800,MT,Tapurah,TELES PIRES,expanded,2024-07-01
+510810,MT,Tesouro,SUL MATOGROSSENSE,expanded,2024-07-01
+510830,MT,União do Sul,TELES PIRES,expanded,2024-07-01
+510840,MT,Várzea Grande,BAIXADA CUIABANA,expanded,2024-07-01
+510850,MT,Vera,TELES PIRES,expanded,2024-07-01
+150010,PA,Abaetetuba,TOCANTINS,expanded,2024-07-01
+150013,PA,Abel Figueiredo,CARAJAS,expanded,2024-07-01
+150034,PA,Água Azul do Norte,ARAGUAIA,expanded,2024-07-01
+150060,PA,Altamira,XINGU,expanded,2024-07-01
+150080,PA,Ananindeua,METROPOLITANA I,expanded,2024-07-01
+150085,PA,Anapu,XINGU,expanded,2024-07-01
+150095,PA,Aurora do Pará,METROPOLITANA III,expanded,2024-07-01
+150100,PA,Aveiro,TAPAJOS,expanded,2024-07-01
+150120,PA,Baião,TOCANTINS,expanded,2024-07-01
+150125,PA,Bannach,ARAGUAIA,expanded,2024-07-01
+150130,PA,Barcarena,TOCANTINS,expanded,2024-07-01
+150140,PA,Belém,METROPOLITANA I,expanded,2024-07-01
+150150,PA,Benevides,METROPOLITANA I,expanded,2024-07-01
+150157,PA,Bom Jesus do Tocantins,CARAJAS,expanded,2024-07-01
+150172,PA,Brasil Novo,XINGU,expanded,2024-07-01
+150175,PA,Brejo Grande do Araguaia,CARAJAS,expanded,2024-07-01
+150178,PA,Breu Branco,LAGO DE TUCURUI,expanded,2024-07-01
+150210,PA,Cametá,TOCANTINS,expanded,2024-07-01
+150215,PA,Canaã dos Carajás,CARAJAS,expanded,2024-07-01
+150230,PA,Capitão Poço,METROPOLITANA III,expanded,2024-07-01
+150240,PA,Castanhal,METROPOLITANA III,expanded,2024-07-01
+150270,PA,Conceição do Araguaia,ARAGUAIA,expanded,2024-07-01
+150276,PA,Cumaru do Norte,ARAGUAIA,expanded,2024-07-01
+150277,PA,Curionópolis,CARAJAS,expanded,2024-07-01
+150290,PA,Curuçá,METROPOLITANA III,expanded,2024-07-01
+150293,PA,Dom Eliseu,CARAJAS,expanded,2024-07-01
+150295,PA,Eldorado do Carajás,CARAJAS,expanded,2024-07-01
+150304,PA,Floresta do Araguaia,ARAGUAIA,expanded,2024-07-01
+150307,PA,Garrafão do Norte,METROPOLITANA III,expanded,2024-07-01
+150309,PA,Goianésia do Pará,LAGO DE TUCURUI,expanded,2024-07-01
+150320,PA,Igarapé-Açu,METROPOLITANA III,expanded,2024-07-01
+150330,PA,Igarapé-Miri,TOCANTINS,expanded,2024-07-01
+150340,PA,Inhangapi,METROPOLITANA III,expanded,2024-07-01
+150345,PA,Ipixuna do Pará,METROPOLITANA III,expanded,2024-07-01
+150350,PA,Irituia,METROPOLITANA III,expanded,2024-07-01
+150360,PA,Itaituba,TAPAJOS,expanded,2024-07-01
+150370,PA,Itupiranga,CARAJAS,expanded,2024-07-01
+150375,PA,Jacareacanga,TAPAJOS,expanded,2024-07-01
+150380,PA,Jacundá,LAGO DE TUCURUI,expanded,2024-07-01
+150400,PA,Limoeiro do Ajuru,TOCANTINS,expanded,2024-07-01
+150405,PA,Mãe do Rio,METROPOLITANA III,expanded,2024-07-01
+150410,PA,Magalhães Barata,METROPOLITANA III,expanded,2024-07-01
+150420,PA,Marabá,CARAJAS,expanded,2024-07-01
+150430,PA,Maracanã,METROPOLITANA III,expanded,2024-07-01
+150440,PA,Marapanim,METROPOLITANA III,expanded,2024-07-01
+150442,PA,Marituba,METROPOLITANA I,expanded,2024-07-01
+150445,PA,Medicilândia,XINGU,expanded,2024-07-01
+150460,PA,Mocajuba,TOCANTINS,expanded,2024-07-01
+150470,PA,Moju,TOCANTINS,expanded,2024-07-01
+150495,PA,Nova Esperança do Piriá,METROPOLITANA III,expanded,2024-07-01
+150497,PA,Nova Ipixuna,CARAJAS,expanded,2024-07-01
+150503,PA,Novo Progresso,TAPAJOS,expanded,2024-07-01
+150506,PA,Novo Repartimento,LAGO DE TUCURUI,expanded,2024-07-01
+150520,PA,Oeiras do Pará,TOCANTINS,expanded,2024-07-01
+150543,PA,Ourilândia do Norte,ARAGUAIA,expanded,2024-07-01
+150548,PA,Pacajá,XINGU,expanded,2024-07-01
+150549,PA,Palestina do Pará,CARAJAS,expanded,2024-07-01
+150550,PA,Paragominas,METROPOLITANA III,expanded,2024-07-01
+150553,PA,Parauapebas,CARAJAS,expanded,2024-07-01
+150555,PA,Pau D'Arco,ARAGUAIA,expanded,2024-07-01
+150563,PA,Piçarra,CARAJAS,expanded,2024-07-01
+150590,PA,Porto de Moz,XINGU,expanded,2024-07-01
+150613,PA,Redenção,ARAGUAIA,expanded,2024-07-01
+150616,PA,Rio Maria,ARAGUAIA,expanded,2024-07-01
+150618,PA,Rondon do Pará,CARAJAS,expanded,2024-07-01
+150619,PA,Rurópolis,TAPAJOS,expanded,2024-07-01
+150635,PA,Santa Bárbara do Pará,METROPOLITANA I,expanded,2024-07-01
+150658,PA,Santa Maria das Barreiras,ARAGUAIA,expanded,2024-07-01
+150660,PA,Santa Maria do Pará,METROPOLITANA III,expanded,2024-07-01
+150670,PA,Santana do Araguaia,ARAGUAIA,expanded,2024-07-01
+150715,PA,São Domingos do Araguaia,CARAJAS,expanded,2024-07-01
+150720,PA,São Domingos do Capim,METROPOLITANA III,expanded,2024-07-01
+150730,PA,São Félix do Xingu,ARAGUAIA,expanded,2024-07-01
+150740,PA,São Francisco do Pará,METROPOLITANA III,expanded,2024-07-01
+150745,PA,São Geraldo do Araguaia,CARAJAS,expanded,2024-07-01
+150746,PA,São João da Ponta,METROPOLITANA III,expanded,2024-07-01
+150750,PA,São João do Araguaia,CARAJAS,expanded,2024-07-01
+150760,PA,São Miguel do Guamá,METROPOLITANA III,expanded,2024-07-01
+150775,PA,Sapucaia,ARAGUAIA,expanded,2024-07-01
+150780,PA,Senador José Porfírio,XINGU,expanded,2024-07-01
+150795,PA,Tailândia,LAGO DE TUCURUI,expanded,2024-07-01
+150796,PA,Terra Alta,METROPOLITANA III,expanded,2024-07-01
+150805,PA,Trairão,TAPAJOS,expanded,2024-07-01
+150808,PA,Tucumã,ARAGUAIA,expanded,2024-07-01
+150810,PA,Tucuruí,LAGO DE TUCURUI,expanded,2024-07-01
+150812,PA,Ulianópolis,METROPOLITANA III,expanded,2024-07-01
+150815,PA,Uruará,XINGU,expanded,2024-07-01
+150835,PA,Vitória do Xingu,XINGU,expanded,2024-07-01
+150840,PA,Xinguara,ARAGUAIA,expanded,2024-07-01
+250030,PB,Alagoa Grande,3ª REGIAO,expanded,2024-07-01
+250130,PB,Aroeiras,15ª REGIAO,expanded,2024-07-01
+250370,PB,Cajazeiras,9ª REGIAO,expanded,2024-07-01
+250400,PB,Campina Grande,16ª REGIAO,expanded,2024-07-01
+250600,PB,Esperança,3ª REGIAO,expanded,2024-07-01
+250630,PB,Guarabira,2ª REGIAO,expanded,2024-07-01
+250690,PB,Itabaiana,12ª REGIAO,expanded,2024-07-01
+251210,PB,Pombal,13ª REGIAO,expanded,2024-07-01
+251230,PB,Princesa Isabel,11ª REGIAO,expanded,2024-07-01
+251620,PB,Sousa,10ª REGIAO,expanded,2024-07-01
+260005,PE,Abreu e Lima,RECIFE,expanded,2024-07-01
+260050,PE,Águas Belas,GARANHUNS,expanded,2024-07-01
+260100,PE,Angelim,GARANHUNS,expanded,2024-07-01
+260105,PE,Araçoiaba,RECIFE,expanded,2024-07-01
+260210,PE,Bom Conselho,GARANHUNS,expanded,2024-07-01
+260240,PE,Brejão,GARANHUNS,expanded,2024-07-01
+260290,PE,Cabo de Santo Agostinho,RECIFE,expanded,2024-07-01
+260320,PE,Caetés,GARANHUNS,expanded,2024-07-01
+260330,PE,Calçado,GARANHUNS,expanded,2024-07-01
+260345,PE,Camaragibe,RECIFE,expanded,2024-07-01
+260370,PE,Canhotinho,GARANHUNS,expanded,2024-07-01
+260380,PE,Capoeiras,GARANHUNS,expanded,2024-07-01
+260440,PE,Chã de Alegria,RECIFE,expanded,2024-07-01
+260450,PE,Chã Grande,RECIFE,expanded,2024-07-01
+260470,PE,Correntes,GARANHUNS,expanded,2024-07-01
+260545,PE,Fernando de Noronha,RECIFE,expanded,2024-07-01
+260600,PE,Garanhuns,GARANHUNS,expanded,2024-07-01
+260610,PE,Glória do Goitá,RECIFE,expanded,2024-07-01
+260650,PE,Iati,GARANHUNS,expanded,2024-07-01
+260680,PE,Igarassu,RECIFE,expanded,2024-07-01
+260760,PE,Ilha de Itamaracá,RECIFE,expanded,2024-07-01
+260720,PE,Ipojuca,RECIFE,expanded,2024-07-01
+260750,PE,Itaíba,GARANHUNS,expanded,2024-07-01
+260775,PE,Itapissuma,RECIFE,expanded,2024-07-01
+260790,PE,Jaboatão dos Guararapes,RECIFE,expanded,2024-07-01
+260825,PE,Jucati,GARANHUNS,expanded,2024-07-01
+260830,PE,Jupi,GARANHUNS,expanded,2024-07-01
+260860,PE,Lagoa do Ouro,GARANHUNS,expanded,2024-07-01
+260880,PE,Lajedo,GARANHUNS,expanded,2024-07-01
+260940,PE,Moreno,RECIFE,expanded,2024-07-01
+260960,PE,Olinda,RECIFE,expanded,2024-07-01
+261010,PE,Palmeirina,GARANHUNS,expanded,2024-07-01
+261030,PE,Paranatama,GARANHUNS,expanded,2024-07-01
+261070,PE,Paulista,RECIFE,expanded,2024-07-01
+261130,PE,Pombos,RECIFE,expanded,2024-07-01
+261160,PE,Recife,RECIFE,expanded,2024-07-01
+261230,PE,Saloá,GARANHUNS,expanded,2024-07-01
+261320,PE,São João,GARANHUNS,expanded,2024-07-01
+261370,PE,São Lourenço da Mata,RECIFE,expanded,2024-07-01
+261510,PE,Terezinha,GARANHUNS,expanded,2024-07-01
+261640,PE,Vitória de Santo Antão,RECIFE,expanded,2024-07-01
+220010,PI,Agricolândia,ENTRE RIOS,expanded,2024-07-01
+220020,PI,Água Branca,ENTRE RIOS,expanded,2024-07-01
+220030,PI,Alto Longá,ENTRE RIOS,expanded,2024-07-01
+220040,PI,Altos,ENTRE RIOS,expanded,2024-07-01
+220045,PI,Alvorada do Gurguéia,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220050,PI,Amarante,ENTRE RIOS,expanded,2024-07-01
+220060,PI,Angical do Piauí,ENTRE RIOS,expanded,2024-07-01
+220110,PI,Avelino Lopes,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220130,PI,Barreiras do Piauí,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220140,PI,Barro Duro,ENTRE RIOS,expanded,2024-07-01
+220160,PI,Beneditinos,ENTRE RIOS,expanded,2024-07-01
+220190,PI,Bom Jesus,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220273,PI,Coivaras,ENTRE RIOS,expanded,2024-07-01
+220290,PI,Corrente,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220300,PI,Cristalândia do Piauí,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220310,PI,Cristino Castro,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220320,PI,Curimatá,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220323,PI,Currais,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220325,PI,Curralinhos,ENTRE RIOS,expanded,2024-07-01
+220330,PI,Demerval Lobão,ENTRE RIOS,expanded,2024-07-01
+220440,PI,Gilbués,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220460,PI,Hugo Napoleão,ENTRE RIOS,expanded,2024-07-01
+220525,PI,Jardim do Mulato,ENTRE RIOS,expanded,2024-07-01
+220550,PI,José de Freitas,ENTRE RIOS,expanded,2024-07-01
+220552,PI,Júlio Borges,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220555,PI,Lagoa Alegre,ENTRE RIOS,expanded,2024-07-01
+220558,PI,Lagoa do Piauí,ENTRE RIOS,expanded,2024-07-01
+220554,PI,Lagoinha do Piauí,ENTRE RIOS,expanded,2024-07-01
+220620,PI,Miguel Alves,ENTRE RIOS,expanded,2024-07-01
+220630,PI,Miguel Leão,ENTRE RIOS,expanded,2024-07-01
+220640,PI,Monsenhor Gil,ENTRE RIOS,expanded,2024-07-01
+220660,PI,Monte Alegre do Piauí,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220665,PI,Morro Cabeça no Tempo,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220672,PI,Nazária,ENTRE RIOS,expanded,2024-07-01
+220710,PI,Olho D'Água do Piauí,ENTRE RIOS,expanded,2024-07-01
+220740,PI,Palmeira do Piauí,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220750,PI,Palmeirais,ENTRE RIOS,expanded,2024-07-01
+220760,PI,Parnaguá,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220775,PI,Passagem Franca do Piauí,ENTRE RIOS,expanded,2024-07-01
+220779,PI,Pau D'Arco do Piauí,ENTRE RIOS,expanded,2024-07-01
+220870,PI,Redenção do Gurguéia,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220880,PI,Regeneração,ENTRE RIOS,expanded,2024-07-01
+220885,PI,Riacho Frio,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220920,PI,Santa Filomena,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220930,PI,Santa Luz,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220945,PI,Santo Antônio dos Milagres,ENTRE RIOS,expanded,2024-07-01
+220975,PI,São Gonçalo do Gurguéia,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+220980,PI,São Gonçalo do Piauí,ENTRE RIOS,expanded,2024-07-01
+221050,PI,São Pedro do Piauí,ENTRE RIOS,expanded,2024-07-01
+221062,PI,Sebastião Barros,CHAPADA DAS MANGABEIRAS,expanded,2024-07-01
+221100,PI,Teresina,ENTRE RIOS,expanded,2024-07-01
+221110,PI,União,ENTRE RIOS,expanded,2024-07-01
+410020,PR,Adrianópolis,2ª RS METROPOLITANA,expanded,2024-07-01
+410030,PR,Agudos do Sul,2ª RS METROPOLITANA,expanded,2024-07-01
+410040,PR,Almirante Tamandaré,2ª RS METROPOLITANA,expanded,2024-07-01
+410050,PR,Altônia,12ª RS UMUARAMA,expanded,2024-07-01
+412862,PR,Alto Paraíso,12ª RS UMUARAMA,expanded,2024-07-01
+410060,PR,Alto Paraná,14ª RS PARANAVAI,expanded,2024-07-01
+410070,PR,Alto Piquiri,12ª RS UMUARAMA,expanded,2024-07-01
+410090,PR,Amaporã,14ª RS PARANAVAI,expanded,2024-07-01
+410100,PR,Ampére,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410105,PR,Anahy,10ª RS CASCAVEL,expanded,2024-07-01
+410115,PR,Ângulo,15ª RS MARINGA,expanded,2024-07-01
+410120,PR,Antonina,1ª RS PARANAGUA,expanded,2024-07-01
+410140,PR,Apucarana,16ª RS APUCARANA,expanded,2024-07-01
+410150,PR,Arapongas,16ª RS APUCARANA,expanded,2024-07-01
+410160,PR,Arapoti,3ª RS PONTA GROSSA,expanded,2024-07-01
+410180,PR,Araucária,2ª RS METROPOLITANA,expanded,2024-07-01
+410200,PR,Assis Chateaubriand,20ª RS TOLEDO,expanded,2024-07-01
+410210,PR,Astorga,15ª RS MARINGA,expanded,2024-07-01
+410220,PR,Atalaia,15ª RS MARINGA,expanded,2024-07-01
+410230,PR,Balsa Nova,2ª RS METROPOLITANA,expanded,2024-07-01
+410260,PR,Barracão,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410275,PR,Bela Vista da Caroba,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410302,PR,Boa Esperança do Iguaçu,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410304,PR,Boa Ventura de São Roque,5ª RS GUARAPUAVA,expanded,2024-07-01
+410305,PR,Boa Vista da Aparecida,10ª RS CASCAVEL,expanded,2024-07-01
+410310,PR,Bocaiúva do Sul,2ª RS METROPOLITANA,expanded,2024-07-01
+410315,PR,Bom Jesus do Sul,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410320,PR,Bom Sucesso,16ª RS APUCARANA,expanded,2024-07-01
+410322,PR,Bom Sucesso do Sul,7ª RS PATO BRANCO,expanded,2024-07-01
+410330,PR,Borrazópolis,16ª RS APUCARANA,expanded,2024-07-01
+410335,PR,Braganey,10ª RS CASCAVEL,expanded,2024-07-01
+410337,PR,Brasilândia do Sul,12ª RS UMUARAMA,expanded,2024-07-01
+410345,PR,Cafelândia,10ª RS CASCAVEL,expanded,2024-07-01
+410347,PR,Cafezal do Sul,12ª RS UMUARAMA,expanded,2024-07-01
+410350,PR,Califórnia,16ª RS APUCARANA,expanded,2024-07-01
+410380,PR,Cambira,16ª RS APUCARANA,expanded,2024-07-01
+410395,PR,Campina do Simão,5ª RS GUARAPUAVA,expanded,2024-07-01
+410400,PR,Campina Grande do Sul,2ª RS METROPOLITANA,expanded,2024-07-01
+410405,PR,Campo Bonito,10ª RS CASCAVEL,expanded,2024-07-01
+410410,PR,Campo do Tenente,2ª RS METROPOLITANA,expanded,2024-07-01
+410420,PR,Campo Largo,2ª RS METROPOLITANA,expanded,2024-07-01
+410425,PR,Campo Magro,2ª RS METROPOLITANA,expanded,2024-07-01
+410442,PR,Candói,5ª RS GUARAPUAVA,expanded,2024-07-01
+410445,PR,Cantagalo,5ª RS GUARAPUAVA,expanded,2024-07-01
+410450,PR,Capanema,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410460,PR,Capitão Leônidas Marques,10ª RS CASCAVEL,expanded,2024-07-01
+410465,PR,Carambeí,3ª RS PONTA GROSSA,expanded,2024-07-01
+410480,PR,Cascavel,10ª RS CASCAVEL,expanded,2024-07-01
+410490,PR,Castro,3ª RS PONTA GROSSA,expanded,2024-07-01
+410500,PR,Catanduvas,10ª RS CASCAVEL,expanded,2024-07-01
+410520,PR,Cerro Azul,2ª RS METROPOLITANA,expanded,2024-07-01
+410530,PR,Céu Azul,10ª RS CASCAVEL,expanded,2024-07-01
+410540,PR,Chopinzinho,7ª RS PATO BRANCO,expanded,2024-07-01
+410570,PR,Clevelândia,7ª RS PATO BRANCO,expanded,2024-07-01
+410580,PR,Colombo,2ª RS METROPOLITANA,expanded,2024-07-01
+410590,PR,Colorado,15ª RS MARINGA,expanded,2024-07-01
+410620,PR,Contenda,2ª RS METROPOLITANA,expanded,2024-07-01
+410630,PR,Corbélia,10ª RS CASCAVEL,expanded,2024-07-01
+410645,PR,Coronel Domingos Soares,7ª RS PATO BRANCO,expanded,2024-07-01
+410650,PR,Coronel Vivida,7ª RS PATO BRANCO,expanded,2024-07-01
+410657,PR,Cruzeiro do Iguaçu,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410660,PR,Cruzeiro do Oeste,12ª RS UMUARAMA,expanded,2024-07-01
+410670,PR,Cruzeiro do Sul,14ª RS PARANAVAI,expanded,2024-07-01
+410690,PR,Curitiba,2ª RS METROPOLITANA,expanded,2024-07-01
+410715,PR,Diamante D'Oeste,20ª RS TOLEDO,expanded,2024-07-01
+410710,PR,Diamante do Norte,14ª RS PARANAVAI,expanded,2024-07-01
+410712,PR,Diamante do Sul,10ª RS CASCAVEL,expanded,2024-07-01
+410720,PR,Dois Vizinhos,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410725,PR,Douradina,12ª RS UMUARAMA,expanded,2024-07-01
+410730,PR,Doutor Camargo,15ª RS MARINGA,expanded,2024-07-01
+412863,PR,Doutor Ulysses,2ª RS METROPOLITANA,expanded,2024-07-01
+410740,PR,Enéas Marques,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410753,PR,Entre Rios do Oeste,20ª RS TOLEDO,expanded,2024-07-01
+410752,PR,Esperança Nova,12ª RS UMUARAMA,expanded,2024-07-01
+410754,PR,Espigão Alto do Iguaçu,10ª RS CASCAVEL,expanded,2024-07-01
+410760,PR,Faxinal,16ª RS APUCARANA,expanded,2024-07-01
+410765,PR,Fazenda Rio Grande,2ª RS METROPOLITANA,expanded,2024-07-01
+410780,PR,Floraí,15ª RS MARINGA,expanded,2024-07-01
+410785,PR,Flor da Serra do Sul,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410790,PR,Floresta,15ª RS MARINGA,expanded,2024-07-01
+410810,PR,Flórida,15ª RS MARINGA,expanded,2024-07-01
+410820,PR,Formosa do Oeste,10ª RS CASCAVEL,expanded,2024-07-01
+410845,PR,Foz do Jordão,5ª RS GUARAPUAVA,expanded,2024-07-01
+410832,PR,Francisco Alves,12ª RS UMUARAMA,expanded,2024-07-01
+410840,PR,Francisco Beltrão,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+410865,PR,Goioxim,5ª RS GUARAPUAVA,expanded,2024-07-01
+410870,PR,Grandes Rios,16ª RS APUCARANA,expanded,2024-07-01
+410880,PR,Guaíra,20ª RS TOLEDO,expanded,2024-07-01
+410890,PR,Guairaçá,14ª RS PARANAVAI,expanded,2024-07-01
+410930,PR,Guaraniaçu,10ª RS CASCAVEL,expanded,2024-07-01
+410940,PR,Guarapuava,5ª RS GUARAPUAVA,expanded,2024-07-01
+410950,PR,Guaraqueçaba,1ª RS PARANAGUA,expanded,2024-07-01
+410960,PR,Guaratuba,1ª RS PARANAGUA,expanded,2024-07-01
+410965,PR,Honório Serpa,7ª RS PATO BRANCO,expanded,2024-07-01
+410975,PR,Ibema,10ª RS CASCAVEL,expanded,2024-07-01
+410990,PR,Icaraíma,12ª RS UMUARAMA,expanded,2024-07-01
+411000,PR,Iguaraçu,15ª RS MARINGA,expanded,2024-07-01
+411005,PR,Iguatu,10ª RS CASCAVEL,expanded,2024-07-01
+411030,PR,Inajá,14ª RS PARANAVAI,expanded,2024-07-01
+411050,PR,Ipiranga,3ª RS PONTA GROSSA,expanded,2024-07-01
+411060,PR,Iporã,12ª RS UMUARAMA,expanded,2024-07-01
+411065,PR,Iracema do Oeste,10ª RS CASCAVEL,expanded,2024-07-01
+411090,PR,Itaguajé,15ª RS MARINGA,expanded,2024-07-01
+411110,PR,Itambé,15ª RS MARINGA,expanded,2024-07-01
+411120,PR,Itapejara d'Oeste,7ª RS PATO BRANCO,expanded,2024-07-01
+411125,PR,Itaperuçu,2ª RS METROPOLITANA,expanded,2024-07-01
+411130,PR,Itaúna do Sul,14ª RS PARANAVAI,expanded,2024-07-01
+411140,PR,Ivaí,3ª RS PONTA GROSSA,expanded,2024-07-01
+411155,PR,Ivaté,12ª RS UMUARAMA,expanded,2024-07-01
+411160,PR,Ivatuba,15ª RS MARINGA,expanded,2024-07-01
+411200,PR,Jaguariaíva,3ª RS PONTA GROSSA,expanded,2024-07-01
+411210,PR,Jandaia do Sul,16ª RS APUCARANA,expanded,2024-07-01
+411260,PR,Jardim Olinda,14ª RS PARANAVAI,expanded,2024-07-01
+411275,PR,Jesuítas,10ª RS CASCAVEL,expanded,2024-07-01
+411310,PR,Kaloré,16ª RS APUCARANA,expanded,2024-07-01
+411320,PR,Lapa,2ª RS METROPOLITANA,expanded,2024-07-01
+411325,PR,Laranjal,5ª RS GUARAPUAVA,expanded,2024-07-01
+411330,PR,Laranjeiras do Sul,5ª RS GUARAPUAVA,expanded,2024-07-01
+411345,PR,Lindoeste,10ª RS CASCAVEL,expanded,2024-07-01
+411350,PR,Loanda,14ª RS PARANAVAI,expanded,2024-07-01
+411360,PR,Lobato,15ª RS MARINGA,expanded,2024-07-01
+411410,PR,Mandaguaçu,15ª RS MARINGA,expanded,2024-07-01
+411420,PR,Mandaguari,15ª RS MARINGA,expanded,2024-07-01
+411430,PR,Mandirituba,2ª RS METROPOLITANA,expanded,2024-07-01
+411435,PR,Manfrinópolis,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411440,PR,Mangueirinha,7ª RS PATO BRANCO,expanded,2024-07-01
+411460,PR,Marechal Cândido Rondon,20ª RS TOLEDO,expanded,2024-07-01
+411470,PR,Maria Helena,12ª RS UMUARAMA,expanded,2024-07-01
+411480,PR,Marialva,15ª RS MARINGA,expanded,2024-07-01
+411490,PR,Marilândia do Sul,16ª RS APUCARANA,expanded,2024-07-01
+411500,PR,Marilena,14ª RS PARANAVAI,expanded,2024-07-01
+411510,PR,Mariluz,12ª RS UMUARAMA,expanded,2024-07-01
+411520,PR,Maringá,15ª RS MARINGA,expanded,2024-07-01
+411530,PR,Mariópolis,7ª RS PATO BRANCO,expanded,2024-07-01
+411535,PR,Maripá,20ª RS TOLEDO,expanded,2024-07-01
+411540,PR,Marmeleiro,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411545,PR,Marquinho,5ª RS GUARAPUAVA,expanded,2024-07-01
+411550,PR,Marumbi,16ª RS APUCARANA,expanded,2024-07-01
+411570,PR,Matinhos,1ª RS PARANAGUA,expanded,2024-07-01
+411575,PR,Mauá da Serra,16ª RS APUCARANA,expanded,2024-07-01
+411585,PR,Mercedes,20ª RS TOLEDO,expanded,2024-07-01
+411590,PR,Mirador,14ª RS PARANAVAI,expanded,2024-07-01
+411620,PR,Morretes,1ª RS PARANAGUA,expanded,2024-07-01
+411630,PR,Munhoz de Melo,15ª RS MARINGA,expanded,2024-07-01
+411640,PR,Nossa Senhora das Graças,15ª RS MARINGA,expanded,2024-07-01
+411650,PR,Nova Aliança do Ivaí,14ª RS PARANAVAI,expanded,2024-07-01
+411670,PR,Nova Aurora,10ª RS CASCAVEL,expanded,2024-07-01
+411690,PR,Nova Esperança,15ª RS MARINGA,expanded,2024-07-01
+411695,PR,Nova Esperança do Sudoeste,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411705,PR,Nova Laranjeiras,5ª RS GUARAPUAVA,expanded,2024-07-01
+411710,PR,Nova Londrina,14ª RS PARANAVAI,expanded,2024-07-01
+411720,PR,Nova Olímpia,12ª RS UMUARAMA,expanded,2024-07-01
+411725,PR,Nova Prata do Iguaçu,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411722,PR,Nova Santa Rosa,20ª RS TOLEDO,expanded,2024-07-01
+411729,PR,Novo Itacolomi,16ª RS APUCARANA,expanded,2024-07-01
+411740,PR,Ourizona,15ª RS MARINGA,expanded,2024-07-01
+411745,PR,Ouro Verde do Oeste,20ª RS TOLEDO,expanded,2024-07-01
+411750,PR,Paiçandu,15ª RS MARINGA,expanded,2024-07-01
+411760,PR,Palmas,7ª RS PATO BRANCO,expanded,2024-07-01
+411770,PR,Palmeira,3ª RS PONTA GROSSA,expanded,2024-07-01
+411780,PR,Palmital,5ª RS GUARAPUAVA,expanded,2024-07-01
+411790,PR,Palotina,20ª RS TOLEDO,expanded,2024-07-01
+411800,PR,Paraíso do Norte,14ª RS PARANAVAI,expanded,2024-07-01
+411810,PR,Paranacity,15ª RS MARINGA,expanded,2024-07-01
+411820,PR,Paranaguá,1ª RS PARANAGUA,expanded,2024-07-01
+411830,PR,Paranapoema,14ª RS PARANAVAI,expanded,2024-07-01
+411840,PR,Paranavaí,14ª RS PARANAVAI,expanded,2024-07-01
+411845,PR,Pato Bragado,20ª RS TOLEDO,expanded,2024-07-01
+411850,PR,Pato Branco,7ª RS PATO BRANCO,expanded,2024-07-01
+411885,PR,Perobal,12ª RS UMUARAMA,expanded,2024-07-01
+411890,PR,Pérola,12ª RS UMUARAMA,expanded,2024-07-01
+411900,PR,Pérola d'Oeste,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411910,PR,Piên,2ª RS METROPOLITANA,expanded,2024-07-01
+411915,PR,Pinhais,2ª RS METROPOLITANA,expanded,2024-07-01
+411925,PR,Pinhal de São Bento,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411930,PR,Pinhão,5ª RS GUARAPUAVA,expanded,2024-07-01
+411940,PR,Piraí do Sul,3ª RS PONTA GROSSA,expanded,2024-07-01
+411950,PR,Piraquara,2ª RS METROPOLITANA,expanded,2024-07-01
+411960,PR,Pitanga,5ª RS GUARAPUAVA,expanded,2024-07-01
+411970,PR,Planaltina do Paraná,14ª RS PARANAVAI,expanded,2024-07-01
+411980,PR,Planalto,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+411990,PR,Ponta Grossa,3ª RS PONTA GROSSA,expanded,2024-07-01
+411995,PR,Pontal do Paraná,1ª RS PARANAGUA,expanded,2024-07-01
+412010,PR,Porto Amazonas,3ª RS PONTA GROSSA,expanded,2024-07-01
+412015,PR,Porto Barreiro,5ª RS GUARAPUAVA,expanded,2024-07-01
+412020,PR,Porto Rico,14ª RS PARANAVAI,expanded,2024-07-01
+412035,PR,Pranchita,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412040,PR,Presidente Castelo Branco,15ª RS MARINGA,expanded,2024-07-01
+412060,PR,Prudentópolis,5ª RS GUARAPUAVA,expanded,2024-07-01
+412080,PR,Quatro Barras,2ª RS METROPOLITANA,expanded,2024-07-01
+412085,PR,Quatro Pontes,20ª RS TOLEDO,expanded,2024-07-01
+412090,PR,Quedas do Iguaçu,10ª RS CASCAVEL,expanded,2024-07-01
+412100,PR,Querência do Norte,14ª RS PARANAVAI,expanded,2024-07-01
+412120,PR,Quitandinha,2ª RS METROPOLITANA,expanded,2024-07-01
+412140,PR,Realeza,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412160,PR,Renascença,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412175,PR,Reserva do Iguaçu,5ª RS GUARAPUAVA,expanded,2024-07-01
+412210,PR,Rio Bom,16ª RS APUCARANA,expanded,2024-07-01
+412215,PR,Rio Bonito do Iguaçu,5ª RS GUARAPUAVA,expanded,2024-07-01
+412220,PR,Rio Branco do Sul,2ª RS METROPOLITANA,expanded,2024-07-01
+412230,PR,Rio Negro,2ª RS METROPOLITANA,expanded,2024-07-01
+412270,PR,Sabáudia,16ª RS APUCARANA,expanded,2024-07-01
+412280,PR,Salgado Filho,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412300,PR,Salto do Lontra,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412330,PR,Santa Cruz de Monte Castelo,14ª RS PARANAVAI,expanded,2024-07-01
+412340,PR,Santa Fé,15ª RS MARINGA,expanded,2024-07-01
+412350,PR,Santa Helena,20ª RS TOLEDO,expanded,2024-07-01
+412360,PR,Santa Inês,15ª RS MARINGA,expanded,2024-07-01
+412370,PR,Santa Isabel do Ivaí,14ª RS PARANAVAI,expanded,2024-07-01
+412380,PR,Santa Izabel do Oeste,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412382,PR,Santa Lúcia,10ª RS CASCAVEL,expanded,2024-07-01
+412395,PR,Santa Mônica,14ª RS PARANAVAI,expanded,2024-07-01
+412402,PR,Santa Tereza do Oeste,10ª RS CASCAVEL,expanded,2024-07-01
+412420,PR,Santo Antônio do Caiuá,14ª RS PARANAVAI,expanded,2024-07-01
+412440,PR,Santo Antônio do Sudoeste,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412450,PR,Santo Inácio,15ª RS MARINGA,expanded,2024-07-01
+412460,PR,São Carlos do Ivaí,14ª RS PARANAVAI,expanded,2024-07-01
+412480,PR,São João,7ª RS PATO BRANCO,expanded,2024-07-01
+412490,PR,São João do Caiuá,14ª RS PARANAVAI,expanded,2024-07-01
+412510,PR,São João do Triunfo,3ª RS PONTA GROSSA,expanded,2024-07-01
+412520,PR,São Jorge d'Oeste,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412530,PR,São Jorge do Ivaí,15ª RS MARINGA,expanded,2024-07-01
+412535,PR,São Jorge do Patrocínio,12ª RS UMUARAMA,expanded,2024-07-01
+412545,PR,São José das Palmeiras,20ª RS TOLEDO,expanded,2024-07-01
+412550,PR,São José dos Pinhais,2ª RS METROPOLITANA,expanded,2024-07-01
+412575,PR,São Pedro do Iguaçu,20ª RS TOLEDO,expanded,2024-07-01
+412580,PR,São Pedro do Ivaí,16ª RS APUCARANA,expanded,2024-07-01
+412590,PR,São Pedro do Paraná,14ª RS PARANAVAI,expanded,2024-07-01
+412625,PR,Sarandi,15ª RS MARINGA,expanded,2024-07-01
+412627,PR,Saudade do Iguaçu,7ª RS PATO BRANCO,expanded,2024-07-01
+412630,PR,Sengés,3ª RS PONTA GROSSA,expanded,2024-07-01
+412665,PR,Sulina,7ª RS PATO BRANCO,expanded,2024-07-01
+412670,PR,Tamboara,14ª RS PARANAVAI,expanded,2024-07-01
+412690,PR,Tapira,12ª RS UMUARAMA,expanded,2024-07-01
+412730,PR,Terra Rica,14ª RS PARANAVAI,expanded,2024-07-01
+412740,PR,Terra Roxa,20ª RS TOLEDO,expanded,2024-07-01
+412760,PR,Tijucas do Sul,2ª RS METROPOLITANA,expanded,2024-07-01
+412770,PR,Toledo,20ª RS TOLEDO,expanded,2024-07-01
+412785,PR,Três Barras do Paraná,10ª RS CASCAVEL,expanded,2024-07-01
+412788,PR,Tunas do Paraná,2ª RS METROPOLITANA,expanded,2024-07-01
+412795,PR,Tupãssi,20ª RS TOLEDO,expanded,2024-07-01
+412796,PR,Turvo,5ª RS GUARAPUAVA,expanded,2024-07-01
+412810,PR,Umuarama,12ª RS UMUARAMA,expanded,2024-07-01
+412830,PR,Uniflor,15ª RS MARINGA,expanded,2024-07-01
+412855,PR,Vera Cruz do Oeste,10ª RS CASCAVEL,expanded,2024-07-01
+412860,PR,Verê,8ª RS FRANCISCO BELTRAO,expanded,2024-07-01
+412865,PR,Virmond,5ª RS GUARAPUAVA,expanded,2024-07-01
+412870,PR,Vitorino,7ª RS PATO BRANCO,expanded,2024-07-01
+412880,PR,Xambrê,12ª RS UMUARAMA,expanded,2024-07-01
+330010,RJ,Angra dos Reis,BAIA DA ILHA GRANDE,expanded,2024-07-01
+330015,RJ,Aperibé,NOROESTE,expanded,2024-07-01
+330020,RJ,Araruama,BAIXADA LITORANEA,expanded,2024-07-01
+330023,RJ,Armação dos Búzios,BAIXADA LITORANEA,expanded,2024-07-01
+330025,RJ,Arraial do Cabo,BAIXADA LITORANEA,expanded,2024-07-01
+330030,RJ,Barra do Piraí,MEDIO PARAIBA,expanded,2024-07-01
+330040,RJ,Barra Mansa,MEDIO PARAIBA,expanded,2024-07-01
+330050,RJ,Bom Jardim,SERRANA,expanded,2024-07-01
+330060,RJ,Bom Jesus do Itabapoana,NOROESTE,expanded,2024-07-01
+330070,RJ,Cabo Frio,BAIXADA LITORANEA,expanded,2024-07-01
+330080,RJ,Cachoeiras de Macacu,SERRANA,expanded,2024-07-01
+330090,RJ,Cambuci,NOROESTE,expanded,2024-07-01
+330100,RJ,Campos dos Goytacazes,NORTE,expanded,2024-07-01
+330110,RJ,Cantagalo,SERRANA,expanded,2024-07-01
+330093,RJ,Carapebus,NORTE,expanded,2024-07-01
+330115,RJ,Cardoso Moreira,NOROESTE,expanded,2024-07-01
+330120,RJ,Carmo,SERRANA,expanded,2024-07-01
+330130,RJ,Casimiro de Abreu,BAIXADA LITORANEA,expanded,2024-07-01
+330140,RJ,Conceição de Macabu,NORTE,expanded,2024-07-01
+330150,RJ,Cordeiro,SERRANA,expanded,2024-07-01
+330160,RJ,Duas Barras,SERRANA,expanded,2024-07-01
+330185,RJ,Guapimirim,SERRANA,expanded,2024-07-01
+330187,RJ,Iguaba Grande,BAIXADA LITORANEA,expanded,2024-07-01
+330190,RJ,Itaboraí,METROPOLITANA II,expanded,2024-07-01
+330205,RJ,Italva,NOROESTE,expanded,2024-07-01
+330210,RJ,Itaocara,NOROESTE,expanded,2024-07-01
+330220,RJ,Itaperuna,NOROESTE,expanded,2024-07-01
+330225,RJ,Itatiaia,MEDIO PARAIBA,expanded,2024-07-01
+330230,RJ,Laje do Muriaé,NOROESTE,expanded,2024-07-01
+330240,RJ,Macaé,NORTE,expanded,2024-07-01
+330245,RJ,Macuco,SERRANA,expanded,2024-07-01
+330260,RJ,Mangaratiba,BAIA DA ILHA GRANDE,expanded,2024-07-01
+330270,RJ,Maricá,METROPOLITANA II,expanded,2024-07-01
+330300,RJ,Miracema,NOROESTE,expanded,2024-07-01
+330310,RJ,Natividade,NOROESTE,expanded,2024-07-01
+330330,RJ,Niterói,METROPOLITANA II,expanded,2024-07-01
+330340,RJ,Nova Friburgo,SERRANA,expanded,2024-07-01
+330380,RJ,Paraty,BAIA DA ILHA GRANDE,expanded,2024-07-01
+330390,RJ,Petrópolis,SERRANA,expanded,2024-07-01
+330395,RJ,Pinheiral,MEDIO PARAIBA,expanded,2024-07-01
+330400,RJ,Piraí,MEDIO PARAIBA,expanded,2024-07-01
+330410,RJ,Porciúncula,NOROESTE,expanded,2024-07-01
+330411,RJ,Porto Real,MEDIO PARAIBA,expanded,2024-07-01
+330412,RJ,Quatis,MEDIO PARAIBA,expanded,2024-07-01
+330415,RJ,Quissamã,NORTE,expanded,2024-07-01
+330420,RJ,Resende,MEDIO PARAIBA,expanded,2024-07-01
+330430,RJ,Rio Bonito,METROPOLITANA II,expanded,2024-07-01
+330440,RJ,Rio Claro,MEDIO PARAIBA,expanded,2024-07-01
+330450,RJ,Rio das Flores,MEDIO PARAIBA,expanded,2024-07-01
+330452,RJ,Rio das Ostras,BAIXADA LITORANEA,expanded,2024-07-01
+330460,RJ,Santa Maria Madalena,SERRANA,expanded,2024-07-01
+330470,RJ,Santo Antônio de Pádua,NOROESTE,expanded,2024-07-01
+330480,RJ,São Fidélis,NORTE,expanded,2024-07-01
+330475,RJ,São Francisco de Itabapoana,NORTE,expanded,2024-07-01
+330490,RJ,São Gonçalo,METROPOLITANA II,expanded,2024-07-01
+330500,RJ,São João da Barra,NORTE,expanded,2024-07-01
+330513,RJ,São José de Ubá,NOROESTE,expanded,2024-07-01
+330515,RJ,São José do Vale do Rio Preto,SERRANA,expanded,2024-07-01
+330520,RJ,São Pedro da Aldeia,BAIXADA LITORANEA,expanded,2024-07-01
+330530,RJ,São Sebastião do Alto,SERRANA,expanded,2024-07-01
+330550,RJ,Saquarema,BAIXADA LITORANEA,expanded,2024-07-01
+330560,RJ,Silva Jardim,METROPOLITANA II,expanded,2024-07-01
+330570,RJ,Sumidouro,SERRANA,expanded,2024-07-01
+330575,RJ,Tanguá,METROPOLITANA II,expanded,2024-07-01
+330580,RJ,Teresópolis,SERRANA,expanded,2024-07-01
+330590,RJ,Trajano de Moraes,SERRANA,expanded,2024-07-01
+330610,RJ,Valença,MEDIO PARAIBA,expanded,2024-07-01
+330615,RJ,Varre-Sai,NOROESTE,expanded,2024-07-01
+330630,RJ,Volta Redonda,MEDIO PARAIBA,expanded,2024-07-01
+240120,RN,Arês,1ª REGIAO DE SAUDE - SAO JOSE DE MIPIBU,expanded,2024-07-01
+240150,RN,Barcelona,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240170,RN,Bom Jesus,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240200,RN,Caicó,4ª REGIAO DE SAUDE - CAICO,expanded,2024-07-01
+240210,RN,Campo Redondo,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240260,RN,Ceará-Mirim,3ª REGIAO DE SAUDE - JOAO CAMARA,expanded,2024-07-01
+240280,RN,Coronel Ezequiel,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240420,RN,Goianinha,1ª REGIAO DE SAUDE - SAO JOSE DE MIPIBU,expanded,2024-07-01
+240470,RN,Ipanguaçu,8ª REGIAO DE SAUDE - ACU,expanded,2024-07-01
+240500,RN,Jaçanã,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240530,RN,Januário Cicco,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240540,RN,Japi,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240580,RN,João Câmara,3ª REGIAO DE SAUDE - JOAO CAMARA,expanded,2024-07-01
+240610,RN,Jucurutu,4ª REGIAO DE SAUDE - CAICO,expanded,2024-07-01
+240640,RN,Lagoa de Velhos,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240680,RN,Lajes Pintadas,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240700,RN,Luís Gomes,6ª REGIAO DE SAUDE - PAU DOS FERROS,expanded,2024-07-01
+240780,RN,Monte Alegre,1ª REGIAO DE SAUDE - SAO JOSE DE MIPIBU,expanded,2024-07-01
+240940,RN,Pau dos Ferros,6ª REGIAO DE SAUDE - PAU DOS FERROS,expanded,2024-07-01
+240990,RN,Pendências,8ª REGIAO DE SAUDE - ACU,expanded,2024-07-01
+241110,RN,Ruy Barbosa,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241120,RN,Santa Cruz,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+240933,RN,Santa Maria,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241170,RN,São Bento do Trairí,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241220,RN,São José de Mipibu,1ª REGIAO DE SAUDE - SAO JOSE DE MIPIBU,expanded,2024-07-01
+241230,RN,São José do Campestre,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241260,RN,São Paulo do Potengi,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241270,RN,São Pedro,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241290,RN,São Tomé,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241310,RN,Senador Elói de Souza,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241030,RN,Serra Caiada,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241370,RN,Sítio Novo,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241400,RN,Tangará,5ª REGIAO DE SAUDE - SANTA CRUZ,expanded,2024-07-01
+241440,RN,Touros,3ª REGIAO DE SAUDE - JOAO CAMARA,expanded,2024-07-01
+110003,RO,Cabixi,CONE SUL,expanded,2024-07-01
+110080,RO,Candeias do Jamari,MADEIRA-MAMORE,expanded,2024-07-01
+110005,RO,Cerejeiras,CONE SUL,expanded,2024-07-01
+110092,RO,Chupinguaia,CONE SUL,expanded,2024-07-01
+110006,RO,Colorado do Oeste,CONE SUL,expanded,2024-07-01
+110007,RO,Corumbiara,CONE SUL,expanded,2024-07-01
+110010,RO,Guajará-Mirim,MADEIRA-MAMORE,expanded,2024-07-01
+110110,RO,Itapuã do Oeste,MADEIRA-MAMORE,expanded,2024-07-01
+110033,RO,Nova Mamoré,MADEIRA-MAMORE,expanded,2024-07-01
+110146,RO,Pimenteiras do Oeste,CONE SUL,expanded,2024-07-01
+110020,RO,Porto Velho,MADEIRA-MAMORE,expanded,2024-07-01
+110030,RO,Vilhena,CONE SUL,expanded,2024-07-01
+140020,RR,Caracaraí,SUL,expanded,2024-07-01
+140023,RR,Caroebe,SUL,expanded,2024-07-01
+140047,RR,Rorainópolis,SUL,expanded,2024-07-01
+140050,RR,São João da Baliza,SUL,expanded,2024-07-01
+140060,RR,São Luiz,SUL,expanded,2024-07-01
+430020,RS,Ajuricaba,REGIAO 13,expanded,2024-07-01
+430047,RS,Almirante Tamandaré do Sul,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430060,RS,Alvorada,REGIAO 10,expanded,2024-07-01
+430087,RS,Araricá,REGIAO 07,expanded,2024-07-01
+430090,RS,Aratiba,REGIAO 16,expanded,2024-07-01
+430120,RS,Arroio do Tigre,REGIAO 27,expanded,2024-07-01
+430150,RS,Augusto Pestana,REGIAO 13,expanded,2024-07-01
+430155,RS,Áurea,REGIAO 16,expanded,2024-07-01
+430165,RS,Barão,REGIAO 08,expanded,2024-07-01
+430170,RS,Barão de Cotegipe,REGIAO 16,expanded,2024-07-01
+430192,RS,Barra do Rio Azul,REGIAO 16,expanded,2024-07-01
+430205,RS,Benjamin Constant do Sul,REGIAO 16,expanded,2024-07-01
+430258,RS,Bozano,REGIAO 13,expanded,2024-07-01
+430265,RS,Brochier,REGIAO 08,expanded,2024-07-01
+430280,RS,Caçapava do Sul,REGIAO 27,expanded,2024-07-01
+430300,RS,Cachoeira do Sul,REGIAO 27,expanded,2024-07-01
+430310,RS,Cachoeirinha,REGIAO 10,expanded,2024-07-01
+430355,RS,Camargo,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430380,RS,Campinas do Sul,REGIAO 16,expanded,2024-07-01
+430390,RS,Campo Bom,REGIAO 07,expanded,2024-07-01
+430400,RS,Campo Novo,REGIAO 13,expanded,2024-07-01
+430420,RS,Candelária,REGIAO 28,expanded,2024-07-01
+430460,RS,Canoas,REGIAO 08,expanded,2024-07-01
+430468,RS,Capela de Santana,REGIAO 08,expanded,2024-07-01
+430470,RS,Carazinho,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430485,RS,Carlos Gomes,REGIAO 16,expanded,2024-07-01
+430490,RS,Casca,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430500,RS,Catuípe,REGIAO 13,expanded,2024-07-01
+430511,RS,Centenário,REGIAO 16,expanded,2024-07-01
+430513,RS,Cerro Branco,REGIAO 27,expanded,2024-07-01
+430537,RS,Charrua,REGIAO 16,expanded,2024-07-01
+430540,RS,Chiapetta,REGIAO 13,expanded,2024-07-01
+430550,RS,Ciríaco,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430570,RS,Condor,REGIAO 13,expanded,2024-07-01
+430585,RS,Coqueiros do Sul,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430587,RS,Coronel Barros,REGIAO 13,expanded,2024-07-01
+430597,RS,Coxilha,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430600,RS,Crissiumal,REGIAO 13,expanded,2024-07-01
+430613,RS,Cruzaltense,REGIAO 16,expanded,2024-07-01
+430630,RS,David Canabarro,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430640,RS,Dois Irmãos,REGIAO 07,expanded,2024-07-01
+430690,RS,Encruzilhada do Sul,REGIAO 27,expanded,2024-07-01
+430695,RS,Entre Rios do Sul,REGIAO 16,expanded,2024-07-01
+430697,RS,Erebango,REGIAO 16,expanded,2024-07-01
+430700,RS,Erechim,REGIAO 16,expanded,2024-07-01
+430705,RS,Ernestina,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430720,RS,Erval Grande,REGIAO 16,expanded,2024-07-01
+430755,RS,Estação,REGIAO 16,expanded,2024-07-01
+430760,RS,Estância Velha,REGIAO 07,expanded,2024-07-01
+430770,RS,Esteio,REGIAO 08,expanded,2024-07-01
+430781,RS,Estrela Velha,REGIAO 27,expanded,2024-07-01
+430805,RS,Faxinalzinho,REGIAO 16,expanded,2024-07-01
+430825,RS,Floriano Peixoto,REGIAO 16,expanded,2024-07-01
+430870,RS,Gaurama,REGIAO 16,expanded,2024-07-01
+430885,RS,Gentil,REGIAO 17 - PLANALTO,expanded,2024-07-01
+430890,RS,Getúlio Vargas,REGIAO 16,expanded,2024-07-01
+430905,RS,Glorinha,REGIAO 10,expanded,2024-07-01
+430915,RS,Gramado Xavier,REGIAO 28,expanded,2024-07-01
+430920,RS,Gravataí,REGIAO 10,expanded,2024-07-01
+430955,RS,Harmonia,REGIAO 08,expanded,2024-07-01
+430957,RS,Herveiras,REGIAO 28,expanded,2024-07-01
+430970,RS,Humaitá,REGIAO 13,expanded,2024-07-01
+430975,RS,Ibarama,REGIAO 27,expanded,2024-07-01
+431020,RS,Ijuí,REGIAO 13,expanded,2024-07-01
+431041,RS,Inhacorá,REGIAO 13,expanded,2024-07-01
+431046,RS,Ipiranga do Sul,REGIAO 16,expanded,2024-07-01
+431070,RS,Itatiba do Sul,REGIAO 16,expanded,2024-07-01
+431080,RS,Ivoti,REGIAO 07,expanded,2024-07-01
+431090,RS,Jacutinga,REGIAO 16,expanded,2024-07-01
+431115,RS,Jóia,REGIAO 13,expanded,2024-07-01
+431123,RS,Lagoa Bonita do Sul,REGIAO 27,expanded,2024-07-01
+431127,RS,Lagoa dos Três Cantos,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431162,RS,Lindolfo Collor,REGIAO 07,expanded,2024-07-01
+431179,RS,Maratá,REGIAO 08,expanded,2024-07-01
+431180,RS,Marau,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431190,RS,Marcelino Ramos,REGIAO 16,expanded,2024-07-01
+431200,RS,Mariano Moro,REGIAO 16,expanded,2024-07-01
+431213,RS,Mato Castelhano,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431215,RS,Mato Leitão,REGIAO 28,expanded,2024-07-01
+431235,RS,Montauri,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431240,RS,Montenegro,REGIAO 08,expanded,2024-07-01
+431247,RS,Morro Reuter,REGIAO 07,expanded,2024-07-01
+431262,RS,Muliterno,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431265,RS,Não-Me-Toque,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431267,RS,Nicolau Vergueiro,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431270,RS,Nonoai,REGIAO 16,expanded,2024-07-01
+431275,RS,Nova Alvorada,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431306,RS,Nova Hartz,REGIAO 07,expanded,2024-07-01
+431333,RS,Nova Ramada,REGIAO 13,expanded,2024-07-01
+431337,RS,Nova Santa Rita,REGIAO 08,expanded,2024-07-01
+431339,RS,Novo Cabrais,REGIAO 27,expanded,2024-07-01
+431340,RS,Novo Hamburgo,REGIAO 07,expanded,2024-07-01
+431390,RS,Panambi,REGIAO 13,expanded,2024-07-01
+431395,RS,Pantano Grande,REGIAO 28,expanded,2024-07-01
+431403,RS,Pareci Novo,REGIAO 08,expanded,2024-07-01
+431406,RS,Passa Sete,REGIAO 27,expanded,2024-07-01
+431407,RS,Passo do Sobrado,REGIAO 28,expanded,2024-07-01
+431410,RS,Passo Fundo,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431413,RS,Paulo Bento,REGIAO 16,expanded,2024-07-01
+431430,RS,Pejuçara,REGIAO 13,expanded,2024-07-01
+431477,RS,Pontão,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431478,RS,Ponte Preta,REGIAO 16,expanded,2024-07-01
+431480,RS,Portão,REGIAO 07,expanded,2024-07-01
+431490,RS,Porto Alegre,REGIAO 10,expanded,2024-07-01
+431514,RS,Presidente Lucena,REGIAO 07,expanded,2024-07-01
+431531,RS,Quatro Irmãos,REGIAO 16,expanded,2024-07-01
+431555,RS,Rio dos Índios,REGIAO 16,expanded,2024-07-01
+431570,RS,Rio Pardo,REGIAO 28,expanded,2024-07-01
+431650,RS,Salvador do Sul,REGIAO 08,expanded,2024-07-01
+431680,RS,Santa Cruz do Sul,REGIAO 28,expanded,2024-07-01
+431695,RS,Santa Maria do Herval,REGIAO 07,expanded,2024-07-01
+431755,RS,Santo Antônio do Palma,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431775,RS,Santo Antônio do Planalto,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431780,RS,Santo Augusto,REGIAO 13,expanded,2024-07-01
+431805,RS,São Domingos do Sul,REGIAO 17 - PLANALTO,expanded,2024-07-01
+431848,RS,São José do Hortêncio,REGIAO 07,expanded,2024-07-01
+431861,RS,São José do Sul,REGIAO 08,expanded,2024-07-01
+431870,RS,São Leopoldo,REGIAO 07,expanded,2024-07-01
+431910,RS,São Martinho,REGIAO 13,expanded,2024-07-01
+431935,RS,São Pedro da Serra,REGIAO 08,expanded,2024-07-01
+431950,RS,São Sebastião do Caí,REGIAO 08,expanded,2024-07-01
+431970,RS,São Valentim,REGIAO 16,expanded,2024-07-01
+431973,RS,São Valério do Sul,REGIAO 13,expanded,2024-07-01
+431990,RS,Sapiranga,REGIAO 07,expanded,2024-07-01
+432000,RS,Sapucaia do Sul,REGIAO 08,expanded,2024-07-01
+432023,RS,Sede Nova,REGIAO 13,expanded,2024-07-01
+432026,RS,Segredo,REGIAO 27,expanded,2024-07-01
+432040,RS,Serafina Corrêa,REGIAO 17 - PLANALTO,expanded,2024-07-01
+432050,RS,Sertão,REGIAO 17 - PLANALTO,expanded,2024-07-01
+432060,RS,Severiano de Almeida,REGIAO 16,expanded,2024-07-01
+432067,RS,Sinimbu,REGIAO 28,expanded,2024-07-01
+432070,RS,Sobradinho,REGIAO 27,expanded,2024-07-01
+432085,RS,Tabaí,REGIAO 08,expanded,2024-07-01
+432163,RS,Três Arroios,REGIAO 16,expanded,2024-07-01
+432200,RS,Triunfo,REGIAO 08,expanded,2024-07-01
+432225,RS,Tupandi,REGIAO 08,expanded,2024-07-01
+432253,RS,Vale do Sol,REGIAO 28,expanded,2024-07-01
+432252,RS,Vale Verde,REGIAO 28,expanded,2024-07-01
+432255,RS,Vanini,REGIAO 17 - PLANALTO,expanded,2024-07-01
+432260,RS,Venâncio Aires,REGIAO 28,expanded,2024-07-01
+432270,RS,Vera Cruz,REGIAO 28,expanded,2024-07-01
+432290,RS,Viadutos,REGIAO 16,expanded,2024-07-01
+432300,RS,Viamão,REGIAO 10,expanded,2024-07-01
+432320,RS,Victor Graeff,REGIAO 17 - PLANALTO,expanded,2024-07-01
+432340,RS,Vila Maria,REGIAO 17 - PLANALTO,expanded,2024-07-01
+420050,SC,Águas de Chapecó,OESTE,expanded,2024-07-01
+420055,SC,Águas Frias,OESTE,expanded,2024-07-01
+420060,SC,Águas Mornas,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420070,SC,Alfredo Wagner,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420075,SC,Alto Bela Vista,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420090,SC,Angelina,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420110,SC,Anitápolis,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420120,SC,Antônio Carlos,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420125,SC,Apiúna,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420127,SC,Arabutã,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420165,SC,Arvoredo,OESTE,expanded,2024-07-01
+420170,SC,Ascurra,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420200,SC,Balneário Camboriú,FOZ DO RIO ITAJAI,expanded,2024-07-01
+421280,SC,Balneário Piçarras,FOZ DO RIO ITAJAI,expanded,2024-07-01
+420220,SC,Benedito Novo,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420230,SC,Biguaçu,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420240,SC,Blumenau,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420245,SC,Bombinhas,FOZ DO RIO ITAJAI,expanded,2024-07-01
+420270,SC,Botuverá,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420290,SC,Brusque,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420310,SC,Caibi,OESTE,expanded,2024-07-01
+420320,SC,Camboriú,FOZ DO RIO ITAJAI,expanded,2024-07-01
+420370,SC,Canelinha,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420410,SC,Caxambu do Sul,OESTE,expanded,2024-07-01
+420420,SC,Chapecó,OESTE,expanded,2024-07-01
+420430,SC,Concórdia,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420435,SC,Cordilheira Alta,OESTE,expanded,2024-07-01
+420440,SC,Coronel Freitas,OESTE,expanded,2024-07-01
+420470,SC,Cunha Porã,OESTE,expanded,2024-07-01
+420475,SC,Cunhataí,OESTE,expanded,2024-07-01
+420515,SC,Doutor Pedrinho,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420540,SC,Florianópolis,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420543,SC,Formosa do Sul,OESTE,expanded,2024-07-01
+420570,SC,Garopaba,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420590,SC,Gaspar,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420600,SC,Governador Celso Ramos,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420630,SC,Guabiruba,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420665,SC,Guatambú,OESTE,expanded,2024-07-01
+420710,SC,Ilhota,FOZ DO RIO ITAJAI,expanded,2024-07-01
+420750,SC,Indaial,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+420760,SC,Ipira,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420770,SC,Ipumirim,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420780,SC,Irani,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420785,SC,Irati,OESTE,expanded,2024-07-01
+420800,SC,Itá,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+420820,SC,Itajaí,FOZ DO RIO ITAJAI,expanded,2024-07-01
+420830,SC,Itapema,FOZ DO RIO ITAJAI,expanded,2024-07-01
+420895,SC,Jardinópolis,OESTE,expanded,2024-07-01
+420980,SC,Leoberto Leal,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+420985,SC,Lindóia do Sul,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+421000,SC,Luiz Alves,FOZ DO RIO ITAJAI,expanded,2024-07-01
+421020,SC,Major Gercino,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421130,SC,Navegantes,FOZ DO RIO ITAJAI,expanded,2024-07-01
+421140,SC,Nova Erechim,OESTE,expanded,2024-07-01
+421145,SC,Nova Itaberaba,OESTE,expanded,2024-07-01
+421150,SC,Nova Trento,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421187,SC,Paial,OESTE,expanded,2024-07-01
+421190,SC,Palhoça,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421210,SC,Palmitos,OESTE,expanded,2024-07-01
+421230,SC,Paulo Lopes,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421250,SC,Penha,FOZ DO RIO ITAJAI,expanded,2024-07-01
+421260,SC,Peritiba,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+421290,SC,Pinhalzinho,OESTE,expanded,2024-07-01
+421310,SC,Piratuba,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+421315,SC,Planalto Alegre,OESTE,expanded,2024-07-01
+421320,SC,Pomerode,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+421350,SC,Porto Belo,FOZ DO RIO ITAJAI,expanded,2024-07-01
+421390,SC,Presidente Castello Branco,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+421420,SC,Quilombo,OESTE,expanded,2024-07-01
+421430,SC,Rancho Queimado,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421470,SC,Rio dos Cedros,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+421507,SC,Riqueza,OESTE,expanded,2024-07-01
+421510,SC,Rodeio,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+421569,SC,Santiago do Sul,OESTE,expanded,2024-07-01
+421570,SC,Santo Amaro da Imperatriz,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421590,SC,São Bonifácio,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421600,SC,São Carlos,OESTE,expanded,2024-07-01
+421630,SC,São João Batista,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421660,SC,São José,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421725,SC,São Pedro de Alcântara,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421750,SC,Seara,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+421755,SC,Serra Alta,OESTE,expanded,2024-07-01
+421775,SC,Sul Brasil,OESTE,expanded,2024-07-01
+421800,SC,Tijucas,GRANDE FLORIANOPOLIS,expanded,2024-07-01
+421820,SC,Timbó,MEDIO VALE DO ITAJAI,expanded,2024-07-01
+421885,SC,União do Oeste,OESTE,expanded,2024-07-01
+421960,SC,Xavantina,ALTO URUGUAI CATARINENSE,expanded,2024-07-01
+280030,SE,Aracaju,ARACAJU,expanded,2024-07-01
+280060,SE,Barra dos Coqueiros,ARACAJU,expanded,2024-07-01
+280200,SE,Divina Pastora,ARACAJU,expanded,2024-07-01
+280320,SE,Itaporanga d'Ajuda,ARACAJU,expanded,2024-07-01
+280360,SE,Laranjeiras,ARACAJU,expanded,2024-07-01
+280590,SE,Riachuelo,ARACAJU,expanded,2024-07-01
+280650,SE,Santa Rosa de Lima,ARACAJU,expanded,2024-07-01
+280670,SE,São Cristóvão,ARACAJU,expanded,2024-07-01
+350030,SP,Aguaí,MANTIQUEIRA,expanded,2024-07-01
+350040,SP,Águas da Prata,MANTIQUEIRA,expanded,2024-07-01
+350055,SP,Águas de Santa Bárbara,VALE DO JURUMIRIM,expanded,2024-07-01
+350060,SP,Águas de São Pedro,PIRACICABA,expanded,2024-07-01
+350070,SP,Agudos,BAURU,expanded,2024-07-01
+350075,SP,Alambari,ITAPETININGA,expanded,2024-07-01
+350080,SP,Alfredo Marcondes,ALTA SOROCABANA,expanded,2024-07-01
+350090,SP,Altair,NORTE - BARRETOS,expanded,2024-07-01
+350110,SP,Alto Alegre,CONSORCIOS DO DRS II,expanded,2024-07-01
+350115,SP,Alumínio,SOROCABA,expanded,2024-07-01
+350120,SP,Álvares Florence,VOTUPORANGA,expanded,2024-07-01
+350130,SP,Álvares Machado,ALTA SOROCABANA,expanded,2024-07-01
+350140,SP,Álvaro de Carvalho,MARILIA,expanded,2024-07-01
+350150,SP,Alvinlândia,MARILIA,expanded,2024-07-01
+350160,SP,Americana,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+350170,SP,Américo Brasiliense,CENTRAL DO DRS III,expanded,2024-07-01
+350180,SP,Américo de Campos,VOTUPORANGA,expanded,2024-07-01
+350200,SP,Analândia,RIO CLARO,expanded,2024-07-01
+350210,SP,Andradina,LAGOS DO DRS II,expanded,2024-07-01
+350220,SP,Angatuba,ITAPETININGA,expanded,2024-07-01
+350230,SP,Anhembi,POLO CUESTA,expanded,2024-07-01
+350240,SP,Anhumas,ALTA SOROCABANA,expanded,2024-07-01
+350250,SP,Aparecida,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+350270,SP,Apiaí,ITAPEVA,expanded,2024-07-01
+350275,SP,Araçariguama,SOROCABA,expanded,2024-07-01
+350280,SP,Araçatuba,CENTRAL DO DRS II,expanded,2024-07-01
+350290,SP,Araçoiaba da Serra,SOROCABA,expanded,2024-07-01
+350310,SP,Arandu,VALE DO JURUMIRIM,expanded,2024-07-01
+350315,SP,Arapeí,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+350320,SP,Araraquara,CENTRAL DO DRS III,expanded,2024-07-01
+350330,SP,Araras,ARARAS,expanded,2024-07-01
+350340,SP,Arealva,BAURU,expanded,2024-07-01
+350350,SP,Areias,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+350360,SP,Areiópolis,POLO CUESTA,expanded,2024-07-01
+350370,SP,Ariranha,CATANDUVA,expanded,2024-07-01
+350380,SP,Artur Nogueira,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+350400,SP,Assis,ASSIS,expanded,2024-07-01
+350410,SP,Atibaia,BRAGANCA,expanded,2024-07-01
+350420,SP,Auriflama,CENTRAL DO DRS II,expanded,2024-07-01
+350430,SP,Avaí,BAURU,expanded,2024-07-01
+350440,SP,Avanhandava,CONSORCIOS DO DRS II,expanded,2024-07-01
+350450,SP,Avaré,VALE DO JURUMIRIM,expanded,2024-07-01
+350460,SP,Bady Bassitt,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+350470,SP,Balbinos,BAURU,expanded,2024-07-01
+350480,SP,Bálsamo,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+350490,SP,Bananal,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+350500,SP,Barão de Antonina,VALE DO JURUMIRIM,expanded,2024-07-01
+350510,SP,Barbosa,CONSORCIOS DO DRS II,expanded,2024-07-01
+350520,SP,Bariri,JAU,expanded,2024-07-01
+350530,SP,Barra Bonita,JAU,expanded,2024-07-01
+350535,SP,Barra do Chapéu,ITAPEVA,expanded,2024-07-01
+350550,SP,Barretos,NORTE - BARRETOS,expanded,2024-07-01
+350560,SP,Barrinha,HORIZONTE VERDE,expanded,2024-07-01
+350570,SP,Barueri,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+350600,SP,Bauru,BAURU,expanded,2024-07-01
+350620,SP,Bento de Abreu,CENTRAL DO DRS II,expanded,2024-07-01
+350630,SP,Bernardino de Campos,OURINHOS,expanded,2024-07-01
+350635,SP,Bertioga,BAIXADA SANTISTA,expanded,2024-07-01
+350640,SP,Bilac,CENTRAL DO DRS II,expanded,2024-07-01
+350650,SP,Birigui,CONSORCIOS DO DRS II,expanded,2024-07-01
+350670,SP,Boa Esperança do Sul,CENTRAL DO DRS III,expanded,2024-07-01
+350680,SP,Bocaina,JAU,expanded,2024-07-01
+350690,SP,Bofete,POLO CUESTA,expanded,2024-07-01
+350700,SP,Boituva,SOROCABA,expanded,2024-07-01
+350710,SP,Bom Jesus dos Perdões,BRAGANCA,expanded,2024-07-01
+350715,SP,Bom Sucesso de Itararé,ITAPEVA,expanded,2024-07-01
+350720,SP,Borá,ASSIS,expanded,2024-07-01
+350730,SP,Boracéia,JAU,expanded,2024-07-01
+350740,SP,Borborema,NOROESTE DO DRS III,expanded,2024-07-01
+350745,SP,Borebi,BAURU,expanded,2024-07-01
+350750,SP,Botucatu,POLO CUESTA,expanded,2024-07-01
+350760,SP,Bragança Paulista,BRAGANCA,expanded,2024-07-01
+350770,SP,Braúna,CONSORCIOS DO DRS II,expanded,2024-07-01
+350775,SP,Brejo Alegre,CONSORCIOS DO DRS II,expanded,2024-07-01
+350790,SP,Brotas,JAU,expanded,2024-07-01
+350800,SP,Buri,ITAPEVA,expanded,2024-07-01
+350810,SP,Buritama,CONSORCIOS DO DRS II,expanded,2024-07-01
+350830,SP,Cabrália Paulista,BAURU,expanded,2024-07-01
+350840,SP,Cabreúva,JUNDIAI,expanded,2024-07-01
+350850,SP,Caçapava,ALTO VALE DO PARAIBA,expanded,2024-07-01
+350860,SP,Cachoeira Paulista,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+350880,SP,Cafelândia,LINS,expanded,2024-07-01
+350890,SP,Caiabu,ALTA SOROCABANA,expanded,2024-07-01
+350900,SP,Caieiras,FRANCO DA ROCHA,expanded,2024-07-01
+350920,SP,Cajamar,FRANCO DA ROCHA,expanded,2024-07-01
+350930,SP,Cajobi,NORTE - BARRETOS,expanded,2024-07-01
+350945,SP,Campina do Monte Alegre,ITAPETININGA,expanded,2024-07-01
+350950,SP,Campinas,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+350960,SP,Campo Limpo Paulista,JUNDIAI,expanded,2024-07-01
+350970,SP,Campos do Jordão,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+350980,SP,Campos Novos Paulista,MARILIA,expanded,2024-07-01
+350995,SP,Canas,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+351000,SP,Cândido Mota,ASSIS,expanded,2024-07-01
+351010,SP,Cândido Rodrigues,NOROESTE DO DRS III,expanded,2024-07-01
+351015,SP,Canitar,OURINHOS,expanded,2024-07-01
+351020,SP,Capão Bonito,ITAPETININGA,expanded,2024-07-01
+351030,SP,Capela do Alto,SOROCABA,expanded,2024-07-01
+351040,SP,Capivari,PIRACICABA,expanded,2024-07-01
+351050,SP,Caraguatatuba,LITORAL NORTE,expanded,2024-07-01
+351060,SP,Carapicuíba,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+351070,SP,Cardoso,VOTUPORANGA,expanded,2024-07-01
+351100,SP,Castilho,LAGOS DO DRS II,expanded,2024-07-01
+351110,SP,Catanduva,CATANDUVA,expanded,2024-07-01
+351120,SP,Catiguá,CATANDUVA,expanded,2024-07-01
+351130,SP,Cedral,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+351140,SP,Cerqueira César,VALE DO JURUMIRIM,expanded,2024-07-01
+351150,SP,Cerquilho,ITAPETININGA,expanded,2024-07-01
+351160,SP,Cesário Lange,ITAPETININGA,expanded,2024-07-01
+351170,SP,Charqueada,PIRACICABA,expanded,2024-07-01
+355720,SP,Chavantes,OURINHOS,expanded,2024-07-01
+351190,SP,Clementina,CONSORCIOS DO DRS II,expanded,2024-07-01
+351200,SP,Colina,NORTE - BARRETOS,expanded,2024-07-01
+351210,SP,Colômbia,NORTE - BARRETOS,expanded,2024-07-01
+351220,SP,Conchal,ARARAS,expanded,2024-07-01
+351230,SP,Conchas,POLO CUESTA,expanded,2024-07-01
+351240,SP,Cordeirópolis,LIMEIRA,expanded,2024-07-01
+351250,SP,Coroados,CONSORCIOS DO DRS II,expanded,2024-07-01
+351260,SP,Coronel Macedo,VALE DO JURUMIRIM,expanded,2024-07-01
+351270,SP,Corumbataí,RIO CLARO,expanded,2024-07-01
+351280,SP,Cosmópolis,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+351290,SP,Cosmorama,VOTUPORANGA,expanded,2024-07-01
+351300,SP,Cotia,MANANCIAIS,expanded,2024-07-01
+351310,SP,Cravinhos,AQUIFERO GUARANI,expanded,2024-07-01
+351320,SP,Cristais Paulista,TRES COLINAS,expanded,2024-07-01
+351330,SP,Cruzália,ASSIS,expanded,2024-07-01
+351340,SP,Cruzeiro,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+351350,SP,Cubatão,BAIXADA SANTISTA,expanded,2024-07-01
+351360,SP,Cunha,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+351370,SP,Descalvado,CORACAO DO DRS III,expanded,2024-07-01
+351380,SP,Diadema,GRANDE ABC,expanded,2024-07-01
+351400,SP,Dobrada,NOROESTE DO DRS III,expanded,2024-07-01
+351410,SP,Dois Córregos,JAU,expanded,2024-07-01
+351430,SP,Dourado,CORACAO DO DRS III,expanded,2024-07-01
+351450,SP,Duartina,BAURU,expanded,2024-07-01
+351460,SP,Dumont,HORIZONTE VERDE,expanded,2024-07-01
+351470,SP,Echaporã,MARILIA,expanded,2024-07-01
+351490,SP,Elias Fausto,PIRACICABA,expanded,2024-07-01
+351492,SP,Elisiário,CATANDUVA,expanded,2024-07-01
+351495,SP,Embaúba,CATANDUVA,expanded,2024-07-01
+351500,SP,Embu das Artes,MANANCIAIS,expanded,2024-07-01
+351510,SP,Embu-Guaçu,MANANCIAIS,expanded,2024-07-01
+351512,SP,Emilianópolis,ALTA SOROCABANA,expanded,2024-07-01
+351515,SP,Engenheiro Coelho,LIMEIRA,expanded,2024-07-01
+351518,SP,Espírito Santo do Pinhal,MANTIQUEIRA,expanded,2024-07-01
+351519,SP,Espírito Santo do Turvo,OURINHOS,expanded,2024-07-01
+355730,SP,Estiva Gerbi,BAIXA MOGIANA,expanded,2024-07-01
+351520,SP,Estrela d'Oeste,FERNANDOPOLIS,expanded,2024-07-01
+351530,SP,Estrela do Norte,ALTA SOROCABANA,expanded,2024-07-01
+351540,SP,Fartura,VALE DO JURUMIRIM,expanded,2024-07-01
+351550,SP,Fernandópolis,FERNANDOPOLIS,expanded,2024-07-01
+351560,SP,Fernando Prestes,CATANDUVA,expanded,2024-07-01
+351565,SP,Fernão,MARILIA,expanded,2024-07-01
+351590,SP,Floreal,VOTUPORANGA,expanded,2024-07-01
+351610,SP,Florínea,ASSIS,expanded,2024-07-01
+351620,SP,Franca,TRES COLINAS,expanded,2024-07-01
+351630,SP,Francisco Morato,FRANCO DA ROCHA,expanded,2024-07-01
+351640,SP,Franco da Rocha,FRANCO DA ROCHA,expanded,2024-07-01
+351650,SP,Gabriel Monteiro,CONSORCIOS DO DRS II,expanded,2024-07-01
+351660,SP,Gália,MARILIA,expanded,2024-07-01
+351670,SP,Garça,MARILIA,expanded,2024-07-01
+351680,SP,Gastão Vidigal,VOTUPORANGA,expanded,2024-07-01
+351685,SP,Gavião Peixoto,CENTRAL DO DRS III,expanded,2024-07-01
+351690,SP,General Salgado,VOTUPORANGA,expanded,2024-07-01
+351700,SP,Getulina,LINS,expanded,2024-07-01
+351710,SP,Glicério,CONSORCIOS DO DRS II,expanded,2024-07-01
+351720,SP,Guaiçara,LINS,expanded,2024-07-01
+351730,SP,Guaimbê,MARILIA,expanded,2024-07-01
+351740,SP,Guaíra,NORTE - BARRETOS,expanded,2024-07-01
+351750,SP,Guapiaçu,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+351760,SP,Guapiara,ITAPEVA,expanded,2024-07-01
+351780,SP,Guaraçaí,LAGOS DO DRS II,expanded,2024-07-01
+351790,SP,Guaraci,NORTE - BARRETOS,expanded,2024-07-01
+351800,SP,Guarani d'Oeste,FERNANDOPOLIS,expanded,2024-07-01
+351810,SP,Guarantã,MARILIA,expanded,2024-07-01
+351820,SP,Guararapes,CENTRAL DO DRS II,expanded,2024-07-01
+351840,SP,Guaratinguetá,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+351850,SP,Guareí,ITAPETININGA,expanded,2024-07-01
+351860,SP,Guariba,HORIZONTE VERDE,expanded,2024-07-01
+351870,SP,Guarujá,BAIXADA SANTISTA,expanded,2024-07-01
+351885,SP,Guatapará,AQUIFERO GUARANI,expanded,2024-07-01
+351890,SP,Guzolândia,CENTRAL DO DRS II,expanded,2024-07-01
+351905,SP,Holambra,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+351907,SP,Hortolândia,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+351910,SP,Iacanga,BAURU,expanded,2024-07-01
+351925,SP,Iaras,VALE DO JURUMIRIM,expanded,2024-07-01
+351930,SP,Ibaté,CORACAO DO DRS III,expanded,2024-07-01
+351940,SP,Ibirá,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+351950,SP,Ibirarema,OURINHOS,expanded,2024-07-01
+351960,SP,Ibitinga,NOROESTE DO DRS III,expanded,2024-07-01
+351970,SP,Ibiúna,SOROCABA,expanded,2024-07-01
+351980,SP,Icém,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+351990,SP,Iepê,ALTO CAPIVARI,expanded,2024-07-01
+352000,SP,Igaraçu do Tietê,JAU,expanded,2024-07-01
+352020,SP,Igaratá,ALTO VALE DO PARAIBA,expanded,2024-07-01
+352040,SP,Ilhabela,LITORAL NORTE,expanded,2024-07-01
+352044,SP,Ilha Solteira,LAGOS DO DRS II,expanded,2024-07-01
+352050,SP,Indaiatuba,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+352060,SP,Indiana,ALTA SOROCABANA,expanded,2024-07-01
+352070,SP,Indiaporã,FERNANDOPOLIS,expanded,2024-07-01
+352090,SP,Ipaussu,OURINHOS,expanded,2024-07-01
+352100,SP,Iperó,SOROCABA,expanded,2024-07-01
+352110,SP,Ipeúna,RIO CLARO,expanded,2024-07-01
+352115,SP,Ipiguá,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+352140,SP,Iracemápolis,LIMEIRA,expanded,2024-07-01
+352150,SP,Irapuã,CATANDUVA,expanded,2024-07-01
+352170,SP,Itaberá,ITAPEVA,expanded,2024-07-01
+352180,SP,Itaí,VALE DO JURUMIRIM,expanded,2024-07-01
+352190,SP,Itajobi,CATANDUVA,expanded,2024-07-01
+352200,SP,Itaju,JAU,expanded,2024-07-01
+352210,SP,Itanhaém,BAIXADA SANTISTA,expanded,2024-07-01
+352215,SP,Itaoca,ITAPEVA,expanded,2024-07-01
+352220,SP,Itapecerica da Serra,MANANCIAIS,expanded,2024-07-01
+352230,SP,Itapetininga,ITAPETININGA,expanded,2024-07-01
+352240,SP,Itapeva,ITAPEVA,expanded,2024-07-01
+352250,SP,Itapevi,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+352260,SP,Itapira,BAIXA MOGIANA,expanded,2024-07-01
+352265,SP,Itapirapuã Paulista,ITAPEVA,expanded,2024-07-01
+352270,SP,Itápolis,NOROESTE DO DRS III,expanded,2024-07-01
+352280,SP,Itaporanga,VALE DO JURUMIRIM,expanded,2024-07-01
+352290,SP,Itapuí,JAU,expanded,2024-07-01
+352300,SP,Itapura,LAGOS DO DRS II,expanded,2024-07-01
+352320,SP,Itararé,ITAPEVA,expanded,2024-07-01
+352340,SP,Itatiba,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+352350,SP,Itatinga,POLO CUESTA,expanded,2024-07-01
+352360,SP,Itirapina,RIO CLARO,expanded,2024-07-01
+352370,SP,Itirapuã,TRES COLINAS,expanded,2024-07-01
+352390,SP,Itu,SOROCABA,expanded,2024-07-01
+352400,SP,Itupeva,JUNDIAI,expanded,2024-07-01
+352420,SP,Jaborandi,NORTE - BARRETOS,expanded,2024-07-01
+352430,SP,Jaboticabal,HORIZONTE VERDE,expanded,2024-07-01
+352440,SP,Jacareí,ALTO VALE DO PARAIBA,expanded,2024-07-01
+352470,SP,Jaguariúna,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+352490,SP,Jambeiro,ALTO VALE DO PARAIBA,expanded,2024-07-01
+352500,SP,Jandira,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+352510,SP,Jardinópolis,AQUIFERO GUARANI,expanded,2024-07-01
+352520,SP,Jarinu,JUNDIAI,expanded,2024-07-01
+352530,SP,Jaú,JAU,expanded,2024-07-01
+352540,SP,Jeriquara,TRES COLINAS,expanded,2024-07-01
+352550,SP,Joanópolis,BRAGANCA,expanded,2024-07-01
+352560,SP,João Ramalho,ALTO CAPIVARI,expanded,2024-07-01
+352580,SP,Júlio Mesquita,MARILIA,expanded,2024-07-01
+352585,SP,Jumirim,SOROCABA,expanded,2024-07-01
+352590,SP,Jundiaí,JUNDIAI,expanded,2024-07-01
+352620,SP,Juquitiba,MANANCIAIS,expanded,2024-07-01
+352630,SP,Lagoinha,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+352640,SP,Laranjal Paulista,POLO CUESTA,expanded,2024-07-01
+352650,SP,Lavínia,LAGOS DO DRS II,expanded,2024-07-01
+352660,SP,Lavrinhas,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+352670,SP,Leme,ARARAS,expanded,2024-07-01
+352680,SP,Lençóis Paulista,BAURU,expanded,2024-07-01
+352690,SP,Limeira,LIMEIRA,expanded,2024-07-01
+352710,SP,Lins,LINS,expanded,2024-07-01
+352720,SP,Lorena,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+352725,SP,Lourdes,CONSORCIOS DO DRS II,expanded,2024-07-01
+352730,SP,Louveira,JUNDIAI,expanded,2024-07-01
+352750,SP,Lucianópolis,BAURU,expanded,2024-07-01
+352760,SP,Luís Antônio,AQUIFERO GUARANI,expanded,2024-07-01
+352770,SP,Luiziânia,CONSORCIOS DO DRS II,expanded,2024-07-01
+352780,SP,Lupércio,MARILIA,expanded,2024-07-01
+352790,SP,Lutécia,ASSIS,expanded,2024-07-01
+352800,SP,Macatuba,BAURU,expanded,2024-07-01
+352810,SP,Macaubal,VOTUPORANGA,expanded,2024-07-01
+352820,SP,Macedônia,FERNANDOPOLIS,expanded,2024-07-01
+352830,SP,Magda,VOTUPORANGA,expanded,2024-07-01
+352840,SP,Mairinque,SOROCABA,expanded,2024-07-01
+352850,SP,Mairiporã,FRANCO DA ROCHA,expanded,2024-07-01
+352860,SP,Manduri,VALE DO JURUMIRIM,expanded,2024-07-01
+352880,SP,Maracaí,ASSIS,expanded,2024-07-01
+352885,SP,Marapoama,CATANDUVA,expanded,2024-07-01
+352900,SP,Marília,MARILIA,expanded,2024-07-01
+352920,SP,Martinópolis,ALTA SOROCABANA,expanded,2024-07-01
+352930,SP,Matão,NOROESTE DO DRS III,expanded,2024-07-01
+352940,SP,Mauá,GRANDE ABC,expanded,2024-07-01
+352960,SP,Meridiano,FERNANDOPOLIS,expanded,2024-07-01
+352980,SP,Mineiros do Tietê,JAU,expanded,2024-07-01
+353000,SP,Mira Estrela,FERNANDOPOLIS,expanded,2024-07-01
+353010,SP,Mirandópolis,LAGOS DO DRS II,expanded,2024-07-01
+353030,SP,Mirassol,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353040,SP,Mirassolândia,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353070,SP,Mogi Guaçu,BAIXA MOGIANA,expanded,2024-07-01
+353080,SP,Mogi Mirim,BAIXA MOGIANA,expanded,2024-07-01
+353090,SP,Mombuca,PIRACICABA,expanded,2024-07-01
+353100,SP,Monções,VOTUPORANGA,expanded,2024-07-01
+353110,SP,Mongaguá,BAIXADA SANTISTA,expanded,2024-07-01
+353130,SP,Monte Alto,HORIZONTE VERDE,expanded,2024-07-01
+353170,SP,Monteiro Lobato,ALTO VALE DO PARAIBA,expanded,2024-07-01
+353180,SP,Monte Mor,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+353200,SP,Morungaba,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+353205,SP,Motuca,CENTRAL DO DRS III,expanded,2024-07-01
+353210,SP,Murutinga do Sul,LAGOS DO DRS II,expanded,2024-07-01
+353215,SP,Nantes,ALTO CAPIVARI,expanded,2024-07-01
+353220,SP,Narandiba,ALTA SOROCABANA,expanded,2024-07-01
+353230,SP,Natividade da Serra,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+353240,SP,Nazaré Paulista,BRAGANCA,expanded,2024-07-01
+353250,SP,Neves Paulista,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353260,SP,Nhandeara,VOTUPORANGA,expanded,2024-07-01
+353280,SP,Nova Aliança,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353282,SP,Nova Campina,ITAPEVA,expanded,2024-07-01
+353286,SP,Nova Castilho,CENTRAL DO DRS II,expanded,2024-07-01
+353290,SP,Nova Europa,NOROESTE DO DRS III,expanded,2024-07-01
+353300,SP,Nova Granada,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353320,SP,Nova Independência,LAGOS DO DRS II,expanded,2024-07-01
+353325,SP,Novais,CATANDUVA,expanded,2024-07-01
+353330,SP,Nova Luzitânia,CENTRAL DO DRS II,expanded,2024-07-01
+353340,SP,Nova Odessa,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+353350,SP,Novo Horizonte,CATANDUVA,expanded,2024-07-01
+353370,SP,Ocauçu,MARILIA,expanded,2024-07-01
+353380,SP,Óleo,OURINHOS,expanded,2024-07-01
+353390,SP,Olímpia,NORTE - BARRETOS,expanded,2024-07-01
+353400,SP,Onda Verde,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353410,SP,Oriente,MARILIA,expanded,2024-07-01
+353420,SP,Orindiúva,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353440,SP,Osasco,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+353450,SP,Oscar Bressane,MARILIA,expanded,2024-07-01
+353470,SP,Ourinhos,OURINHOS,expanded,2024-07-01
+353475,SP,Ouroeste,FERNANDOPOLIS,expanded,2024-07-01
+353500,SP,Palestina,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353510,SP,Palmares Paulista,CATANDUVA,expanded,2024-07-01
+353530,SP,Palmital,ASSIS,expanded,2024-07-01
+353550,SP,Paraguaçu Paulista,ASSIS,expanded,2024-07-01
+353560,SP,Paraibuna,ALTO VALE DO PARAIBA,expanded,2024-07-01
+353570,SP,Paraíso,CATANDUVA,expanded,2024-07-01
+353580,SP,Paranapanema,VALE DO JURUMIRIM,expanded,2024-07-01
+353610,SP,Pardinho,POLO CUESTA,expanded,2024-07-01
+353625,SP,Parisi,VOTUPORANGA,expanded,2024-07-01
+353630,SP,Patrocínio Paulista,TRES COLINAS,expanded,2024-07-01
+353650,SP,Paulínia,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+353657,SP,Paulistânia,BAURU,expanded,2024-07-01
+353660,SP,Paulo de Faria,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+353670,SP,Pederneiras,BAURU,expanded,2024-07-01
+353680,SP,Pedra Bela,BRAGANCA,expanded,2024-07-01
+353690,SP,Pedranópolis,FERNANDOPOLIS,expanded,2024-07-01
+353700,SP,Pedregulho,TRES COLINAS,expanded,2024-07-01
+353710,SP,Pedreira,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+353715,SP,Pedrinhas Paulista,ASSIS,expanded,2024-07-01
+353730,SP,Penápolis,CONSORCIOS DO DRS II,expanded,2024-07-01
+353740,SP,Pereira Barreto,LAGOS DO DRS II,expanded,2024-07-01
+353750,SP,Pereiras,POLO CUESTA,expanded,2024-07-01
+353760,SP,Peruíbe,BAIXADA SANTISTA,expanded,2024-07-01
+353770,SP,Piacatu,CONSORCIOS DO DRS II,expanded,2024-07-01
+353780,SP,Piedade,SOROCABA,expanded,2024-07-01
+353790,SP,Pilar do Sul,SOROCABA,expanded,2024-07-01
+353800,SP,Pindamonhangaba,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+353810,SP,Pindorama,CATANDUVA,expanded,2024-07-01
+353820,SP,Pinhalzinho,BRAGANCA,expanded,2024-07-01
+353850,SP,Piquete,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+353860,SP,Piracaia,BRAGANCA,expanded,2024-07-01
+353870,SP,Piracicaba,PIRACICABA,expanded,2024-07-01
+353880,SP,Piraju,VALE DO JURUMIRIM,expanded,2024-07-01
+353890,SP,Pirajuí,BAURU,expanded,2024-07-01
+353900,SP,Pirangi,CATANDUVA,expanded,2024-07-01
+353910,SP,Pirapora do Bom Jesus,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+353920,SP,Pirapozinho,ALTA SOROCABANA,expanded,2024-07-01
+353930,SP,Pirassununga,ARARAS,expanded,2024-07-01
+353940,SP,Piratininga,BAURU,expanded,2024-07-01
+353950,SP,Pitangueiras,HORIZONTE VERDE,expanded,2024-07-01
+353970,SP,Platina,ASSIS,expanded,2024-07-01
+354000,SP,Pompéia,MARILIA,expanded,2024-07-01
+354010,SP,Pongaí,LINS,expanded,2024-07-01
+354020,SP,Pontal,HORIZONTE VERDE,expanded,2024-07-01
+354030,SP,Pontes Gestal,VOTUPORANGA,expanded,2024-07-01
+354040,SP,Populina,FERNANDOPOLIS,expanded,2024-07-01
+354050,SP,Porangaba,POLO CUESTA,expanded,2024-07-01
+354060,SP,Porto Feliz,SOROCABA,expanded,2024-07-01
+354070,SP,Porto Ferreira,CORACAO DO DRS III,expanded,2024-07-01
+354075,SP,Potim,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+354080,SP,Potirendaba,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+354090,SP,Pradópolis,HORIZONTE VERDE,expanded,2024-07-01
+354100,SP,Praia Grande,BAIXADA SANTISTA,expanded,2024-07-01
+354105,SP,Pratânia,POLO CUESTA,expanded,2024-07-01
+354110,SP,Presidente Alves,BAURU,expanded,2024-07-01
+354120,SP,Presidente Bernardes,ALTA SOROCABANA,expanded,2024-07-01
+354140,SP,Presidente Prudente,ALTA SOROCABANA,expanded,2024-07-01
+354160,SP,Promissão,LINS,expanded,2024-07-01
+354165,SP,Quadra,ITAPETININGA,expanded,2024-07-01
+354170,SP,Quatá,ALTO CAPIVARI,expanded,2024-07-01
+354190,SP,Queluz,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+354200,SP,Quintana,MARILIA,expanded,2024-07-01
+354210,SP,Rafard,PIRACICABA,expanded,2024-07-01
+354220,SP,Rancharia,ALTO CAPIVARI,expanded,2024-07-01
+354230,SP,Redenção da Serra,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+354240,SP,Regente Feijó,ALTA SOROCABANA,expanded,2024-07-01
+354250,SP,Reginópolis,BAURU,expanded,2024-07-01
+354270,SP,Restinga,TRES COLINAS,expanded,2024-07-01
+354280,SP,Ribeira,ITAPEVA,expanded,2024-07-01
+354290,SP,Ribeirão Bonito,CORACAO DO DRS III,expanded,2024-07-01
+354300,SP,Ribeirão Branco,ITAPEVA,expanded,2024-07-01
+354310,SP,Ribeirão Corrente,TRES COLINAS,expanded,2024-07-01
+354323,SP,Ribeirão dos Índios,ALTA SOROCABANA,expanded,2024-07-01
+354320,SP,Ribeirão do Sul,OURINHOS,expanded,2024-07-01
+354325,SP,Ribeirão Grande,ITAPETININGA,expanded,2024-07-01
+354330,SP,Ribeirão Pires,GRANDE ABC,expanded,2024-07-01
+354340,SP,Ribeirão Preto,AQUIFERO GUARANI,expanded,2024-07-01
+354360,SP,Rifaina,TRES COLINAS,expanded,2024-07-01
+354370,SP,Rincão,CENTRAL DO DRS III,expanded,2024-07-01
+354390,SP,Rio Claro,RIO CLARO,expanded,2024-07-01
+354400,SP,Rio das Pedras,PIRACICABA,expanded,2024-07-01
+354410,SP,Rio Grande da Serra,GRANDE ABC,expanded,2024-07-01
+354420,SP,Riolândia,VOTUPORANGA,expanded,2024-07-01
+354350,SP,Riversul,ITAPEVA,expanded,2024-07-01
+354430,SP,Roseira,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+354440,SP,Rubiácea,CENTRAL DO DRS II,expanded,2024-07-01
+354460,SP,Sabino,LINS,expanded,2024-07-01
+354480,SP,Sales,CATANDUVA,expanded,2024-07-01
+354515,SP,Saltinho,PIRACICABA,expanded,2024-07-01
+354520,SP,Salto,SOROCABA,expanded,2024-07-01
+354530,SP,Salto de Pirapora,SOROCABA,expanded,2024-07-01
+354540,SP,Salto Grande,OURINHOS,expanded,2024-07-01
+354550,SP,Sandovalina,ALTA SOROCABANA,expanded,2024-07-01
+354560,SP,Santa Adélia,CATANDUVA,expanded,2024-07-01
+354580,SP,Santa Bárbara d'Oeste,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+354600,SP,Santa Branca,ALTO VALE DO PARAIBA,expanded,2024-07-01
+354620,SP,Santa Cruz da Conceição,ARARAS,expanded,2024-07-01
+354630,SP,Santa Cruz das Palmeiras,MANTIQUEIRA,expanded,2024-07-01
+354640,SP,Santa Cruz do Rio Pardo,OURINHOS,expanded,2024-07-01
+354650,SP,Santa Ernestina,NOROESTE DO DRS III,expanded,2024-07-01
+354670,SP,Santa Gertrudes,RIO CLARO,expanded,2024-07-01
+354690,SP,Santa Lúcia,CENTRAL DO DRS III,expanded,2024-07-01
+354700,SP,Santa Maria da Serra,PIRACICABA,expanded,2024-07-01
+354730,SP,Santana de Parnaíba,ROTA DOS BANDEIRANTES,expanded,2024-07-01
+354750,SP,Santa Rita do Passa Quatro,AQUIFERO GUARANI,expanded,2024-07-01
+354760,SP,Santa Rosa de Viterbo,AQUIFERO GUARANI,expanded,2024-07-01
+354770,SP,Santo Anastácio,ALTA SOROCABANA,expanded,2024-07-01
+354780,SP,Santo André,GRANDE ABC,expanded,2024-07-01
+354800,SP,Santo Antônio de Posse,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+354805,SP,Santo Antônio do Aracanguá,CENTRAL DO DRS II,expanded,2024-07-01
+354810,SP,Santo Antônio do Jardim,MANTIQUEIRA,expanded,2024-07-01
+354820,SP,Santo Antônio do Pinhal,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+354830,SP,Santo Expedito,ALTA SOROCABANA,expanded,2024-07-01
+354840,SP,Santópolis do Aguapeí,CONSORCIOS DO DRS II,expanded,2024-07-01
+354850,SP,Santos,BAIXADA SANTISTA,expanded,2024-07-01
+354860,SP,São Bento do Sapucaí,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+354870,SP,São Bernardo do Campo,GRANDE ABC,expanded,2024-07-01
+354880,SP,São Caetano do Sul,GRANDE ABC,expanded,2024-07-01
+354890,SP,São Carlos,CORACAO DO DRS III,expanded,2024-07-01
+354910,SP,São João da Boa Vista,MANTIQUEIRA,expanded,2024-07-01
+354920,SP,São João das Duas Pontes,FERNANDOPOLIS,expanded,2024-07-01
+354925,SP,São João de Iracema,FERNANDOPOLIS,expanded,2024-07-01
+354950,SP,São José da Bela Vista,TRES COLINAS,expanded,2024-07-01
+354960,SP,São José do Barreiro,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+354980,SP,São José do Rio Preto,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+354990,SP,São José dos Campos,ALTO VALE DO PARAIBA,expanded,2024-07-01
+354995,SP,São Lourenço da Serra,MANANCIAIS,expanded,2024-07-01
+355000,SP,São Luiz do Paraitinga,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+355010,SP,São Manuel,POLO CUESTA,expanded,2024-07-01
+355020,SP,São Miguel Arcanjo,ITAPETININGA,expanded,2024-07-01
+355030,SP,São Paulo,SAO PAULO,expanded,2024-07-01
+355040,SP,São Pedro,PIRACICABA,expanded,2024-07-01
+355050,SP,São Pedro do Turvo,OURINHOS,expanded,2024-07-01
+355060,SP,São Roque,SOROCABA,expanded,2024-07-01
+355070,SP,São Sebastião,LITORAL NORTE,expanded,2024-07-01
+355090,SP,São Simão,AQUIFERO GUARANI,expanded,2024-07-01
+355100,SP,São Vicente,BAIXADA SANTISTA,expanded,2024-07-01
+355110,SP,Sarapuí,ITAPETININGA,expanded,2024-07-01
+355120,SP,Sarutaiá,VALE DO JURUMIRIM,expanded,2024-07-01
+355130,SP,Sebastianópolis do Sul,VOTUPORANGA,expanded,2024-07-01
+355140,SP,Serra Azul,AQUIFERO GUARANI,expanded,2024-07-01
+355150,SP,Serrana,AQUIFERO GUARANI,expanded,2024-07-01
+355170,SP,Sertãozinho,HORIZONTE VERDE,expanded,2024-07-01
+355190,SP,Severínia,NORTE - BARRETOS,expanded,2024-07-01
+355200,SP,Silveiras,CIRCUITO DA FE E VALE HISTORICO,expanded,2024-07-01
+355210,SP,Socorro,BRAGANCA,expanded,2024-07-01
+355220,SP,Sorocaba,SOROCABA,expanded,2024-07-01
+355230,SP,Sud Mennucci,LAGOS DO DRS II,expanded,2024-07-01
+355240,SP,Sumaré,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+355255,SP,Suzanápolis,LAGOS DO DRS II,expanded,2024-07-01
+355260,SP,Tabapuã,CATANDUVA,expanded,2024-07-01
+355270,SP,Tabatinga,NOROESTE DO DRS III,expanded,2024-07-01
+355280,SP,Taboão da Serra,MANANCIAIS,expanded,2024-07-01
+355290,SP,Taciba,ALTA SOROCABANA,expanded,2024-07-01
+355300,SP,Taguaí,VALE DO JURUMIRIM,expanded,2024-07-01
+355330,SP,Tambaú,MANTIQUEIRA,expanded,2024-07-01
+355340,SP,Tanabi,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+355350,SP,Tapiraí,SOROCABA,expanded,2024-07-01
+355370,SP,Taquaritinga,NOROESTE DO DRS III,expanded,2024-07-01
+355380,SP,Taquarituba,VALE DO JURUMIRIM,expanded,2024-07-01
+355385,SP,Taquarivaí,ITAPEVA,expanded,2024-07-01
+355390,SP,Tarabai,ALTA SOROCABANA,expanded,2024-07-01
+355395,SP,Tarumã,ASSIS,expanded,2024-07-01
+355400,SP,Tatuí,ITAPETININGA,expanded,2024-07-01
+355410,SP,Taubaté,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+355420,SP,Tejupá,VALE DO JURUMIRIM,expanded,2024-07-01
+355450,SP,Tietê,SOROCABA,expanded,2024-07-01
+355460,SP,Timburi,OURINHOS,expanded,2024-07-01
+355465,SP,Torre de Pedra,POLO CUESTA,expanded,2024-07-01
+355470,SP,Torrinha,JAU,expanded,2024-07-01
+355475,SP,Trabiju,CENTRAL DO DRS III,expanded,2024-07-01
+355480,SP,Tremembé,VALE DO PARAIBA/REGIAO SERRANA,expanded,2024-07-01
+355495,SP,Tuiuti,BRAGANCA,expanded,2024-07-01
+355520,SP,Turiúba,CONSORCIOS DO DRS II,expanded,2024-07-01
+355530,SP,Turmalina,FERNANDOPOLIS,expanded,2024-07-01
+355540,SP,Ubatuba,LITORAL NORTE,expanded,2024-07-01
+355550,SP,Ubirajara,MARILIA,expanded,2024-07-01
+355560,SP,Uchoa,SAO JOSE DO RIO PRETO,expanded,2024-07-01
+355590,SP,Uru,LINS,expanded,2024-07-01
+355600,SP,Urupês,CATANDUVA,expanded,2024-07-01
+355610,SP,Valentim Gentil,VOTUPORANGA,expanded,2024-07-01
+355620,SP,Valinhos,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+355630,SP,Valparaíso,CENTRAL DO DRS II,expanded,2024-07-01
+355635,SP,Vargem,BRAGANCA,expanded,2024-07-01
+355640,SP,Vargem Grande do Sul,MANTIQUEIRA,expanded,2024-07-01
+355645,SP,Vargem Grande Paulista,MANANCIAIS,expanded,2024-07-01
+355650,SP,Várzea Paulista,JUNDIAI,expanded,2024-07-01
+355660,SP,Vera Cruz,MARILIA,expanded,2024-07-01
+355670,SP,Vinhedo,REGIAO METROPOLITANA DE CAMPINAS,expanded,2024-07-01
+355700,SP,Votorantim,SOROCABA,expanded,2024-07-01
+355710,SP,Votuporanga,VOTUPORANGA,expanded,2024-07-01
+170035,TO,Aliança do Tocantins,ILHA DO BANANAL,expanded,2024-07-01
+170070,TO,Alvorada,ILHA DO BANANAL,expanded,2024-07-01
+170130,TO,Aragominas,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170200,TO,Araguaçu,ILHA DO BANANAL,expanded,2024-07-01
+170210,TO,Araguaína,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170215,TO,Araguanã,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170300,TO,Babaçulândia,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170307,TO,Barra do Ouro,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170384,TO,Campos Lindos,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170386,TO,Cariri do Tocantins,ILHA DO BANANAL,expanded,2024-07-01
+170388,TO,Carmolândia,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170625,TO,Crixás do Tocantins,ILHA DO BANANAL,expanded,2024-07-01
+170650,TO,Darcinópolis,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170730,TO,Dueré,ILHA DO BANANAL,expanded,2024-07-01
+170765,TO,Figueirópolis,ILHA DO BANANAL,expanded,2024-07-01
+170770,TO,Filadélfia,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170820,TO,Formoso do Araguaia,ILHA DO BANANAL,expanded,2024-07-01
+170900,TO,Goiatins,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+170950,TO,Gurupi,ILHA DO BANANAL,expanded,2024-07-01
+171150,TO,Jaú do Tocantins,ILHA DO BANANAL,expanded,2024-07-01
+171395,TO,Muricilândia,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+171488,TO,Nova Olinda,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+171575,TO,Palmeirópolis,ILHA DO BANANAL,expanded,2024-07-01
+171630,TO,Pau D'Arco,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+171660,TO,Peixe,ILHA DO BANANAL,expanded,2024-07-01
+171720,TO,Piraquê,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+171884,TO,Sandolândia,ILHA DO BANANAL,expanded,2024-07-01
+171886,TO,Santa Fé do Araguaia,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+171889,TO,Santa Rita do Tocantins,ILHA DO BANANAL,expanded,2024-07-01
+172025,TO,São Salvador do Tocantins,ILHA DO BANANAL,expanded,2024-07-01
+172049,TO,São Valério,ILHA DO BANANAL,expanded,2024-07-01
+172085,TO,Sucupira,ILHA DO BANANAL,expanded,2024-07-01
+172097,TO,Talismã,ILHA DO BANANAL,expanded,2024-07-01
+172208,TO,Wanderlândia,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
+172210,TO,Xambioá,MEDIO NORTE ARAGUAIA,expanded,2024-07-01
