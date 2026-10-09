@@ -1,7 +1,0 @@
-# Optional variables (uncomment what you need)
-# CACHE_SOURCE=C:/path/to/cache_datasus   # where script 10 copies the DATASUS cache from ("none" = do not copy, download everything)
-# SKIP_INSTALL=1          # do not check/install packages
-# DATASUS_UPDATE=1        # allow re-downloading recent DATASUS files (breaks exact reproduction)
-# N_PERM=400              # spatial permutation draws (32)
-# N_PERM_DOSE=300         # coverage permutations (33)
-# MANIFEST_NO_HASH=1      # skip md5 in script 42

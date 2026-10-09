@@ -5,13 +5,10 @@
 !/docs/
 !/outputs/
 !/README.md
-!/DESCRIPTION
 !/renv.lock
 !/dengue_vacina_tak003.Rproj
 !/.gitignore
 !/.Rprofile
-!/.Renviron
-!/.Rbuildignore
 
 # data: lists, SI-PNI aggregates, state-year aggregates and the two SIH aggregates
 /data/*
